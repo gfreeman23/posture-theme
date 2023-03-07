@@ -89,7 +89,7 @@
         "full_width": false,
         "color_scheme": "background-1",
         "padding_top": 0,
-        "padding_bottom": 36
+        "padding_bottom": 72
       }
     },
     "featured_collection": {
@@ -115,8 +115,8 @@
         "enable_quick_add": false,
         "columns_mobile": "2",
         "swipe_on_mobile": false,
-        "padding_top": 36,
-        "padding_bottom": 36
+        "padding_top": 72,
+        "padding_bottom": 72
       }
     },
     "video": {
@@ -130,8 +130,8 @@
         "description": "",
         "full_width": false,
         "color_scheme": "inverse",
-        "padding_top": 40,
-        "padding_bottom": 40
+        "padding_top": 72,
+        "padding_bottom": 72
       }
     },
     "collage": {
