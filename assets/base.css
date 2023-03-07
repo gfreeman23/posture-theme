@@ -2712,7 +2712,12 @@ details[open] > .header__submenu {
   }
 
   .header--middle-left .header__inline-menu {
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+    margin-right: 0;
     margin-left: 0;
+
   }
 }
 
