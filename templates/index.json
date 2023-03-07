@@ -80,7 +80,7 @@
     "featured_collection": {
       "type": "featured-collection",
       "settings": {
-        "title": "Products that can Help with Your Posture",
+        "title": "Products that Help your Posture",
         "heading_size": "h2",
         "description": "",
         "show_description": false,
@@ -146,15 +146,16 @@
     "video": {
       "type": "video",
       "settings": {
-        "heading": "",
+        "heading": "How Can We Fix our Posture?",
         "heading_size": "h1",
         "enable_video_looping": false,
         "video_url": "https:\/\/www.youtube.com\/watch?v=uqIGut6q-GQ",
+        "cover_image": "shopify:\/\/shop_images\/glasses-banner.png",
         "description": "",
-        "full_width": true,
-        "color_scheme": "background-1",
-        "padding_top": 36,
-        "padding_bottom": 36
+        "full_width": false,
+        "color_scheme": "inverse",
+        "padding_top": 40,
+        "padding_bottom": 40
       }
     },
     "multicolumn": {
