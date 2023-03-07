@@ -95,7 +95,7 @@
     "featured_collection": {
       "type": "featured-collection",
       "settings": {
-        "title": "Products that Help your Posture",
+        "title": "Products to Help your Posture",
         "heading_size": "h1",
         "description": "",
         "show_description": false,
@@ -179,42 +179,56 @@
         "column1": {
           "type": "column",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "image": "shopify:\/\/shop_images\/icon-yt_3ce89a1a-433f-4965-94ac-1e97a75fd738.png",
+            "title": "YouTube",
+            "text": "",
             "link_label": "",
-            "link": ""
+            "link": "https:\/\/www.youtube.com\/channel\/UC-v_L9k79f2_RYej34j3knQ"
           }
         },
         "column2": {
           "type": "column",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "image": "shopify:\/\/shop_images\/icon-ig_ca82e0cb-20e1-4765-b7ca-f5eb42726e5a.png",
+            "title": "Instagram",
+            "text": "",
             "link_label": "",
-            "link": ""
+            "link": "https:\/\/www.instagram.com\/postureguymike\/"
           }
         },
         "column3": {
           "type": "column",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "image": "shopify:\/\/shop_images\/icon-tok_8652b6c7-d1bc-435d-9149-e530573a52cf.png",
+            "title": "TikTok",
+            "text": "",
             "link_label": "",
-            "link": ""
+            "link": "https:\/\/www.tiktok.com\/@postureguy?lang=en"
+          }
+        },
+        "dccdb3cf-4957-4f87-adcc-cb117709045d": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/facebook-social-media-icon-design-template-vector-22339895.png",
+            "title": "Facebook",
+            "text": "",
+            "link_label": "",
+            "link": "https:\/\/www.facebook.com\/postureguymike\/"
           }
         }
       },
       "block_order": [
         "column1",
         "column2",
-        "column3"
+        "column3",
+        "dccdb3cf-4957-4f87-adcc-cb117709045d"
       ],
       "settings": {
-        "title": "",
+        "title": "Connect with Mike!",
         "heading_size": "h1",
         "image_width": "third",
         "image_ratio": "adapt",
-        "columns_desktop": 3,
+        "columns_desktop": 4,
         "column_alignment": "center",
         "background_style": "none",
         "button_label": "",
@@ -222,7 +236,7 @@
         "color_scheme": "background-1",
         "columns_mobile": "1",
         "swipe_on_mobile": false,
-        "padding_top": 36,
+        "padding_top": 72,
         "padding_bottom": 36
       }
     }
