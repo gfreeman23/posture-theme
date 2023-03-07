@@ -158,17 +158,107 @@
         "padding_bottom": 36
       }
     },
-    "video": {
-      "type": "video",
+    "7121bcc2-1c9f-4ebb-83b6-8135330b2c1a": {
+      "type": "collapsible-content",
+      "blocks": {
+        "template--16752021111009__7121bcc2-1c9f-4ebb-83b6-8135330b2c1a-1678229781640e0167-0": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "How can Posture help me?",
+            "icon": "check_mark",
+            "row_content": "",
+            "page": ""
+          }
+        },
+        "template--16752021111009__7121bcc2-1c9f-4ebb-83b6-8135330b2c1a-1678229781640e0167-1": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Is this the same and Yoga?",
+            "icon": "check_mark",
+            "row_content": "",
+            "page": ""
+          }
+        },
+        "template--16752021111009__7121bcc2-1c9f-4ebb-83b6-8135330b2c1a-1678229781640e0167-2": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "How much time do I need to spend each day?",
+            "icon": "check_mark",
+            "row_content": "",
+            "page": ""
+          }
+        },
+        "template--16752021111009__7121bcc2-1c9f-4ebb-83b6-8135330b2c1a-1678229781640e0167-3": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "How can I get started today?",
+            "icon": "check_mark",
+            "row_content": "",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--16752021111009__7121bcc2-1c9f-4ebb-83b6-8135330b2c1a-1678229781640e0167-0",
+        "template--16752021111009__7121bcc2-1c9f-4ebb-83b6-8135330b2c1a-1678229781640e0167-1",
+        "template--16752021111009__7121bcc2-1c9f-4ebb-83b6-8135330b2c1a-1678229781640e0167-2",
+        "template--16752021111009__7121bcc2-1c9f-4ebb-83b6-8135330b2c1a-1678229781640e0167-3"
+      ],
       "settings": {
-        "heading": "How Can We Fix our Posture?",
+        "caption": "",
+        "heading": "Posture FAQs",
         "heading_size": "h1",
-        "enable_video_looping": false,
-        "video_url": "https:\/\/www.youtube.com\/watch?v=uqIGut6q-GQ",
-        "cover_image": "shopify:\/\/shop_images\/glasses-banner.png",
-        "description": "",
-        "full_width": false,
+        "heading_alignment": "center",
+        "layout": "none",
+        "color_scheme": "background-2",
+        "container_color_scheme": "background-1",
+        "open_first_collapsible_row": false,
+        "image_ratio": "adapt",
+        "desktop_layout": "image_second",
+        "padding_top": 72,
+        "padding_bottom": 72
+      }
+    },
+    "b9f709ae-3175-4a88-8757-a05f74ecf9c0": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--16752021111009__b9f709ae-3175-4a88-8757-a05f74ecf9c0-1678229958304e0ad3-0": {
+          "type": "column",
+          "settings": {
+            "title": "Book a 1 on 1 call with Mike!",
+            "text": "<p>Talk to Posture Guy Mike and Start Perfecting Your Posture Today!<\/p><p><\/p><ul><li>Understand the Importance of Good Posture<\/li><li>Receive Personalized Tips and Recommendations from Posture Guy Mike<\/li><li>Learn to Improve Your Posture and Prevent Pain and Discomfort<\/li><li>Identify Areas That Need Improvement<\/li><li>Learn Practical Exercises and Stretches<\/li><\/ul>",
+            "link_label": "Book Now!",
+            "link": "https:\/\/calendly.com\/postureguymike\/1-on-1-with-posture-guy-mike?month=2023-03"
+          }
+        },
+        "template--16752021111009__b9f709ae-3175-4a88-8757-a05f74ecf9c0-1678229958304e0ad3-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/about_mike.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--16752021111009__b9f709ae-3175-4a88-8757-a05f74ecf9c0-1678229958304e0ad3-0",
+        "template--16752021111009__b9f709ae-3175-4a88-8757-a05f74ecf9c0-1678229958304e0ad3-1"
+      ],
+      "settings": {
+        "title": "Want to Talk to Mike?",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 2,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "Schedule Now!",
+        "button_link": "https:\/\/calendly.com\/postureguymike\/1-on-1-with-posture-guy-mike?month=2023-03",
         "color_scheme": "inverse",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
         "padding_top": 72,
         "padding_bottom": 72
       }
@@ -247,7 +337,8 @@
     "19949a06-826b-448c-95da-d500f8e5f140",
     "featured_collection",
     "collage",
-    "video",
+    "7121bcc2-1c9f-4ebb-83b6-8135330b2c1a",
+    "b9f709ae-3175-4a88-8757-a05f74ecf9c0",
     "multicolumn"
   ]
 }
