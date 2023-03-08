@@ -2722,6 +2722,15 @@ details[open] > .header__submenu {
   }
 }
 
+.header__inline-menu .nav-image {
+  display: flex;
+  align-items: center;
+}
+
+.header__inline-menu .nav-image img {
+  width: 40px;
+}
+
 .header__menu {
   padding: 0 1rem;
 }
