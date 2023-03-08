@@ -236,7 +236,7 @@
           "type": "column",
           "settings": {
             "title": "Book a 1 on 1 call with Mike!",
-            "text": "<p>Talk to Posture Guy Mike and Start Perfecting Your Posture Today!<\/p><p><\/p><ul><li>Understand the Importance of Good Posture<\/li><li>Receive Personalized Tips and Recommendations<\/li><li>Learn to Improve Your Posture<\/li><\/ul><p>30 min - $150 | 1 hour - $200<\/p>",
+            "text": "<p>Talk to Posture Guy Mike and Start Perfecting Your Posture Today!<\/p><p><br\/>Understand the Importance of Good Posture Receive Personalized Tips and Recommendations<br\/><br\/><\/p><p>30 min - $150 | 1 hour - $200<\/p>",
             "link_label": "",
             "link": ""
           }
