@@ -164,36 +164,45 @@
         "template--16752021111009__7121bcc2-1c9f-4ebb-83b6-8135330b2c1a-1678229781640e0167-0": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "How can Posture help me?",
+            "heading": "What is good posture",
             "icon": "question_mark",
-            "row_content": "",
+            "row_content": "<p>Good posture is the position in which your body is aligned in a way that places the least amount of stress on your muscles and joints. It involves standing or sitting up straight with your shoulders relaxed, your chin parallel to the ground, and your feet flat on the floor.<\/p>",
             "page": ""
           }
         },
         "template--16752021111009__7121bcc2-1c9f-4ebb-83b6-8135330b2c1a-1678229781640e0167-1": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Is this the same and Yoga?",
+            "heading": "Why is good posture important?",
             "icon": "question_mark",
-            "row_content": "",
+            "row_content": "<p>Good posture is important for several reasons. It can reduce strain on your muscles and joints, decrease your risk of developing musculoskeletal problems, and improve your overall appearance and confidence.<\/p>",
             "page": ""
           }
         },
         "template--16752021111009__7121bcc2-1c9f-4ebb-83b6-8135330b2c1a-1678229781640e0167-2": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "How much time do I need to spend each day?",
+            "heading": "How can I improve my posture?",
             "icon": "question_mark",
-            "row_content": "",
+            "row_content": "<p>You can improve your posture by practicing good habits, such as sitting up straight, stretching regularly, and exercising to strengthen your core muscles. You can also use ergonomic furniture, such as an adjustable chair or standing desk, to improve your posture while you work.<\/p>",
             "page": ""
           }
         },
         "template--16752021111009__7121bcc2-1c9f-4ebb-83b6-8135330b2c1a-1678229781640e0167-3": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "How can I get started today?",
+            "heading": "Can poor posture cause health problems?",
             "icon": "question_mark",
-            "row_content": "",
+            "row_content": "<p>Yes, poor posture can lead to a variety of health problems, including back pain, neck pain, headaches, and even digestive problems. It can also make you more susceptible to injuries and can affect your balance and coordination.<\/p>",
+            "page": ""
+          }
+        },
+        "2b73ae70-4ec0-45f5-bb49-09242ece96f9": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "How can I tell if my posture is good or bad?",
+            "icon": "question_mark",
+            "row_content": "<p>One way to assess your posture is to stand with your back against a wall and your feet about six inches away. Your heels, buttocks, shoulders, and head should all be touching the wall. If there is a gap between your lower back and the wall, or if your head or shoulders are not touching the wall, then you may have poor posture. You can also have a healthcare provider or physical therapist assess your posture.<\/p>",
             "page": ""
           }
         }
@@ -202,7 +211,8 @@
         "template--16752021111009__7121bcc2-1c9f-4ebb-83b6-8135330b2c1a-1678229781640e0167-0",
         "template--16752021111009__7121bcc2-1c9f-4ebb-83b6-8135330b2c1a-1678229781640e0167-1",
         "template--16752021111009__7121bcc2-1c9f-4ebb-83b6-8135330b2c1a-1678229781640e0167-2",
-        "template--16752021111009__7121bcc2-1c9f-4ebb-83b6-8135330b2c1a-1678229781640e0167-3"
+        "template--16752021111009__7121bcc2-1c9f-4ebb-83b6-8135330b2c1a-1678229781640e0167-3",
+        "2b73ae70-4ec0-45f5-bb49-09242ece96f9"
       ],
       "settings": {
         "caption": "",
