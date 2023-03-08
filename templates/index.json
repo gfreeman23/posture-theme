@@ -165,7 +165,7 @@
           "type": "collapsible_row",
           "settings": {
             "heading": "How can Posture help me?",
-            "icon": "check_mark",
+            "icon": "question_mark",
             "row_content": "",
             "page": ""
           }
@@ -174,7 +174,7 @@
           "type": "collapsible_row",
           "settings": {
             "heading": "Is this the same and Yoga?",
-            "icon": "check_mark",
+            "icon": "question_mark",
             "row_content": "",
             "page": ""
           }
@@ -183,7 +183,7 @@
           "type": "collapsible_row",
           "settings": {
             "heading": "How much time do I need to spend each day?",
-            "icon": "check_mark",
+            "icon": "question_mark",
             "row_content": "",
             "page": ""
           }
@@ -192,7 +192,7 @@
           "type": "collapsible_row",
           "settings": {
             "heading": "How can I get started today?",
-            "icon": "check_mark",
+            "icon": "question_mark",
             "row_content": "",
             "page": ""
           }
@@ -226,8 +226,8 @@
           "type": "column",
           "settings": {
             "title": "Book a 1 on 1 call with Mike!",
-            "text": "<p>Talk to Posture Guy Mike and Start Perfecting Your Posture Today!<\/p><p><\/p><ul><li>Understand the Importance of Good Posture<\/li><li>Receive Personalized Tips and Recommendations from Posture Guy Mike<\/li><li>Learn to Improve Your Posture and Prevent Pain and Discomfort<\/li><li>Identify Areas That Need Improvement<\/li><li>Learn Practical Exercises and Stretches<\/li><\/ul>",
-            "link_label": "Book Now!",
+            "text": "<p>Talk to Posture Guy Mike and Start Perfecting Your Posture Today!<\/p><p><\/p><ul><li>Understand the Importance of Good Posture<\/li><li>Receive Personalized Tips and Recommendations<\/li><li>Learn to Improve Your Posture<\/li><li>Identify Areas That Need Improvement<\/li><li>Learn Practical Exercises<\/li><\/ul>",
+            "link_label": "Talk to Mike!",
             "link": "https:\/\/calendly.com\/postureguymike\/1-on-1-with-posture-guy-mike?month=2023-03"
           }
         },
