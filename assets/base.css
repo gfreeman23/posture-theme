@@ -2256,8 +2256,9 @@ product-info .loading-overlay:not(.hidden) ~ *,
 }
 
 .announcement-bar__message {
-  padding: 1rem 0;
+  padding: 5px 0;
   margin: 0;
+  font-size: 70%;
   letter-spacing: 0.1rem;
 }
 
@@ -2727,6 +2728,8 @@ details[open] > .header__submenu {
 
 .header__menu-item {
   padding: 1.2rem;
+  font-family: var(--font-heading-family);
+  font-size: 100%;
   text-decoration: none;
   color: rgba(var(--color-foreground), 0.75);
 }
