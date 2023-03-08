@@ -256,7 +256,7 @@
         "background_style": "none",
         "button_label": "Schedule Now!",
         "button_link": "https:\/\/calendly.com\/postureguymike\/1-on-1-with-posture-guy-mike?month=2023-03",
-        "color_scheme": "inverse",
+        "color_scheme": "background-1",
         "columns_mobile": "1",
         "swipe_on_mobile": false,
         "padding_top": 72,
