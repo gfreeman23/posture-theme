@@ -226,9 +226,9 @@
           "type": "column",
           "settings": {
             "title": "Book a 1 on 1 call with Mike!",
-            "text": "<p>Talk to Posture Guy Mike and Start Perfecting Your Posture Today!<\/p><p><\/p><ul><li>Understand the Importance of Good Posture<\/li><li>Receive Personalized Tips and Recommendations<\/li><li>Learn to Improve Your Posture<\/li><li>Identify Areas That Need Improvement<\/li><li>Learn Practical Exercises<\/li><\/ul>",
-            "link_label": "Talk to Mike!",
-            "link": "https:\/\/calendly.com\/postureguymike\/1-on-1-with-posture-guy-mike?month=2023-03"
+            "text": "<p>Talk to Posture Guy Mike and Start Perfecting Your Posture Today!<\/p><p><\/p><ul><li>Understand the Importance of Good Posture<\/li><li>Receive Personalized Tips and Recommendations<\/li><li>Learn to Improve Your Posture<\/li><\/ul><p>30 min - $150 | 1 hour - $200<\/p>",
+            "link_label": "",
+            "link": ""
           }
         },
         "template--16752021111009__b9f709ae-3175-4a88-8757-a05f74ecf9c0-1678229958304e0ad3-1": {
