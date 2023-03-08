@@ -528,10 +528,6 @@ blockquote {
   }
 }
 
-li p {
-  display: inline;
-}
-
 .caption {
   font-size: 1rem;
   letter-spacing: 0.07rem;
@@ -542,6 +538,10 @@ li p {
   .caption {
     font-size: 1.2rem;
   }
+}
+
+li p {
+  display: inline;
 }
 
 .caption-with-letter-spacing {
