@@ -119,31 +119,20 @@
             "link_label": "",
             "link": ""
           }
-        },
-        "391ff843-9f1a-4a63-bfc5-aa883f6db50f": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/benefit-4.jpg",
-            "title": "Save Money",
-            "text": "<p>Reduce your dependency of chiropractics, physical therapy, and pain medications.<\/p>",
-            "link_label": "",
-            "link": ""
-          }
         }
       },
       "block_order": [
         "template--16752021111009__f1eaaff4-260a-40e9-b9a7-3f9de683ea5e-1678311398314a2051-0",
         "template--16752021111009__f1eaaff4-260a-40e9-b9a7-3f9de683ea5e-1678311398314a2051-1",
         "template--16752021111009__f1eaaff4-260a-40e9-b9a7-3f9de683ea5e-1678311398314a2051-2",
-        "753af712-c8de-4dd2-93fc-777e63f7a7e2",
-        "391ff843-9f1a-4a63-bfc5-aa883f6db50f"
+        "753af712-c8de-4dd2-93fc-777e63f7a7e2"
       ],
       "settings": {
         "title": "",
         "heading_size": "h1",
         "image_width": "full",
         "image_ratio": "adapt",
-        "columns_desktop": 5,
+        "columns_desktop": 4,
         "column_alignment": "left",
         "background_style": "none",
         "button_label": "",
@@ -187,7 +176,7 @@
         "enable_desktop_slider": true,
         "color_scheme": "background-2",
         "image_ratio": "adapt",
-        "show_secondary_image": true,
+        "show_secondary_image": false,
         "show_vendor": false,
         "show_rating": true,
         "enable_quick_add": false,
@@ -290,7 +279,7 @@
           "settings": {
             "heading": "How can I improve my posture?",
             "icon": "question_mark",
-            "row_content": "<p>You can improve your posture by practicing good habits, such as sitting up straight, doing posture exercises daily, and exercising to strengthen your core muscles. You can also use ergonomic furniture, such as an adjustable chair or standing desk, to improve your posture while you work.<\/p>",
+            "row_content": "<p>You can improve your posture by practicing good habits, such as sitting up straight, stretching regularly, and exercising to strengthen your core muscles. You can also use ergonomic furniture, such as an adjustable chair or standing desk, to improve your posture while you work.<\/p>",
             "page": ""
           }
         },
