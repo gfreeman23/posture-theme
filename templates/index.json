@@ -449,73 +449,6 @@
         "padding_top": 72,
         "padding_bottom": 72
       }
-    },
-    "multicolumn": {
-      "type": "multicolumn",
-      "blocks": {
-        "column1": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/icon-yt_3ce89a1a-433f-4965-94ac-1e97a75fd738.png",
-            "title": "YouTube",
-            "text": "<p>10K followers<\/p>",
-            "link_label": "",
-            "link": "https:\/\/www.youtube.com\/channel\/UC-v_L9k79f2_RYej34j3knQ"
-          }
-        },
-        "column2": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/icon-ig_ca82e0cb-20e1-4765-b7ca-f5eb42726e5a.png",
-            "title": "Instagram",
-            "text": "<p>675K followers<\/p>",
-            "link_label": "",
-            "link": "https:\/\/www.instagram.com\/postureguymike\/"
-          }
-        },
-        "column3": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/icon-tok_8652b6c7-d1bc-435d-9149-e530573a52cf.png",
-            "title": "TikTok",
-            "text": "<p>461k followers<\/p>",
-            "link_label": "",
-            "link": "https:\/\/www.tiktok.com\/@postureguy?lang=en"
-          }
-        },
-        "dccdb3cf-4957-4f87-adcc-cb117709045d": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/facebook-social-media-icon-design-template-vector-22339895.png",
-            "title": "Facebook",
-            "text": "<p>630K followers<\/p>",
-            "link_label": "",
-            "link": "https:\/\/www.facebook.com\/postureguymike\/"
-          }
-        }
-      },
-      "block_order": [
-        "column1",
-        "column2",
-        "column3",
-        "dccdb3cf-4957-4f87-adcc-cb117709045d"
-      ],
-      "settings": {
-        "title": "Connect with Mike!",
-        "heading_size": "h1",
-        "image_width": "third",
-        "image_ratio": "adapt",
-        "columns_desktop": 6,
-        "column_alignment": "left",
-        "background_style": "none",
-        "button_label": "",
-        "button_link": "",
-        "color_scheme": "accent-1",
-        "columns_mobile": "2",
-        "swipe_on_mobile": true,
-        "padding_top": 72,
-        "padding_bottom": 4
-      }
     }
   },
   "order": [
@@ -529,7 +462,6 @@
     "7121bcc2-1c9f-4ebb-83b6-8135330b2c1a",
     "b9f709ae-3175-4a88-8757-a05f74ecf9c0",
     "e57b1c77-b577-415e-ad5d-3db6e989e1a7",
-    "9f046db1-8b2c-4222-9216-268f9cf4423e",
-    "multicolumn"
+    "9f046db1-8b2c-4222-9216-268f9cf4423e"
   ]
 }
