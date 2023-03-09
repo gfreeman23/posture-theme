@@ -1473,3 +1473,21 @@ a.product__text {
     display: none;
   }
 }
+
+
+/* REVIEWS */
+section .jdgm-rev {
+  padding: 36px 0;
+}
+section .jdgm-rev__header,
+section .jdgm-rev__body {
+  font-size: 80%;
+}
+section .jdgm-rev__title {
+  font-family: var(--font-heading-family);
+  font-size: 150%;
+  text-transform: uppercase;
+}
+section .jdgm-rev__custom-form {
+  display: none;
+}
