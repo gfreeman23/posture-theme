@@ -3147,7 +3147,7 @@ details-disclosure > details {
 /* SECTIONS */
 
 /* REVIEWS - Featured Products */
-.card-wrapper .rating-star {
+.product-grid-container .card-wrapper .rating-star {
   --letter-spacing: .1;
 }
 /* REVIEWS - PDP */
