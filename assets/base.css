@@ -3176,6 +3176,10 @@ section .jdgm-rev__custom-form {
   display: block;
   position: relative;
 }
+#shopify-section-footer-multicolumn .multicolumn-card-spacing {
+  padding: 0 0 20px 0;
+  margin: 0;
+}
 #shopify-section-footer-multicolumn .multicolumn-card__info {
   padding: 0;
 }
