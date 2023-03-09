@@ -3166,3 +3166,16 @@ section .jdgm-rev__title {
 section .jdgm-rev__custom-form {
   display: none;
 }
+
+
+/* FOOTER - SOCIALS */
+#shopify-section-footer-multicolumn .media {
+  max-width: 80px;
+}
+#shopify-section-footer-multicolumn .media img {
+  display: block;
+  position: relative;
+}
+#shopify-section-footer-multicolumn .multicolumn-card__info {
+  padding: 0;
+}
