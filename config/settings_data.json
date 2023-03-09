@@ -137,6 +137,36 @@
         "settings": {
           "color_scheme": "background-1"
         }
+      },
+      "footer-multicolumn": {
+        "type": "footer-multicolumn",
+        "blocks": {
+          "99772e12-9c3d-4a0a-9a62-776c1a12da7f": {
+            "type": "column",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/facebook-social-media-icon-design-template-vector-22339895.png",
+              "title": "Facebook",
+              "text": "<p>630K followers<\/p>",
+              "link_label": "",
+              "link": ""
+            }
+          }
+        },
+        "block_order": [
+          "99772e12-9c3d-4a0a-9a62-776c1a12da7f"
+        ],
+        "settings": {
+          "title": "Connect with Mike!",
+          "columns_desktop": 3,
+          "background_style": "primary",
+          "button_label": "",
+          "button_link": "",
+          "color_scheme": "accent-1",
+          "columns_mobile": "1",
+          "swipe_on_mobile": false,
+          "padding_top": 36,
+          "padding_bottom": 36
+        }
       }
     },
     "content_for_index": [
