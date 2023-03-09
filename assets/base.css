@@ -3141,3 +3141,28 @@ details-disclosure > details {
 .rte blockquote > * {
   margin: -0.5rem 0 -0.5rem 0;
 }
+
+
+
+/* SECTIONS */
+
+/* REVIEWS - Featured Products */
+section .card-wrapper .rating-star {
+  --letter-spacing: .1;
+}
+/* REVIEWS - PDP */
+section .jdgm-rev {
+  padding: 36px 0;
+}
+section .jdgm-rev__header,
+section .jdgm-rev__body {
+  font-size: 80%;
+}
+section .jdgm-rev__title {
+  font-family: var(--font-heading-family);
+  font-size: 150%;
+  text-transform: uppercase;
+}
+section .jdgm-rev__custom-form {
+  display: none;
+}
