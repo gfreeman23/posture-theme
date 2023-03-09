@@ -166,82 +166,15 @@
 
 {% schema %}
 {
-  "name": "t:sections.footermulti.name",
+  "name": "Footer Socials",
   "class": "section",
   "tag": "section",
-  "disabled_on": {
-    "groups": ["header", "footer"]
-  },
   "settings": [
     {
       "type": "inline_richtext",
       "id": "title",
       "default": "footermulti",
-      "label": "t:sections.footermulti.settings.title.label"
-    },
-    {
-      "type": "select",
-      "id": "heading_size",
-      "options": [
-        {
-          "value": "h2",
-          "label": "t:sections.all.heading_size.options__1.label"
-        },
-        {
-          "value": "h1",
-          "label": "t:sections.all.heading_size.options__2.label"
-        },
-        {
-          "value": "h0",
-          "label": "t:sections.all.heading_size.options__3.label"
-        }
-      ],
-      "default": "h1",
-      "label": "t:sections.all.heading_size.label"
-    },
-    {
-      "type": "select",
-      "id": "image_width",
-      "options": [
-        {
-          "value": "third",
-          "label": "t:sections.footermulti.settings.image_width.options__1.label"
-        },
-        {
-          "value": "half",
-          "label": "t:sections.footermulti.settings.image_width.options__2.label"
-        },
-        {
-          "value": "full",
-          "label": "t:sections.footermulti.settings.image_width.options__3.label"
-        }
-      ],
-      "default": "full",
-      "label": "t:sections.footermulti.settings.image_width.label"
-    },
-    {
-      "type": "select",
-      "id": "image_ratio",
-      "options": [
-        {
-          "value": "adapt",
-          "label": "t:sections.footermulti.settings.image_ratio.options__1.label"
-        },
-        {
-          "value": "portrait",
-          "label": "t:sections.footermulti.settings.image_ratio.options__2.label"
-        },
-        {
-          "value": "square",
-          "label": "t:sections.footermulti.settings.image_ratio.options__3.label"
-        },
-        {
-          "value": "circle",
-          "label": "t:sections.footermulti.settings.image_ratio.options__4.label"
-        }
-      ],
-      "default": "adapt",
-      "label": "t:sections.footermulti.settings.image_ratio.label"
+      "label": "Title"
     },
     {
       "type": "range",
@@ -250,23 +183,7 @@
       "max": 6,
       "step": 1,
       "default": 3,
-      "label": "t:sections.footermulti.settings.columns_desktop.label"
-    },
-    {
-      "type": "select",
-      "id": "column_alignment",
-      "options": [
-        {
-          "value": "left",
-          "label": "t:sections.footermulti.settings.column_alignment.options__1.label"
-        },
-        {
-          "value": "center",
-          "label": "t:sections.footermulti.settings.column_alignment.options__2.label"
-        }
-      ],
-      "default": "left",
-      "label": "t:sections.footermulti.settings.column_alignment.label"
+      "label": "Columns on Desktop?"
     },
     {
       "type": "select",
