@@ -1063,3 +1063,14 @@ class ProductRecommendations extends HTMLElement {
 }
 
 customElements.define('product-recommendations', ProductRecommendations);
+
+
+
+
+// New Scripts
+var links = document.querySelectorAll('a');
+for (var i = 0; i < links.length; i++) {
+  if (links[i].hostname != window.location.hostname) {
+    links[i].setAttribute('target', '_blank');
+  }
+}
