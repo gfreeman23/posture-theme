@@ -327,15 +327,6 @@
     "b9f709ae-3175-4a88-8757-a05f74ecf9c0": {
       "type": "multicolumn",
       "blocks": {
-        "template--16752021111009__b9f709ae-3175-4a88-8757-a05f74ecf9c0-1678229958304e0ad3-0": {
-          "type": "column",
-          "settings": {
-            "title": "Book a 1 on 1 call with Mike!",
-            "text": "<p>Talk to Posture Guy Mike and Start Perfecting Your Posture Today!<\/p><p><br\/>Understand the Importance of Good Posture Receive Personalized Tips and Recommendations<br\/><br\/><\/p><p>30 min - $150 | 1 hour - $200<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
         "template--16752021111009__b9f709ae-3175-4a88-8757-a05f74ecf9c0-1678229958304e0ad3-1": {
           "type": "column",
           "settings": {
@@ -345,11 +336,20 @@
             "link_label": "",
             "link": ""
           }
+        },
+        "template--16752021111009__b9f709ae-3175-4a88-8757-a05f74ecf9c0-1678229958304e0ad3-0": {
+          "type": "column",
+          "settings": {
+            "title": "Book a 1 on 1 call with Mike!",
+            "text": "<p>Talk to Posture Guy Mike and Start Perfecting Your Posture Today!<\/p><p><br\/>Understand the Importance of Good Posture Receive Personalized Tips and Recommendations<br\/><br\/><\/p><p>30 min - $150 | 1 hour - $200<\/p>",
+            "link_label": "",
+            "link": ""
+          }
         }
       },
       "block_order": [
-        "template--16752021111009__b9f709ae-3175-4a88-8757-a05f74ecf9c0-1678229958304e0ad3-0",
-        "template--16752021111009__b9f709ae-3175-4a88-8757-a05f74ecf9c0-1678229958304e0ad3-1"
+        "template--16752021111009__b9f709ae-3175-4a88-8757-a05f74ecf9c0-1678229958304e0ad3-1",
+        "template--16752021111009__b9f709ae-3175-4a88-8757-a05f74ecf9c0-1678229958304e0ad3-0"
       ],
       "settings": {
         "title": "Talk to Mike about Posture",
