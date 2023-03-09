@@ -9,14 +9,7 @@
           "type": "link_list",
           "settings": {
             "heading": "Quick links",
-            "menu": "footer"
-          }
-        },
-        "footer-1": {
-          "type": "link_list",
-          "settings": {
-            "heading": "Info",
-            "menu": "footer"
+            "menu": "new-footer-nav"
           }
         },
         "footer-2": {
@@ -29,7 +22,6 @@
       },
       "block_order": [
         "footer-0",
-        "footer-1",
         "footer-2"
       ],
       "settings": {
