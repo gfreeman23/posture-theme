@@ -190,7 +190,7 @@
         ],
         "settings": {
           "title": "Connect with Mike!",
-          "columns_desktop": 4,
+          "columns_desktop": 6,
           "background_style": "primary",
           "color_scheme": "accent-1",
           "columns_mobile": "3",
