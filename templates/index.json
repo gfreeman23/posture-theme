@@ -510,11 +510,11 @@
         "background_style": "none",
         "button_label": "",
         "button_link": "",
-        "color_scheme": "background-1",
+        "color_scheme": "accent-1",
         "columns_mobile": "2",
         "swipe_on_mobile": true,
         "padding_top": 72,
-        "padding_bottom": 72
+        "padding_bottom": 4
       }
     }
   },
