@@ -154,7 +154,7 @@
         "cover_image": "shopify:\/\/shop_images\/glasses-banner.png",
         "description": "",
         "full_width": false,
-        "color_scheme": "accent-2",
+        "color_scheme": "inverse",
         "padding_top": 72,
         "padding_bottom": 72
       }
@@ -509,7 +509,7 @@
         "background_style": "none",
         "button_label": "",
         "button_link": "",
-        "color_scheme": "accent-2",
+        "color_scheme": "inverse",
         "columns_mobile": "2",
         "swipe_on_mobile": true,
         "padding_top": 72,
