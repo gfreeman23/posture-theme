@@ -156,12 +156,12 @@
           "99772e12-9c3d-4a0a-9a62-776c1a12da7f"
         ],
         "settings": {
-          "title": "footermulti",
+          "title": "Connect with Mike!",
           "columns_desktop": 3,
           "background_style": "primary",
-          "button_label": "Button label",
+          "button_label": "",
           "button_link": "",
-          "color_scheme": "background-1",
+          "color_scheme": "accent-1",
           "columns_mobile": "1",
           "swipe_on_mobile": false,
           "padding_top": 36,
