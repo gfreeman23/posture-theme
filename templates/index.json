@@ -119,20 +119,30 @@
             "link_label": "",
             "link": ""
           }
+        },
+        "391ff843-9f1a-4a63-bfc5-aa883f6db50f": {
+          "type": "column",
+          "settings": {
+            "title": "Save Money",
+            "text": "<p>Reduce your dependency of chiropractics, physical therapy, and pain medications.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
         }
       },
       "block_order": [
         "template--16752021111009__f1eaaff4-260a-40e9-b9a7-3f9de683ea5e-1678311398314a2051-0",
         "template--16752021111009__f1eaaff4-260a-40e9-b9a7-3f9de683ea5e-1678311398314a2051-1",
         "template--16752021111009__f1eaaff4-260a-40e9-b9a7-3f9de683ea5e-1678311398314a2051-2",
-        "753af712-c8de-4dd2-93fc-777e63f7a7e2"
+        "753af712-c8de-4dd2-93fc-777e63f7a7e2",
+        "391ff843-9f1a-4a63-bfc5-aa883f6db50f"
       ],
       "settings": {
         "title": "",
         "heading_size": "h1",
         "image_width": "full",
         "image_ratio": "adapt",
-        "columns_desktop": 4,
+        "columns_desktop": 5,
         "column_alignment": "left",
         "background_style": "none",
         "button_label": "",
