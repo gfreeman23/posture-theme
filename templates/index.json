@@ -123,6 +123,7 @@
         "391ff843-9f1a-4a63-bfc5-aa883f6db50f": {
           "type": "column",
           "settings": {
+            "image": "shopify:\/\/shop_images\/benefit-4.jpg",
             "title": "Save Money",
             "text": "<p>Reduce your dependency of chiropractics, physical therapy, and pain medications.<\/p>",
             "link_label": "",
