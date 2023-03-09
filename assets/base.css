@@ -3169,6 +3169,10 @@ section .jdgm-rev__custom-form {
 
 
 /* FOOTER - SOCIALS */
+#shopify-section-footer-multicolumn a {
+  text-decoration: none;
+  color: rgb(var(--color-foreground));
+}
 #shopify-section-footer-multicolumn .media {
   max-width: 80px;
 }
