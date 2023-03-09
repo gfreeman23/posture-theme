@@ -3146,6 +3146,13 @@ details-disclosure > details {
 
 /* SECTIONS */
 
+/* FULL WIDTH BANNER */
+section .banner__box.content-container {
+  padding-left: 0;
+  padding-right: 0;
+}
+
+
 /* REVIEWS - Featured Products */
 .collection .card-wrapper .rating-star {
   --letter-spacing: .1;
