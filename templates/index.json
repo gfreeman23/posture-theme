@@ -292,12 +292,30 @@
             "page": ""
           }
         },
+        "cf1774e3-5ef3-4bc5-95e6-42c124cb2181": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Should I wear a posture brace?",
+            "icon": "question_mark",
+            "row_content": "",
+            "page": ""
+          }
+        },
         "2b73ae70-4ec0-45f5-bb49-09242ece96f9": {
           "type": "collapsible_row",
           "settings": {
             "heading": "How can I tell if my posture is good or bad?",
             "icon": "question_mark",
             "row_content": "<p>One way to assess your posture is to stand with your back against a wall and your feet about six inches away. Your heels, buttocks, shoulders, and head should all be touching the wall. If there is a gap between your lower back and the wall, or if your head or shoulders are not touching the wall, then you may have poor posture. You can also have a healthcare provider or physical therapist assess your posture.<\/p>",
+            "page": ""
+          }
+        },
+        "55bec82a-354c-4656-a198-ff19c0c2a1d9": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Do I need ergonomic furniture to improve my posture?",
+            "icon": "question_mark",
+            "row_content": "",
             "page": ""
           }
         }
@@ -307,7 +325,9 @@
         "template--16752021111009__7121bcc2-1c9f-4ebb-83b6-8135330b2c1a-1678229781640e0167-1",
         "template--16752021111009__7121bcc2-1c9f-4ebb-83b6-8135330b2c1a-1678229781640e0167-2",
         "template--16752021111009__7121bcc2-1c9f-4ebb-83b6-8135330b2c1a-1678229781640e0167-3",
-        "2b73ae70-4ec0-45f5-bb49-09242ece96f9"
+        "cf1774e3-5ef3-4bc5-95e6-42c124cb2181",
+        "2b73ae70-4ec0-45f5-bb49-09242ece96f9",
+        "55bec82a-354c-4656-a198-ff19c0c2a1d9"
       ],
       "settings": {
         "caption": "",
