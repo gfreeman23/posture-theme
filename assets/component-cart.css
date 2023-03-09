@@ -221,3 +221,15 @@ cart-items {
     gap: 1rem;
   }
 }
+
+
+/* Hide Footer on Cart (on mobile) */
+@media screen and (max-width: 989px) {
+  #MainContent {
+    padding-bottom: 80px;
+  }
+  #shopify-section-footer-multicolumn,
+  .shopify-section-group-footer-group {
+    display: none;
+  }
+}
