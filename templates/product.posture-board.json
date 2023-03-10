@@ -136,7 +136,7 @@
         "image-with-text-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "text": "<p>By simply using the Posture Board with your back against the wall, extending your mid-back, and properly positioning your shoulders, you can remove the tension from your upper back and neck muscles, and improve your breathing.<\/p>",
             "text_style": "body"
           }
         }
@@ -146,8 +146,8 @@
         "image-with-text-1"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/DSV_8243.jpg",
-        "height": "small",
+        "image": "shopify:\/\/shop_images\/before_after.jpg",
+        "height": "medium",
         "desktop_image_width": "medium",
         "layout": "text_first",
         "desktop_content_position": "top",
