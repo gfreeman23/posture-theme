@@ -122,8 +122,9 @@
 .footer-block--newsletter {
   display: flex;
   align-items: flex-end;
-  margin-top: 3rem;
+  margin-top: 0;
   gap: 1rem;
+  margin-bottom: 72px;
 }
 
 .footer-block--newsletter:only-child {
@@ -170,7 +171,7 @@
 }
 
 .footer-block__newsletter {
-  text-align: center;
+  text-align: left;
   flex-grow: 1;
 }
 

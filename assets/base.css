@@ -3200,6 +3200,7 @@ section .jdgm-rev__custom-form {
 /* Text */
 #shopify-section-footer-multicolumn .rte {
   color: rgba(var(--color-foreground),.75);
+  font-size: 80%;
 }
 @media screen and (max-width: 768px) {
   #shopify-section-footer-multicolumn .rte {

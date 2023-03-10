@@ -118,9 +118,6 @@
                 {%- endform -%}
               </div>
             {%- endif -%}
-            {%- if section.settings.show_social and has_social_icons -%}
-              {%- render 'social-icons' -%}
-            {%- endif -%}
           </div>
           <div class="footer__blocks-wrapper grid grid--1-col grid--2-col grid--4-col-tablet {{ footer_grid_class }}">
             {%- for block in section.blocks -%}
@@ -210,6 +207,9 @@
               </div>
             {%- endfor -%}
           </div>
+          {%- if section.settings.show_social and has_social_icons -%}
+            {%- render 'social-icons' -%}
+          {%- endif -%}
         {%- endif -%}
       </div>
     {%- endunless -%}
