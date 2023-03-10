@@ -78,7 +78,7 @@
           "settings": {
             "heading": "Instructions",
             "icon": "clipboard",
-            "content": "<p>1. Place the board up against a wall<br\/><br\/>2. Start with the lowest setting (you can raise it the more you use the board)<br\/><br\/>3. Straddle the Posture Board<br\/><br\/>4. Slowly step on the board<br\/><br\/>5. Keep your feet fist distance apart, slightly pigeon toed<br\/><br\/>6. Keep your heels, back, hips, and upper back against the wall<br\/><br\/>7. Keep your head in a relaxed neutral position looking straight<br\/><br\/>8. Stand on the board for 5-10 minutes per day<br\/><br\/>LEARN MORE <a href=\"https:\/\/www.postureguymike.com\/blogs\/postural-therapy\/what-is-a-posture-board\" target=\"_blank\" title=\"https:\/\/www.postureguymike.com\/blogs\/postural-therapy\/what-is-a-posture-board\">HERE<\/a><\/p>",
+            "content": "<ol><li>Put on the Posture Toes<\/li><li>They can be worn over the Posture socks, under regular socks or inside shoes<\/li><li>Wear them for 10 minutes - overnight. If you feel pain, take them off immediately. If you do not feel pain keep them on as long as possible<\/li><li>Each day try to wear them for longer periods of time<\/li><\/ol>",
             "page": ""
           }
         }
@@ -125,7 +125,7 @@
         "image-with-text-1": {
           "type": "text",
           "settings": {
-            "text": "<p>By simply using the Posture Board with your back against the wall, extending your mid-back, and properly positioning your shoulders, you can remove the tension from your upper back and neck muscles, and improve your breathing.<\/p>",
+            "text": "<p>The spreading apart “splaying” of your toes is crucial for providing fundamental anatomical optimization of your weight bearing feet. They are, after all, the foundation on which your skeletal posture and function depends. <\/p>",
             "text_style": "body"
           }
         }
@@ -135,7 +135,7 @@
         "image-with-text-1"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/before_after.jpg",
+        "image": "shopify:\/\/shop_images\/before_after_toes.jpg",
         "height": "medium",
         "desktop_image_width": "medium",
         "layout": "text_first",
