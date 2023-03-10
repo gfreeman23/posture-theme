@@ -3171,7 +3171,7 @@ section .jdgm-rev__custom-form {
 /* FOOTER - SOCIALS */
 /* Layout */
 #shopify-section-footer-multicolumn .multicolumn-list__item {
-  max-width: 200px;
+  max-width: 150px;
 }
 #shopify-section-footer-multicolumn a {
   text-decoration: none;
