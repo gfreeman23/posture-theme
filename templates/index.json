@@ -361,7 +361,7 @@
           "type": "column",
           "settings": {
             "title": "Book a 1 on 1 call with Mike!",
-            "text": "<p>Receive personalized tips and recommendations<\/p><p>Gain insight into the significance of maintaining good posture<\/p><p>Receive a posture analysis report to identify areas of postural misalignment <br\/><br\/><\/p><p>30 min - $150 | 1 hour - $200<\/p>",
+            "text": "<ul><li>Gain insight into the significance of maintaining good posture<\/li><li>Receive a posture analysis report to identify areas of postural misalignment <\/li><li>Receive personalized tips and recommendations<br\/><br\/><\/li><\/ul><p>30 min - $150 | 1 hour - $200<\/p>",
             "link_label": "",
             "link": ""
           }
