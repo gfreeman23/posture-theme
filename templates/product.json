@@ -171,7 +171,7 @@
           "type": "column",
           "settings": {
             "title": "Free Shipping",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "text": "<p>All orders within the USA ship for free.<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -180,7 +180,7 @@
           "type": "column",
           "settings": {
             "title": "Hassle-Free Exchanges",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "text": "<p>Not happy with your purchase?  Simply send us an email so we can setup an exchange or refund.<\/p>",
             "link_label": "",
             "link": ""
           }
