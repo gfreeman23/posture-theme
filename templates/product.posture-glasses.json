@@ -67,15 +67,6 @@
             "content": "",
             "page": "shipping-returns"
           }
-        },
-        "collapsible-row-2": {
-          "type": "collapsible_tab",
-          "settings": {
-            "heading": "Instructions",
-            "icon": "clipboard",
-            "content": "<p>1. Place the board up against a wall<br\/><br\/>2. Start with the lowest setting (you can raise it the more you use the board)<br\/><br\/>3. Straddle the Posture Board<br\/><br\/>4. Slowly step on the board<br\/><br\/>5. Keep your feet fist distance apart, slightly pigeon toed<br\/><br\/>6. Keep your heels, back, hips, and upper back against the wall<br\/><br\/>7. Keep your head in a relaxed neutral position looking straight<br\/><br\/>8. Stand on the board for 5-10 minutes per day<br\/><br\/>LEARN MORE <a href=\"https:\/\/www.postureguymike.com\/blogs\/postural-therapy\/what-is-a-posture-board\" target=\"_blank\" title=\"https:\/\/www.postureguymike.com\/blogs\/postural-therapy\/what-is-a-posture-board\">HERE<\/a><\/p>",
-            "page": ""
-          }
         }
       },
       "block_order": [
@@ -88,8 +79,7 @@
         "buy_buttons",
         "description",
         "collapsible-row-0",
-        "collapsible-row-1",
-        "collapsible-row-2"
+        "collapsible-row-1"
       ],
       "settings": {
         "enable_sticky_info": true,
@@ -112,14 +102,14 @@
         "image-with-text-0": {
           "type": "heading",
           "settings": {
-            "heading": "Just 5 Minutes a Day!",
+            "heading": "Lay Down and Feel the Difference!",
             "heading_size": "h1"
           }
         },
         "image-with-text-1": {
           "type": "text",
           "settings": {
-            "text": "<p>By simply using the Posture Board with your back against the wall, extending your mid-back, and properly positioning your shoulders, you can remove the tension from your upper back and neck muscles, and improve your breathing.<\/p>",
+            "text": "<p>Posture Glasses are an excellent device that, when worn while lying down in bed or sitting up it provides the user with the opportunity to read or view a screen with optimum posture placement over an extended period.<\/p>",
             "text_style": "body"
           }
         }
@@ -129,7 +119,7 @@
         "image-with-text-1"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/before_after.jpg",
+        "image": "shopify:\/\/shop_images\/F420F9DA-44EC-421A-B538-E19C4E908BCF.png",
         "height": "medium",
         "desktop_image_width": "medium",
         "layout": "text_first",
@@ -191,8 +181,8 @@
         "template--16752139010273__a5b7a57d-1a00-4b50-ba6a-40508636a083-167847784664a9fa33-0": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/posture_board_adjustable_angle.png",
-            "title": "5 Adjustable Angles",
+            "image": "shopify:\/\/shop_images\/posture_glasses_tv.png",
+            "title": "Watching TV",
             "text": "",
             "link_label": "",
             "link": ""
@@ -201,8 +191,8 @@
         "template--16752139010273__a5b7a57d-1a00-4b50-ba6a-40508636a083-167847784664a9fa33-1": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/DSV_8292.jpg",
-            "title": "Easy Carry Handle",
+            "image": "shopify:\/\/shop_images\/posture_glasses_reading.png",
+            "title": "Reading a Book",
             "text": "",
             "link_label": "",
             "link": ""
@@ -211,8 +201,8 @@
         "template--16752139010273__a5b7a57d-1a00-4b50-ba6a-40508636a083-167847784664a9fa33-2": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/posture_board_grip_tape.png",
-            "title": "Grip Tape to Keep Your Feet in Place",
+            "image": "shopify:\/\/shop_images\/posture_glasses_90_degree_angle.png",
+            "title": "See at a 90° angle",
             "text": "",
             "link_label": "",
             "link": ""
@@ -221,8 +211,9 @@
         "377c59eb-9045-4d55-a3a6-ed0c4bd3afc0": {
           "type": "column",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "image": "shopify:\/\/shop_images\/posture_glasses_phone.png",
+            "title": "Use Your Cellphone",
+            "text": "",
             "link_label": "",
             "link": ""
           }
