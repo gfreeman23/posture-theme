@@ -3169,16 +3169,13 @@ section .jdgm-rev__custom-form {
 
 
 /* FOOTER - SOCIALS */
+/* Layout */
+#shopify-section-footer-multicolumn .multicolumn-list__item {
+  max-width: 200px;
+}
 #shopify-section-footer-multicolumn a {
   text-decoration: none;
   color: rgb(var(--color-foreground));
-}
-#shopify-section-footer-multicolumn .media {
-  max-width: 80px;
-}
-#shopify-section-footer-multicolumn .media img {
-  display: block;
-  position: relative;
 }
 #shopify-section-footer-multicolumn .multicolumn-card-spacing {
   padding: 0 0 20px 0;
@@ -3186,4 +3183,26 @@ section .jdgm-rev__custom-form {
 }
 #shopify-section-footer-multicolumn .multicolumn-card__info {
   padding: 0;
+}
+/* Image */
+#shopify-section-footer-multicolumn .media {
+  max-width: 60px;
+  border-radius: 60px;
+}
+#shopify-section-footer-multicolumn .media img {
+  display: block;
+  position: relative;
+}
+/* Heading */
+#shopify-section-footer-multicolumn h3 {
+  font-size: 100%;
+}
+/* Text */
+#shopify-section-footer-multicolumn .rte {
+  color: rgba(var(--color-foreground),.75);
+}
+@media screen and (max-width: 768px) {
+  #shopify-section-footer-multicolumn .rte {
+    font-size: 70%;
+  }
 }
