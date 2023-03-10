@@ -53,7 +53,7 @@
         "collapsible-row-0": {
           "type": "collapsible_tab",
           "settings": {
-            "heading": "Materials",
+            "heading": "Description",
             "icon": "leather",
             "content": "",
             "page": ""
