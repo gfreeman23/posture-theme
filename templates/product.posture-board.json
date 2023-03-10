@@ -149,7 +149,7 @@
           "type": "column",
           "settings": {
             "title": "Free Shipping",
-            "text": "<p>All orders within the USA ship for <strong>FREE<\/strong><\/p>",
+            "text": "<p>All orders within the USA ship for free.<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -158,7 +158,7 @@
           "type": "column",
           "settings": {
             "title": "Hassle-Free Exchanges",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "text": "<p>If you are not completely satisfied with your purchase, you can return it within 30 days for a refund or exchange.<\/p>",
             "link_label": "",
             "link": ""
           }
