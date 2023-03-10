@@ -314,7 +314,7 @@
           "type": "collapsible_row",
           "settings": {
             "heading": "Do you recommend a chiropractor?",
-            "icon": "check_mark",
+            "icon": "question_mark",
             "row_content": "<p>Chiropractors typically focus on adjusting bones to correct misalignments in the spine and other joints, which can provide temporary relief from pain or discomfort. Posture therapy, on the other hand, takes a more holistic approach by addressing the underlying muscle imbalances that contribute to poor posture and misalignments. By strengthening and conditioning the muscles responsible for maintaining proper alignment, posture therapy aims to provide a more long-term solution to posture-related issues.<\/p>",
             "page": ""
           }
