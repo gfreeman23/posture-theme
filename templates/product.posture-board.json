@@ -53,8 +53,8 @@
         "collapsible-row-0": {
           "type": "collapsible_tab",
           "settings": {
-            "heading": "Description",
-            "icon": "leather",
+            "heading": "Details",
+            "icon": "eye",
             "content": "",
             "page": ""
           }
@@ -71,9 +71,9 @@
         "collapsible-row-2": {
           "type": "collapsible_tab",
           "settings": {
-            "heading": "Dimensions",
-            "icon": "ruler",
-            "content": "",
+            "heading": "Instructions",
+            "icon": "clipboard",
+            "content": "<p>1. Place the board up against a wall<br\/><br\/>2. Start with the lowest setting (you can raise it the more you use the board)<br\/><br\/>3. Straddle the Posture Board<br\/><br\/>4. Slowly step on the board<br\/><br\/>5. Keep your feet fist distance apart, slightly pigeon toed<br\/><br\/>6. Keep your heels, back, hips, and upper back against the wall<br\/><br\/>7. Keep your head in a relaxed neutral position looking straight<br\/><br\/>8. Stand on the board for 5-10 minutes per day<br\/><br\/>LEARN MORE <a href=\"https:\/\/www.postureguymike.com\/blogs\/postural-therapy\/what-is-a-posture-board\" target=\"_blank\" title=\"https:\/\/www.postureguymike.com\/blogs\/postural-therapy\/what-is-a-posture-board\">HERE<\/a><\/p>",
             "page": ""
           }
         },
