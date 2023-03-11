@@ -78,7 +78,7 @@
         "description": "<p>Looking to bundle and save? Here are some popular products...<\/p>",
         "show_description": false,
         "description_style": "body",
-        "collection": "",
+        "collection": "bundles",
         "products_to_show": 6,
         "columns_desktop": 4,
         "full_width": false,
