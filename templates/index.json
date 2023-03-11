@@ -85,7 +85,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/benefit-1.jpg",
             "title": "Reduce Pain!",
-            "text": "<p>Improving your posture can help reduce pain and discomfort.<\/p>",
+            "text": "<p>Improving your posture can help relieve pain and discomfort.<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -95,7 +95,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/benefit-2.jpg",
             "title": "Improve Breathing!",
-            "text": "<p>Good posture helps open up your airways, allowing for deeper and easier breathing.<\/p>",
+            "text": "<p>Good posture helps open up your airways, allowing for easier breathing.<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -105,7 +105,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/benefit-3.jpg",
             "title": "Enhance Performance!",
-            "text": "<p>Proper posture can improve blood flow and energy levels, leading to enhanced physical and mental performance.<\/p>",
+            "text": "<p>Proper posture can improve blood flow and energy levels.<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -115,7 +115,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/benefit-4.jpg",
             "title": "Boost Confidence!",
-            "text": "<p>Better posture can lead to a more confident and positive self-image, which is essential for maintaining good physical and mental health.<\/p>",
+            "text": "<p>Better posture can lead to a more confident and positive self-image.<\/p>",
             "link_label": "",
             "link": ""
           }
