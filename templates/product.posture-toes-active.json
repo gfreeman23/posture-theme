@@ -61,7 +61,7 @@
             "heading": "Details",
             "icon": "eye",
             "content": "",
-            "page": "posture-toes-description"
+            "page": "posture-toes-active-description"
           }
         },
         "collapsible-row-1": {
@@ -197,8 +197,8 @@
         "template--16752139010273__a5b7a57d-1a00-4b50-ba6a-40508636a083-167847784664a9fa33-0": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/posture_toes_reading.png",
-            "title": "Relax, Posture Toes Will Do the Work",
+            "image": "shopify:\/\/shop_images\/posture_toes_active_in_shoes.png",
+            "title": "Wear Them in Your Shoes",
             "text": "",
             "link_label": "",
             "link": ""
@@ -207,8 +207,8 @@
         "template--16752139010273__a5b7a57d-1a00-4b50-ba6a-40508636a083-167847784664a9fa33-1": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/posture_toes_slide_on.png",
-            "title": "Easy to Slide On",
+            "image": "shopify:\/\/shop_images\/posture_toes_active_stretch.png",
+            "title": "Stretches to Fit All feet",
             "text": "",
             "link_label": "",
             "link": ""
