@@ -61,7 +61,7 @@
             "heading": "Details",
             "icon": "eye",
             "content": "",
-            "page": "posture-board-description"
+            "page": "small-posture-block-description"
           }
         },
         "collapsible-row-1": {
@@ -78,7 +78,7 @@
           "settings": {
             "heading": "Instructions",
             "icon": "clipboard",
-            "content": "<p>1. Place the board up against a wall<br\/><br\/>2. Start with the lowest setting (you can raise it the more you use the board)<br\/><br\/>3. Straddle the Posture Board<br\/><br\/>4. Slowly step on the board<br\/><br\/>5. Keep your feet fist distance apart, slightly pigeon toed<br\/><br\/>6. Keep your heels, back, hips, and upper back against the wall<br\/><br\/>7. Keep your head in a relaxed neutral position looking straight<br\/><br\/>8. Stand on the board for 5-10 minutes per day<br\/><br\/>LEARN MORE <a href=\"https:\/\/www.postureguymike.com\/blogs\/postural-therapy\/what-is-a-posture-board\" target=\"_blank\" title=\"https:\/\/www.postureguymike.com\/blogs\/postural-therapy\/what-is-a-posture-board\">HERE<\/a><\/p>",
+            "content": "<p>Click <a href=\"https:\/\/www.postureguymike.com\/blogs\/postural-therapy\/what-is-a-posture-block\" title=\"https:\/\/www.postureguymike.com\/blogs\/postural-therapy\/what-is-a-posture-block\">HERE<\/a> to view instructional videos.<\/p>",
             "page": ""
           }
         }
@@ -118,14 +118,14 @@
         "image-with-text-0": {
           "type": "heading",
           "settings": {
-            "heading": "Just 5 Minutes a Day!",
+            "heading": "Get Into Alignment!",
             "heading_size": "h1"
           }
         },
         "image-with-text-1": {
           "type": "text",
           "settings": {
-            "text": "<p>By simply using the Posture Board with your back against the wall, extending your mid-back, and properly positioning your shoulders, you can remove the tension from your upper back and neck muscles, and improve your breathing.<\/p>",
+            "text": "<p>Posture Blocks are excellent tools for correcting postural imbalances that may have caused or can lead to bodily pain. Not only can Posture Blocks promote proper alignment, but when used consistently and correctly can increase strength, improve stamina\/breath control, and assist in overall athletic performance and quality of life. <\/p>",
             "text_style": "body"
           }
         }
@@ -135,7 +135,7 @@
         "image-with-text-1"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/before_after.jpg",
+        "image": "shopify:\/\/shop_images\/small-block-infographic-2.png",
         "height": "medium",
         "desktop_image_width": "medium",
         "layout": "text_first",
@@ -197,8 +197,8 @@
         "template--16752139010273__a5b7a57d-1a00-4b50-ba6a-40508636a083-167847784664a9fa33-0": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/posture_board_adjustable_angle.png",
-            "title": "5 Adjustable Angles",
+            "image": "shopify:\/\/shop_images\/small_posture_block_standing.png",
+            "title": "Standing",
             "text": "",
             "link_label": "",
             "link": ""
@@ -207,8 +207,8 @@
         "template--16752139010273__a5b7a57d-1a00-4b50-ba6a-40508636a083-167847784664a9fa33-1": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/DSV_8292.jpg",
-            "title": "Easy Carry Handle",
+            "image": "shopify:\/\/shop_images\/small_posture_block_squating.png",
+            "title": "Squating",
             "text": "",
             "link_label": "",
             "link": ""
@@ -217,8 +217,8 @@
         "template--16752139010273__a5b7a57d-1a00-4b50-ba6a-40508636a083-167847784664a9fa33-2": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/posture_board_grip_tape.png",
-            "title": "Grip Tape to Keep Your Feet in Place",
+            "image": "shopify:\/\/shop_images\/small_posture_block_lying_down.png",
+            "title": "Lying Down",
             "text": "",
             "link_label": "",
             "link": ""
@@ -227,8 +227,9 @@
         "377c59eb-9045-4d55-a3a6-ed0c4bd3afc0": {
           "type": "column",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "image": "shopify:\/\/shop_images\/small_posture_block_lying_down_1.png",
+            "title": "Sitting",
+            "text": "",
             "link_label": "",
             "link": ""
           }
@@ -241,7 +242,7 @@
         "377c59eb-9045-4d55-a3a6-ed0c4bd3afc0"
       ],
       "settings": {
-        "title": "",
+        "title": "Use the Small Posture Block",
         "heading_size": "h1",
         "image_width": "full",
         "image_ratio": "adapt",
