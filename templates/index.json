@@ -83,7 +83,7 @@
         "template--16752021111009__f1eaaff4-260a-40e9-b9a7-3f9de683ea5e-1678311398314a2051-0": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/benefit-1.jpg",
+            "image": "shopify:\/\/shop_images\/Icon_Final-01.png",
             "title": "Reduce Pain!",
             "text": "<p>Improving your posture can help relieve pain and discomfort.<\/p>",
             "link_label": "",
@@ -93,7 +93,7 @@
         "template--16752021111009__f1eaaff4-260a-40e9-b9a7-3f9de683ea5e-1678311398314a2051-1": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/benefit-2.jpg",
+            "image": "shopify:\/\/shop_images\/Icon_Final-02.png",
             "title": "Improve Breathing!",
             "text": "<p>Good posture helps open up your airways,  for easier breathing.<\/p>",
             "link_label": "",
@@ -103,7 +103,7 @@
         "template--16752021111009__f1eaaff4-260a-40e9-b9a7-3f9de683ea5e-1678311398314a2051-2": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/benefit-3.jpg",
+            "image": "shopify:\/\/shop_images\/Icon_Final-03.png",
             "title": "Enhance Performance!",
             "text": "<p>Proper posture can improve blood flow and energy levels.<\/p>",
             "link_label": "",
@@ -113,7 +113,7 @@
         "753af712-c8de-4dd2-93fc-777e63f7a7e2": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/benefit-4.jpg",
+            "image": "shopify:\/\/shop_images\/Icon_Final-04.png",
             "title": "Boost Confidence!",
             "text": "<p>Better posture can lead to a more confident and positive self-image.<\/p>",
             "link_label": "",
