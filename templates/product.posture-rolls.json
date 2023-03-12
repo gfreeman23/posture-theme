@@ -61,7 +61,7 @@
             "heading": "Details",
             "icon": "eye",
             "content": "",
-            "page": "small-posture-block-description"
+            "page": "posture-rolls-description"
           }
         },
         "collapsible-row-1": {
@@ -78,7 +78,7 @@
           "settings": {
             "heading": "Instructions",
             "icon": "clipboard",
-            "content": "<p>Click <a href=\"https:\/\/www.postureguymike.com\/blogs\/postural-therapy\/what-is-a-posture-block\" title=\"https:\/\/www.postureguymike.com\/blogs\/postural-therapy\/what-is-a-posture-block\">HERE<\/a> to view instructional videos.<\/p>",
+            "content": "<p>Click <a href=\"https:\/\/www.postureguymike.com\/blogs\/postural-therapy\/how-posture-rolls-can-help\" title=\"what are posture rolls\">HERE<\/a> to view instructional videos.<\/p>",
             "page": ""
           }
         }
@@ -118,14 +118,14 @@
         "image-with-text-0": {
           "type": "heading",
           "settings": {
-            "heading": "Get Into Alignment!",
+            "heading": "Get Back to a \"C\" Curve",
             "heading_size": "h1"
           }
         },
         "image-with-text-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Posture Blocks are excellent tools for correcting postural imbalances that may have caused or can lead to bodily pain. Not only can Posture Blocks promote proper alignment, but when used consistently and correctly can increase strength, improve stamina\/breath control, and assist in overall athletic performance and quality of life. <\/p>",
+            "text": "<p>By using Posture Rolls, we can retrain our spines to hold their natural “S” shaped curve design. Placing a roll under the lower back will help reposition the pelvis back into a neutral position and improve balance by creating the Lumbar arch necessary for the proper function of the musculoskeletal system.<\/p>",
             "text_style": "body"
           }
         }
@@ -135,7 +135,7 @@
         "image-with-text-1"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/small-block-infographic-2.png",
+        "image": "shopify:\/\/shop_images\/ABAE3D2F-7253-461B-941A-10D026F5A919.png",
         "height": "medium",
         "desktop_image_width": "medium",
         "layout": "text_first",
