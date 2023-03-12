@@ -61,7 +61,7 @@
             "heading": "Details",
             "icon": "eye",
             "content": "",
-            "page": "posture-toes-description"
+            "page": "posture-socks-description"
           }
         },
         "collapsible-row-1": {
@@ -71,15 +71,6 @@
             "icon": "truck",
             "content": "",
             "page": "shipping-returns"
-          }
-        },
-        "collapsible-row-2": {
-          "type": "collapsible_tab",
-          "settings": {
-            "heading": "Instructions",
-            "icon": "clipboard",
-            "content": "<ol><li>Put on the Posture Toes<\/li><li>They can be worn over the Posture socks, under regular socks or inside shoes<\/li><li>Wear them for 10 minutes - overnight. If you feel pain, take them off immediately. If you do not feel pain keep them on as long as possible<\/li><li>Each day try to wear them for longer periods of time<\/li><\/ol>",
-            "page": ""
           }
         }
       },
@@ -94,8 +85,7 @@
         "buy_buttons",
         "description",
         "collapsible-row-0",
-        "collapsible-row-1",
-        "collapsible-row-2"
+        "collapsible-row-1"
       ],
       "settings": {
         "enable_sticky_info": true,
@@ -118,14 +108,14 @@
         "image-with-text-0": {
           "type": "heading",
           "settings": {
-            "heading": "Get the Fix While You Relax",
+            "heading": "Comfort and Function",
             "heading_size": "h1"
           }
         },
         "image-with-text-1": {
           "type": "text",
           "settings": {
-            "text": "<p>The spreading apart “splaying” of your toes is crucial for providing fundamental anatomical optimization of your weight bearing feet. They are, after all, the foundation on which your skeletal posture and function depends. <\/p>",
+            "text": "<p>The spreading or “splaying” of your toes provides a stable and balanced end partner for the heel, both of which are needed to provide the best positioning for your arch. This anatomically correct stabilization secures your foundation for your body’s weight-bearing activities: standing, walking, and running.<\/p>",
             "text_style": "body"
           }
         }
@@ -135,7 +125,7 @@
         "image-with-text-1"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/before_after_toes.jpg",
+        "image": "shopify:\/\/shop_images\/posture-socks-info.png",
         "height": "medium",
         "desktop_image_width": "medium",
         "layout": "text_first",
@@ -197,8 +187,8 @@
         "template--16752139010273__a5b7a57d-1a00-4b50-ba6a-40508636a083-167847784664a9fa33-0": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/posture_toes_reading.png",
-            "title": "Relax, Posture Toes Will Do the Work",
+            "image": "shopify:\/\/shop_images\/posture_socks_in_bed.png",
+            "title": "Relax and Lound with Posture Socks",
             "text": "",
             "link_label": "",
             "link": ""
@@ -207,28 +197,8 @@
         "template--16752139010273__a5b7a57d-1a00-4b50-ba6a-40508636a083-167847784664a9fa33-1": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/posture_toes_slide_on.png",
-            "title": "Easy to Slide On",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "template--16752139010273__a5b7a57d-1a00-4b50-ba6a-40508636a083-167847784664a9fa33-2": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/DONE.jpg",
-            "title": "See the Difference",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "377c59eb-9045-4d55-a3a6-ed0c4bd3afc0": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/posture_toes_over_socks.png",
-            "title": "Wear Them Over Posture Socks",
+            "image": "shopify:\/\/shop_images\/posture_socks_with_emily.png",
+            "title": "Fits All 5 Toes Comfortably",
             "text": "",
             "link_label": "",
             "link": ""
@@ -237,9 +207,7 @@
       },
       "block_order": [
         "template--16752139010273__a5b7a57d-1a00-4b50-ba6a-40508636a083-167847784664a9fa33-0",
-        "template--16752139010273__a5b7a57d-1a00-4b50-ba6a-40508636a083-167847784664a9fa33-1",
-        "template--16752139010273__a5b7a57d-1a00-4b50-ba6a-40508636a083-167847784664a9fa33-2",
-        "377c59eb-9045-4d55-a3a6-ed0c4bd3afc0"
+        "template--16752139010273__a5b7a57d-1a00-4b50-ba6a-40508636a083-167847784664a9fa33-1"
       ],
       "settings": {
         "title": "",
