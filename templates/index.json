@@ -349,7 +349,7 @@
     "e2e9a1e2-68f1-40ff-bae3-caab148ed73c": {
       "type": "featured-collection",
       "settings": {
-        "title": "MERCH",
+        "title": "Posture Merch",
         "heading_size": "h1",
         "description": "<p>Unleash your unique style with our new merch!<\/p>",
         "show_description": false,
@@ -465,8 +465,8 @@
         "heading_size": "h1",
         "heading_alignment": "left",
         "layout": "none",
-        "color_scheme": "inverse",
-        "container_color_scheme": "background-1",
+        "color_scheme": "background-1",
+        "container_color_scheme": "accent-1",
         "open_first_collapsible_row": false,
         "image_ratio": "adapt",
         "desktop_layout": "image_second",
