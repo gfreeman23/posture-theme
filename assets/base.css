@@ -3147,7 +3147,8 @@ details-disclosure > details {
 /* SECTIONS */
 
 /* NAV - Last color Blue */
-nav.header__inline-menu li:last-of-type a {
+nav.header__inline-menu li:last-of-type a,
+nav.menu-drawer__navigation li:last-of-type a {
   color: #00b7eb;
 }
 
