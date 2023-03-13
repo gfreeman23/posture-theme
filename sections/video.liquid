@@ -47,9 +47,14 @@
     >
       {%- unless section.settings.heading == blank -%}
         <div class="title-wrapper title-wrapper--no-top-margin">
-          <h2 class="title inline-richtext {{ section.settings.heading_size }}">{{ section.settings.heading }}</h2>
+          <h2 class="rich-text__heading inline-richtext {{ section.settings.heading_size }}">{{ section.settings.heading }}</h2>
         </div>
       {%- endunless -%}
+      {% if section.settings.subtext != blank %}
+        <div class="rich-text__text rte">
+          <p>{{ section.settings.subtext }}</p>
+        </div>
+      {% endif %}
     </div>
     <noscript>
       <div
@@ -163,6 +168,11 @@
       "default": "Video",
       "label": "t:sections.video.settings.heading.label"
     },
+    {
+      "type": "inline_richtext",
+      "id": "subtext",
+      "label": "Sub Text"
+    },    
     {
       "type": "select",
       "id": "heading_size",
