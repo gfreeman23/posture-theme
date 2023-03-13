@@ -3152,6 +3152,11 @@ nav.menu-drawer__navigation li:last-of-type a {
   color: #00b7eb;
 }
 
+/* VIDEO */
+section .video-section .rich-text__text.rte {
+  margin-bottom: 40px;
+}
+
 /* REVIEWS - Featured Products */
 .collection .card-wrapper .rating-star {
   --letter-spacing: .1;
