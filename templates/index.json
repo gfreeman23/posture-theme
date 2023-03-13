@@ -189,6 +189,7 @@
     },
     "0a691a46-f491-40cf-86bb-6f576e252d8e": {
       "type": "featured-collection",
+      "disabled": true,
       "settings": {
         "title": "Programs to Help your Posture",
         "heading_size": "h1",
