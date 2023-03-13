@@ -480,6 +480,33 @@
         "padding_top": 72,
         "padding_bottom": 72
       }
+    },
+    "e2e9a1e2-68f1-40ff-bae3-caab148ed73c": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "MERCH",
+        "heading_size": "h1",
+        "description": "<p>Unleash your unique style with our new merch!<\/p>",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "clothing",
+        "products_to_show": 4,
+        "columns_desktop": 4,
+        "full_width": false,
+        "show_view_all": true,
+        "view_all_style": "solid",
+        "enable_desktop_slider": false,
+        "color_scheme": "background-1",
+        "image_ratio": "adapt",
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_rating": false,
+        "enable_quick_add": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
@@ -493,6 +520,7 @@
     "7121bcc2-1c9f-4ebb-83b6-8135330b2c1a",
     "b9f709ae-3175-4a88-8757-a05f74ecf9c0",
     "e57b1c77-b577-415e-ad5d-3db6e989e1a7",
-    "9f046db1-8b2c-4222-9216-268f9cf4423e"
+    "9f046db1-8b2c-4222-9216-268f9cf4423e",
+    "e2e9a1e2-68f1-40ff-bae3-caab148ed73c"
   ]
 }
