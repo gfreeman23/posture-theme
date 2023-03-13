@@ -87,7 +87,7 @@
                     {{ product.title | escape }}
                   </h2>
                 </a>
-              </div>
+              </div>{% render 'judgeme_widgets', widget_type: 'judgeme_preview_badge', jm_style: '', concierge_install: true, product: product %}
             {%- when 'price' -%}
               <div class="no-js-hidden" id="price-{{ section.id }}" role="status" {{ block.shopify_attributes }}>
                 {%- render 'price',
@@ -2069,3 +2069,4 @@
   ]
 }
 {% endschema %}
+{% render 'judgeme_widgets', widget_type: 'judgeme_review_widget', concierge_install: true, product: product %}
