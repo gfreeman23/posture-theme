@@ -213,32 +213,11 @@
             "link_label": "",
             "link": ""
           }
-        },
-        "template--16752139010273__a5b7a57d-1a00-4b50-ba6a-40508636a083-167847784664a9fa33-2": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/posture_board_grip_tape.png",
-            "title": "Grip Tape to Keep Your Feet in Place",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "377c59eb-9045-4d55-a3a6-ed0c4bd3afc0": {
-          "type": "column",
-          "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "link_label": "",
-            "link": ""
-          }
         }
       },
       "block_order": [
         "template--16752139010273__a5b7a57d-1a00-4b50-ba6a-40508636a083-167847784664a9fa33-0",
-        "template--16752139010273__a5b7a57d-1a00-4b50-ba6a-40508636a083-167847784664a9fa33-1",
-        "template--16752139010273__a5b7a57d-1a00-4b50-ba6a-40508636a083-167847784664a9fa33-2",
-        "377c59eb-9045-4d55-a3a6-ed0c4bd3afc0"
+        "template--16752139010273__a5b7a57d-1a00-4b50-ba6a-40508636a083-167847784664a9fa33-1"
       ],
       "settings": {
         "title": "",
