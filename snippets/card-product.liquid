@@ -151,7 +151,7 @@
             >
               {{ card_product.title | escape }}
             </a>
-          </h3>
+          </h3>{% render 'judgeme_widgets', widget_type: 'judgeme_preview_badge', jm_style: '', concierge_install: true, product: card_product %}
           <div class="card-information">
             {%- if show_vendor -%}
               <span class="visually-hidden">{{ 'accessibility.vendor' | t }}</span>
