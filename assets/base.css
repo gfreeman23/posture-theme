@@ -2487,13 +2487,18 @@ product-info .loading-overlay:not(.hidden) ~ *,
 }
 
 .header__icon .icon {
-  height: 30px;
-  width: 30px;
+  height: 2em;
+  width: 2em;
   fill: none;
   vertical-align: middle;
 }
 
-.header__icon,
+.header__icon {
+  height: 4.4rem;
+  width: 4.4rem;
+  padding: 0;
+}
+
 .header__icon--cart .icon {
   height: 30px;
   width: 30px;
