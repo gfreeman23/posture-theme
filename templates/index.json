@@ -165,7 +165,7 @@
       "settings": {
         "title": "Products to Help your Posture",
         "heading_size": "h1",
-        "description": "",
+        "description": "<p>Hey, here are some prods<\/p>",
         "show_description": false,
         "description_style": "body",
         "collection": "featured-products",
