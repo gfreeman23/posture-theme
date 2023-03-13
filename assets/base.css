@@ -2493,15 +2493,10 @@ product-info .loading-overlay:not(.hidden) ~ *,
   vertical-align: middle;
 }
 
-.header__icon {
+.header__icon,
+.header__icon--cart .icon {
   height: 4.4rem;
   width: 4.4rem;
-  padding: 0;
-}
-
-.header__icon--cart .icon {
-  height: 30px;
-  width: 30px;
   padding: 0;
 }
 
@@ -3150,6 +3145,11 @@ details-disclosure > details {
 
 
 /* SECTIONS */
+
+/* NAV - Last color Blue */
+nav.header__inline-menu li:last-of-type a {
+  color: #00b7eb;
+}
 
 /* REVIEWS - Featured Products */
 .collection .card-wrapper .rating-star {
