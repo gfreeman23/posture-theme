@@ -21,7 +21,7 @@
           "type": "buttons",
           "settings": {
             "button_label_1": "Shop Now",
-            "button_link_1": "shopify:\/\/collections\/all",
+            "button_link_1": "shopify:\/\/collections\/shop-all",
             "button_style_secondary_1": true,
             "button_label_2": "Talk to Mike!",
             "button_link_2": "https:\/\/calendly.com\/postureguymike\/1-on-1-with-posture-guy-mike?month=2023-03",
@@ -421,7 +421,7 @@
           "type": "buttons",
           "settings": {
             "button_label_1": "Apply Today!",
-            "button_link_1": "#",
+            "button_link_1": "https:\/\/posturestrongcoaching.com\/",
             "button_style_secondary_1": false,
             "button_label_2": "",
             "button_link_2": "",
