@@ -465,7 +465,7 @@
         "heading_size": "h1",
         "heading_alignment": "left",
         "layout": "none",
-        "color_scheme": "background-1",
+        "color_scheme": "inverse",
         "container_color_scheme": "accent-1",
         "open_first_collapsible_row": false,
         "image_ratio": "adapt",

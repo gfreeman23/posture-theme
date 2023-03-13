@@ -192,9 +192,9 @@
         "settings": {
           "title": "Connect with Mike!",
           "background_style": "primary",
-          "color_scheme": "accent-1",
+          "color_scheme": "background-1",
           "padding_top": 72,
-          "padding_bottom": 0
+          "padding_bottom": 72
         }
       }
     },
