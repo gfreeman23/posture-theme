@@ -217,46 +217,6 @@
         "padding_bottom": 72
       }
     },
-    "collage": {
-      "type": "collage",
-      "disabled": true,
-      "blocks": {
-        "collection-0": {
-          "type": "collection",
-          "settings": {
-            "collection": "slant-board"
-          }
-        },
-        "product": {
-          "type": "product",
-          "settings": {
-            "product": "the-big-posture-mat",
-            "second_image": false
-          }
-        },
-        "collection-1": {
-          "type": "collection",
-          "settings": {
-            "collection": "glasses"
-          }
-        }
-      },
-      "block_order": [
-        "collection-0",
-        "product",
-        "collection-1"
-      ],
-      "settings": {
-        "heading": "Programs to Fix your Posture",
-        "heading_size": "h1",
-        "desktop_layout": "left",
-        "mobile_layout": "collage",
-        "card_styles": "product-card-wrapper",
-        "color_scheme": "background-1",
-        "padding_top": 72,
-        "padding_bottom": 72
-      }
-    },
     "b9f709ae-3175-4a88-8757-a05f74ecf9c0": {
       "type": "multicolumn",
       "blocks": {
@@ -485,7 +445,6 @@
     "19949a06-826b-448c-95da-d500f8e5f140",
     "featured_collection",
     "0a691a46-f491-40cf-86bb-6f576e252d8e",
-    "collage",
     "b9f709ae-3175-4a88-8757-a05f74ecf9c0",
     "e57b1c77-b577-415e-ad5d-3db6e989e1a7",
     "e2e9a1e2-68f1-40ff-bae3-caab148ed73c",
