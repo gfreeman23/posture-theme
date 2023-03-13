@@ -84,7 +84,24 @@
             {{ form | payment_button }}
           {%- endif -%}
         </div>
-            <h2> hello world </h2>
+            <!-- Beginning of Buy With Prime Widget -->
+<script async fetchpriority='high' src='https://code.buywithprime.amazon.com/bwp.v1.js'></script>
+{% if product.sku %}
+    <div
+        id="amzn-buy-now"
+        data-site-id="otug8vt564"
+        data-widget-id="w-9uKsra7CbL9qwd8nOV3QO5"
+        data-sku="{{product.sku}}"
+    ></div>
+{% else %}
+    <div
+        id="amzn-buy-now"
+        data-site-id="otug8vt564"
+        data-widget-id="w-9uKsra7CbL9qwd8nOV3QO5"
+        data-sku="{{product.selected_or_first_available_variant.sku}}"
+    ></div>
+{% endif %}
+<!-- End of Buy With Prime Widget -->
       {%- endform -%}
     </product-form>
   {%- else -%}
