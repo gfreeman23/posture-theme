@@ -197,8 +197,8 @@
         "template--16752139010273__a5b7a57d-1a00-4b50-ba6a-40508636a083-167847784664a9fa33-0": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/small_posture_block_standing.png",
-            "title": "Standing",
+            "image": "shopify:\/\/shop_images\/2B80B50A-6021-4990-8CFB-5A5E8176AAFC.jpg",
+            "title": "Restore Your Neck's Natural Curve",
             "text": "",
             "link_label": "",
             "link": ""
@@ -207,28 +207,8 @@
         "template--16752139010273__a5b7a57d-1a00-4b50-ba6a-40508636a083-167847784664a9fa33-1": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/small_posture_block_squating.png",
-            "title": "Squating",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "template--16752139010273__a5b7a57d-1a00-4b50-ba6a-40508636a083-167847784664a9fa33-2": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/small_posture_block_lying_down.png",
-            "title": "Lying Down",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "377c59eb-9045-4d55-a3a6-ed0c4bd3afc0": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/small_posture_block_lying_down_1.png",
-            "title": "Sitting",
+            "image": "shopify:\/\/shop_images\/B7E321C3-34CB-4A12-9D33-CC0A815E870A.jpg",
+            "title": "Restore the Curve in Your Lumbar",
             "text": "",
             "link_label": "",
             "link": ""
@@ -237,9 +217,7 @@
       },
       "block_order": [
         "template--16752139010273__a5b7a57d-1a00-4b50-ba6a-40508636a083-167847784664a9fa33-0",
-        "template--16752139010273__a5b7a57d-1a00-4b50-ba6a-40508636a083-167847784664a9fa33-1",
-        "template--16752139010273__a5b7a57d-1a00-4b50-ba6a-40508636a083-167847784664a9fa33-2",
-        "377c59eb-9045-4d55-a3a6-ed0c4bd3afc0"
+        "template--16752139010273__a5b7a57d-1a00-4b50-ba6a-40508636a083-167847784664a9fa33-1"
       ],
       "settings": {
         "title": "",
