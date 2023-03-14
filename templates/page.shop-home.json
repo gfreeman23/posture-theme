@@ -52,7 +52,7 @@
         "show_description": false,
         "description_style": "body",
         "collection": "shop-all",
-        "collection-url": "shopify:\/\/collections\/featured-products",
+        "collection-url": "shopify:\/\/collections\/shop-all",
         "products_to_show": 6,
         "columns_desktop": 4,
         "full_width": false,
