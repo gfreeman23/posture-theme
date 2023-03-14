@@ -102,36 +102,6 @@
         "padding_bottom": 12
       }
     },
-    "a10a09c8-fe21-42b8-afde-f672ac0c2db2": {
-      "type": "rich-text",
-      "blocks": {
-        "template--16756542243041__a10a09c8-fe21-42b8-afde-f672ac0c2db2-167883405626bbe3f2-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "The Pelvis, Hips, and Back program will help with:",
-            "heading_size": "h1"
-          }
-        },
-        "template--16756542243041__a10a09c8-fe21-42b8-afde-f672ac0c2db2-167883405626bbe3f2-1": {
-          "type": "text",
-          "settings": {
-            "text": "<ul><li>Anterior\/Posterior Pelvis Tilt<\/li><li>Uneven Hips<\/li><li>Back Pain (Upper and Lower)<\/li><li>Sciatica<\/li><li>Scoliosis<\/li><li>Herniated Disc<\/li><\/ul>"
-          }
-        }
-      },
-      "block_order": [
-        "template--16756542243041__a10a09c8-fe21-42b8-afde-f672ac0c2db2-167883405626bbe3f2-0",
-        "template--16756542243041__a10a09c8-fe21-42b8-afde-f672ac0c2db2-167883405626bbe3f2-1"
-      ],
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
-        "color_scheme": "background-1",
-        "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 52
-      }
-    },
     "bcabf59b-916d-4c51-9604-a8f54c633b47": {
       "type": "collapsible-content",
       "blocks": {
@@ -161,6 +131,36 @@
         "desktop_layout": "image_second",
         "padding_top": 36,
         "padding_bottom": 36
+      }
+    },
+    "a10a09c8-fe21-42b8-afde-f672ac0c2db2": {
+      "type": "rich-text",
+      "blocks": {
+        "template--16756542243041__a10a09c8-fe21-42b8-afde-f672ac0c2db2-167883405626bbe3f2-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "The Pelvis, Hips, and Back program will help with:",
+            "heading_size": "h1"
+          }
+        },
+        "template--16756542243041__a10a09c8-fe21-42b8-afde-f672ac0c2db2-167883405626bbe3f2-1": {
+          "type": "text",
+          "settings": {
+            "text": "<ul><li>Anterior\/Posterior Pelvis Tilt<\/li><li>Uneven Hips<\/li><li>Back Pain (Upper and Lower)<\/li><li>Sciatica<\/li><li>Scoliosis<\/li><li>Herniated Disc<\/li><\/ul>"
+          }
+        }
+      },
+      "block_order": [
+        "template--16756542243041__a10a09c8-fe21-42b8-afde-f672ac0c2db2-167883405626bbe3f2-0",
+        "template--16756542243041__a10a09c8-fe21-42b8-afde-f672ac0c2db2-167883405626bbe3f2-1"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
       }
     },
     "related-products": {
@@ -199,8 +199,8 @@
   },
   "order": [
     "main",
-    "a10a09c8-fe21-42b8-afde-f672ac0c2db2",
     "bcabf59b-916d-4c51-9604-a8f54c633b47",
+    "a10a09c8-fe21-42b8-afde-f672ac0c2db2",
     "related-products",
     "1678483955ef047447"
   ]
