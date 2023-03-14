@@ -61,16 +61,7 @@
             "heading": "Details",
             "icon": "eye",
             "content": "",
-            "page": "posture-board-description"
-          }
-        },
-        "collapsible-row-1": {
-          "type": "collapsible_tab",
-          "settings": {
-            "heading": "Shipping & Returns",
-            "icon": "truck",
-            "content": "",
-            "page": "shipping-returns"
+            "page": "pelvis-hips-and-back-corrective-posture-exercises-description"
           }
         },
         "collapsible-row-2": {
@@ -78,7 +69,7 @@
           "settings": {
             "heading": "Instructions",
             "icon": "clipboard",
-            "content": "<p>1. Place the board up against a wall<br\/><br\/>2. Start with the lowest setting (you can raise it the more you use the board)<br\/><br\/>3. Straddle the Posture Board<br\/><br\/>4. Slowly step on the board<br\/><br\/>5. Keep your feet fist distance apart, slightly pigeon toed<br\/><br\/>6. Keep your heels, back, hips, and upper back against the wall<br\/><br\/>7. Keep your head in a relaxed neutral position looking straight<br\/><br\/>8. Stand on the board for 5-10 minutes per day<br\/><br\/>LEARN MORE <a href=\"https:\/\/www.postureguymike.com\/blogs\/postural-therapy\/what-is-a-posture-board\" target=\"_blank\" title=\"https:\/\/www.postureguymike.com\/blogs\/postural-therapy\/what-is-a-posture-board\">HERE<\/a><\/p>",
+            "content": "<ol><li>During checkout make sure to create your account<\/li><li>After checkout you will be able to login to you account and access the corrective posture exercise videos.<\/li><\/ol>",
             "page": ""
           }
         }
@@ -94,7 +85,6 @@
         "buy_buttons",
         "description",
         "collapsible-row-0",
-        "collapsible-row-1",
         "collapsible-row-2"
       ],
       "settings": {
@@ -112,50 +102,14 @@
         "padding_bottom": 12
       }
     },
-    "image-with-text": {
-      "type": "image-with-text",
-      "blocks": {
-        "image-with-text-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "Just 5 Minutes a Day!",
-            "heading_size": "h1"
-          }
-        },
-        "image-with-text-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>By simply using the Posture Board with your back against the wall, extending your mid-back, and properly positioning your shoulders, you can remove the tension from your upper back and neck muscles, and improve your breathing.<\/p>",
-            "text_style": "body"
-          }
-        }
-      },
-      "block_order": [
-        "image-with-text-0",
-        "image-with-text-1"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/before_after.jpg",
-        "height": "medium",
-        "desktop_image_width": "medium",
-        "layout": "text_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "color_scheme": "background-2",
-        "mobile_content_alignment": "left",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
     "multicolumn": {
       "type": "multicolumn",
       "blocks": {
         "column-0": {
           "type": "column",
           "settings": {
-            "title": "Free Shipping",
-            "text": "<p>All orders within the USA ship for free.<\/p>",
+            "title": "The Pelvis, Hips, and Back program will help with:",
+            "text": "",
             "link_label": "",
             "link": ""
           }
@@ -163,8 +117,8 @@
         "column-1": {
           "type": "column",
           "settings": {
-            "title": "Hassle-Free Exchanges",
-            "text": "<p>If you are not completely satisfied with your purchase, you can return it within 30 days for a refund or exchange.<\/p>",
+            "title": "",
+            "text": "<ul><li>Anterior\/Posterior Pelvis Tilt<\/li><li>Uneven Hips<\/li><li>Back Pain (Upper and Lower)<\/li><li>Sciatica<\/li><li>Scoliosis<\/li><li>Herniated Disc<\/li><\/ul>",
             "link_label": "",
             "link": ""
           }
@@ -173,51 +127,6 @@
       "block_order": [
         "column-0",
         "column-1"
-      ],
-      "settings": {
-        "title": "",
-        "heading_size": "h1",
-        "image_width": "full",
-        "image_ratio": "adapt",
-        "columns_desktop": 2,
-        "column_alignment": "left",
-        "background_style": "none",
-        "button_label": "",
-        "button_link": "",
-        "color_scheme": "background-1",
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "a5b7a57d-1a00-4b50-ba6a-40508636a083": {
-      "type": "multicolumn",
-      "blocks": {
-        "template--16752139010273__a5b7a57d-1a00-4b50-ba6a-40508636a083-167847784664a9fa33-0": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/posture_board_adjustable_angle.png",
-            "title": "5 Adjustable Angles",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "template--16752139010273__a5b7a57d-1a00-4b50-ba6a-40508636a083-167847784664a9fa33-1": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/DSV_8292.jpg",
-            "title": "Easy Carry Handle",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "template--16752139010273__a5b7a57d-1a00-4b50-ba6a-40508636a083-167847784664a9fa33-0",
-        "template--16752139010273__a5b7a57d-1a00-4b50-ba6a-40508636a083-167847784664a9fa33-1"
       ],
       "settings": {
         "title": "",
@@ -272,9 +181,7 @@
   },
   "order": [
     "main",
-    "image-with-text",
     "multicolumn",
-    "a5b7a57d-1a00-4b50-ba6a-40508636a083",
     "related-products",
     "1678483955ef047447"
   ]
