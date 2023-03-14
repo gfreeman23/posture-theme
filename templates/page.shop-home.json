@@ -51,7 +51,7 @@
         "description": "<p>Our Most Popular Posture Products. These can help with your posture in many ways!<\/p>",
         "show_description": false,
         "description_style": "body",
-        "collection": "featured-products",
+        "collection": "shop-all",
         "collection-url": "shopify:\/\/collections\/featured-products",
         "products_to_show": 6,
         "columns_desktop": 4,
