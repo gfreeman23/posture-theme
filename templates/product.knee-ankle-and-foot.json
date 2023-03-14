@@ -61,7 +61,7 @@
             "heading": "Details",
             "icon": "eye",
             "content": "",
-            "page": "pelvis-hips-and-back-corrective-posture-exercises-description"
+            "page": "knee-ankle-and-foot-corrective-posture-exercises-description"
           }
         },
         "collapsible-row-2": {
@@ -108,10 +108,10 @@
         "template--16756542243041__bcabf59b-916d-4c51-9604-a8f54c633b47-16788336298e9f40c0-0": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "On Back Legs Elevated",
+            "heading": "Arm Circles, Sitting with Strap",
             "icon": "none",
             "row_content": "",
-            "page": "free-exercise-on-back-legs-elevated"
+            "page": "free-exercise-arms-circles-sitting-with-strap"
           }
         }
       },
