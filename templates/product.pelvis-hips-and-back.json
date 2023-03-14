@@ -102,47 +102,34 @@
         "padding_bottom": 12
       }
     },
-    "multicolumn": {
-      "type": "multicolumn",
+    "a10a09c8-fe21-42b8-afde-f672ac0c2db2": {
+      "type": "rich-text",
       "blocks": {
-        "column-0": {
-          "type": "column",
+        "template--16756542243041__a10a09c8-fe21-42b8-afde-f672ac0c2db2-167883405626bbe3f2-0": {
+          "type": "heading",
           "settings": {
-            "title": "The Pelvis, Hips, and Back program will help with:",
-            "text": "",
-            "link_label": "",
-            "link": ""
+            "heading": "The Pelvis, Hips, and Back program will help with:",
+            "heading_size": "h1"
           }
         },
-        "column-1": {
-          "type": "column",
+        "template--16756542243041__a10a09c8-fe21-42b8-afde-f672ac0c2db2-167883405626bbe3f2-1": {
+          "type": "text",
           "settings": {
-            "title": "",
-            "text": "<ul><li>Anterior\/Posterior Pelvis Tilt<\/li><li>Uneven Hips<\/li><li>Back Pain (Upper and Lower)<\/li><li>Sciatica<\/li><li>Scoliosis<\/li><li>Herniated Disc<\/li><\/ul>",
-            "link_label": "",
-            "link": ""
+            "text": "<ul><li>Anterior\/Posterior Pelvis Tilt<\/li><li>Uneven Hips<\/li><li>Back Pain (Upper and Lower)<\/li><li>Sciatica<\/li><li>Scoliosis<\/li><li>Herniated Disc<\/li><\/ul>"
           }
         }
       },
       "block_order": [
-        "column-0",
-        "column-1"
+        "template--16756542243041__a10a09c8-fe21-42b8-afde-f672ac0c2db2-167883405626bbe3f2-0",
+        "template--16756542243041__a10a09c8-fe21-42b8-afde-f672ac0c2db2-167883405626bbe3f2-1"
       ],
       "settings": {
-        "title": "",
-        "heading_size": "h1",
-        "image_width": "full",
-        "image_ratio": "adapt",
-        "columns_desktop": 2,
-        "column_alignment": "left",
-        "background_style": "none",
-        "button_label": "",
-        "button_link": "",
+        "desktop_content_position": "center",
+        "content_alignment": "center",
         "color_scheme": "background-1",
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
-        "padding_top": 36,
-        "padding_bottom": 36
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
       }
     },
     "bcabf59b-916d-4c51-9604-a8f54c633b47": {
@@ -212,7 +199,7 @@
   },
   "order": [
     "main",
-    "multicolumn",
+    "a10a09c8-fe21-42b8-afde-f672ac0c2db2",
     "bcabf59b-916d-4c51-9604-a8f54c633b47",
     "related-products",
     "1678483955ef047447"
