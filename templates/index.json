@@ -188,6 +188,69 @@
         "padding_bottom": 72
       }
     },
+    "9a15741b-d522-4a1a-a0e9-81aabd55fc60": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--16752021111009__9a15741b-d522-4a1a-a0e9-81aabd55fc60-16789091084f45e1be-0": {
+          "type": "column",
+          "settings": {
+            "title": "<strong>AMAZING RESULTS<\/strong>",
+            "text": "<p>Added the board to other posture exercises by Posture Guy Mike!! Fast, noticeable improvement in my posture, breathing and confidence!!!! Thank you Posture Guy Mike!! 🤗♥️<\/p>",
+            "link_label": "Shop Posture Board",
+            "link": "shopify:\/\/products\/posture-board"
+          }
+        },
+        "template--16752021111009__9a15741b-d522-4a1a-a0e9-81aabd55fc60-16789091084f45e1be-1": {
+          "type": "column",
+          "settings": {
+            "title": "<strong>AWESOME GLASSES<\/strong>",
+            "text": "<p>These are amazing!! I can lie on the floor and watch tv or read a book.<br\/>They are a bit heavy on my nose but I absolutely love them! Thank you.<\/p>",
+            "link_label": "Shop Posture Glasses",
+            "link": "shopify:\/\/products\/posture-glasses"
+          }
+        },
+        "template--16752021111009__9a15741b-d522-4a1a-a0e9-81aabd55fc60-16789091084f45e1be-2": {
+          "type": "column",
+          "settings": {
+            "title": "<strong>COMFY SUPPORT!!<\/strong>",
+            "text": "<p>Comfortable support for those whose toes have a tendency to overlap!! And the tops stay up when wearing shoes!!!<\/p>",
+            "link_label": "Shop Posture Socks",
+            "link": "shopify:\/\/products\/posture-toe-separators"
+          }
+        },
+        "b7a6dbf3-849b-4686-a651-7c859c1ea373": {
+          "type": "column",
+          "settings": {
+            "title": "LOVE them ❤️",
+            "text": "<p>I’ve only had them for 3 days but I can already feel a slight improvement in my posture and the way I position my feet when walking. Would HIGHLY recommend.<\/p>",
+            "link_label": "Shop Posture Toes",
+            "link": "shopify:\/\/products\/posture-toes-active"
+          }
+        }
+      },
+      "block_order": [
+        "template--16752021111009__9a15741b-d522-4a1a-a0e9-81aabd55fc60-16789091084f45e1be-0",
+        "template--16752021111009__9a15741b-d522-4a1a-a0e9-81aabd55fc60-16789091084f45e1be-1",
+        "template--16752021111009__9a15741b-d522-4a1a-a0e9-81aabd55fc60-16789091084f45e1be-2",
+        "b7a6dbf3-849b-4686-a651-7c859c1ea373"
+      ],
+      "settings": {
+        "title": "What People Are Saying",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 4,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "0a691a46-f491-40cf-86bb-6f576e252d8e": {
       "type": "featured-collection",
       "disabled": true,
@@ -444,6 +507,7 @@
     "f1eaaff4-260a-40e9-b9a7-3f9de683ea5e",
     "19949a06-826b-448c-95da-d500f8e5f140",
     "featured_collection",
+    "9a15741b-d522-4a1a-a0e9-81aabd55fc60",
     "0a691a46-f491-40cf-86bb-6f576e252d8e",
     "b9f709ae-3175-4a88-8757-a05f74ecf9c0",
     "e57b1c77-b577-415e-ad5d-3db6e989e1a7",
