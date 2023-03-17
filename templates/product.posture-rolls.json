@@ -223,12 +223,23 @@
             "link_label": "",
             "link": ""
           }
+        },
+        "148a137f-b1c4-4f66-9afe-c7bea5faa785": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/BE1C62BF-4F2A-4684-BC67-2E31BB8178FC.jpg",
+            "title": "Includes 2 Rolls to Support Your Neck and Lumbar",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
         }
       },
       "block_order": [
         "template--16752139010273__a5b7a57d-1a00-4b50-ba6a-40508636a083-167847784664a9fa33-0",
         "aec904b4-81b0-4647-9f43-2b22f2a50a49",
-        "template--16752139010273__a5b7a57d-1a00-4b50-ba6a-40508636a083-167847784664a9fa33-1"
+        "template--16752139010273__a5b7a57d-1a00-4b50-ba6a-40508636a083-167847784664a9fa33-1",
+        "148a137f-b1c4-4f66-9afe-c7bea5faa785"
       ],
       "settings": {
         "title": "",
