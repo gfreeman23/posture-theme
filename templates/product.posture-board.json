@@ -46,7 +46,7 @@
         "buy_buttons": {
           "type": "buy_buttons",
           "settings": {
-            "show_dynamic_checkout": true
+            "show_dynamic_checkout": false
           }
         },
         "description": {
@@ -213,11 +213,33 @@
             "link_label": "",
             "link": ""
           }
+        },
+        "c0b97971-6c0c-4e7a-a674-d65b51be2762": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/posture_board_grip_tape.png",
+            "title": "Grip Tape Keeps You in Place",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "2b07b302-6b08-4f54-9356-174d72ab99fb": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/board_with_rubber_feet.png",
+            "title": "Rubber Feet to Keep the Board Secure",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
         }
       },
       "block_order": [
         "template--16752139010273__a5b7a57d-1a00-4b50-ba6a-40508636a083-167847784664a9fa33-0",
-        "template--16752139010273__a5b7a57d-1a00-4b50-ba6a-40508636a083-167847784664a9fa33-1"
+        "template--16752139010273__a5b7a57d-1a00-4b50-ba6a-40508636a083-167847784664a9fa33-1",
+        "c0b97971-6c0c-4e7a-a674-d65b51be2762",
+        "2b07b302-6b08-4f54-9356-174d72ab99fb"
       ],
       "settings": {
         "title": "",
