@@ -46,7 +46,7 @@
         "buy_buttons": {
           "type": "buy_buttons",
           "settings": {
-            "show_dynamic_checkout": true
+            "show_dynamic_checkout": false
           }
         },
         "description": {
@@ -204,6 +204,16 @@
             "link": ""
           }
         },
+        "aec904b4-81b0-4647-9f43-2b22f2a50a49": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/posture_roll_on_chair.png",
+            "title": "Great for the Office",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
         "template--16752139010273__a5b7a57d-1a00-4b50-ba6a-40508636a083-167847784664a9fa33-1": {
           "type": "column",
           "settings": {
@@ -217,6 +227,7 @@
       },
       "block_order": [
         "template--16752139010273__a5b7a57d-1a00-4b50-ba6a-40508636a083-167847784664a9fa33-0",
+        "aec904b4-81b0-4647-9f43-2b22f2a50a49",
         "template--16752139010273__a5b7a57d-1a00-4b50-ba6a-40508636a083-167847784664a9fa33-1"
       ],
       "settings": {
