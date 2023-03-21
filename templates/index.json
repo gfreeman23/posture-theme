@@ -23,8 +23,8 @@
             "button_label_1": "Shop Now",
             "button_link_1": "shopify:\/\/pages\/shop",
             "button_style_secondary_1": true,
-            "button_label_2": "Talk to Mike!",
-            "button_link_2": "https:\/\/calendly.com\/postureguymike\/1-on-1-with-posture-guy-mike?month=2023-03",
+            "button_label_2": "",
+            "button_link_2": "",
             "button_style_secondary_2": false
           }
         }
