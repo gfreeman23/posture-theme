@@ -278,6 +278,25 @@
         "padding_bottom": 72
       }
     },
+    "db23b6cf-2861-4b89-8858-00a5a977cd69": {
+      "type": "multicolumn",
+      "settings": {
+        "title": "Reviews\/Questions",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 72,
+        "padding_bottom": 0
+      }
+    },
     "1678483955ef047447": {
       "type": "apps",
       "blocks": {
@@ -317,6 +336,7 @@
     "multicolumn",
     "7f6b416e-28a1-4d37-a8aa-9c4e0baab772",
     "a5b7a57d-1a00-4b50-ba6a-40508636a083",
+    "db23b6cf-2861-4b89-8858-00a5a977cd69",
     "1678483955ef047447",
     "related-products"
   ]
