@@ -121,6 +121,59 @@
         "padding_bottom": 12
       }
     },
+    "multicolumn": {
+      "type": "multicolumn",
+      "blocks": {
+        "column-0": {
+          "type": "column",
+          "settings": {
+            "title": "Free Shipping",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column-1": {
+          "type": "column",
+          "settings": {
+            "title": "Free Returns",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "18bb3e35-b56b-4c51-bcb3-dd0df34b4172": {
+          "type": "column",
+          "settings": {
+            "title": "Fast Shipping",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column-0",
+        "column-1",
+        "18bb3e35-b56b-4c51-bcb3-dd0df34b4172"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h2",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-2",
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "padding_top": 16,
+        "padding_bottom": 16
+      }
+    },
     "7f6b416e-28a1-4d37-a8aa-9c4e0baab772": {
       "type": "multicolumn",
       "blocks": {
@@ -163,49 +216,6 @@
         "swipe_on_mobile": false,
         "padding_top": 72,
         "padding_bottom": 72
-      }
-    },
-    "multicolumn": {
-      "type": "multicolumn",
-      "blocks": {
-        "column-0": {
-          "type": "column",
-          "settings": {
-            "title": "Free Shipping",
-            "text": "<p>All orders within the USA ship for free.<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column-1": {
-          "type": "column",
-          "settings": {
-            "title": "Hassle-Free Exchanges",
-            "text": "<p>If you are not completely satisfied with your purchase, you can return it within 30 days for a refund or exchange.<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "column-0",
-        "column-1"
-      ],
-      "settings": {
-        "title": "",
-        "heading_size": "h1",
-        "image_width": "full",
-        "image_ratio": "adapt",
-        "columns_desktop": 2,
-        "column_alignment": "left",
-        "background_style": "none",
-        "button_label": "",
-        "button_link": "",
-        "color_scheme": "background-1",
-        "columns_mobile": "1",
-        "swipe_on_mobile": true,
-        "padding_top": 16,
-        "padding_bottom": 16
       }
     },
     "a5b7a57d-1a00-4b50-ba6a-40508636a083": {
@@ -307,85 +317,14 @@
         "padding_top": 72,
         "padding_bottom": 72
       }
-    },
-    "f87b9223-f1ed-450d-9747-08cbe603dc61": {
-      "type": "slideshow",
-      "blocks": {
-        "template--16752139010273__f87b9223-f1ed-450d-9747-08cbe603dc61-16794346096ca6b2f7-0": {
-          "type": "slide",
-          "settings": {
-            "heading": "Image slide",
-            "heading_size": "h1",
-            "subheading": "Tell your brand's story through images",
-            "button_label": "Button label",
-            "link": "",
-            "button_style_secondary": false,
-            "box_align": "middle-center",
-            "show_text_box": true,
-            "text_alignment": "center",
-            "image_overlay_opacity": 0,
-            "color_scheme": "background-1",
-            "text_alignment_mobile": "center"
-          }
-        },
-        "template--16752139010273__f87b9223-f1ed-450d-9747-08cbe603dc61-16794346096ca6b2f7-1": {
-          "type": "slide",
-          "settings": {
-            "heading": "Image slide",
-            "heading_size": "h1",
-            "subheading": "Tell your brand's story through images",
-            "button_label": "Button label",
-            "link": "",
-            "button_style_secondary": false,
-            "box_align": "middle-center",
-            "show_text_box": true,
-            "text_alignment": "center",
-            "image_overlay_opacity": 0,
-            "color_scheme": "background-1",
-            "text_alignment_mobile": "center"
-          }
-        },
-        "e8fb084b-97b0-4507-9935-c49c74939255": {
-          "type": "slide",
-          "settings": {
-            "heading": "Image slide",
-            "heading_size": "h1",
-            "subheading": "Tell your brand's story through images",
-            "button_label": "Button label",
-            "link": "",
-            "button_style_secondary": false,
-            "box_align": "middle-center",
-            "show_text_box": true,
-            "text_alignment": "center",
-            "image_overlay_opacity": 0,
-            "color_scheme": "background-1",
-            "text_alignment_mobile": "center"
-          }
-        }
-      },
-      "block_order": [
-        "template--16752139010273__f87b9223-f1ed-450d-9747-08cbe603dc61-16794346096ca6b2f7-0",
-        "template--16752139010273__f87b9223-f1ed-450d-9747-08cbe603dc61-16794346096ca6b2f7-1",
-        "e8fb084b-97b0-4507-9935-c49c74939255"
-      ],
-      "settings": {
-        "layout": "full_bleed",
-        "slide_height": "medium",
-        "slider_visual": "counter",
-        "auto_rotate": false,
-        "change_slides_speed": 5,
-        "show_text_below": true,
-        "accessibility_info": "Slideshow about our brand"
-      }
     }
   },
   "order": [
     "main",
-    "7f6b416e-28a1-4d37-a8aa-9c4e0baab772",
     "multicolumn",
+    "7f6b416e-28a1-4d37-a8aa-9c4e0baab772",
     "a5b7a57d-1a00-4b50-ba6a-40508636a083",
     "1678483955ef047447",
-    "related-products",
-    "f87b9223-f1ed-450d-9747-08cbe603dc61"
+    "related-products"
   ]
 }
