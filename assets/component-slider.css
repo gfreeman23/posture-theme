@@ -327,6 +327,7 @@ slider-component.slider-component-full-width {
   display: flex;
   align-items: center;
   justify-content: center;
+  margin-bottom: 20px;
 }
 
 @media screen and (min-width: 990px) {
@@ -364,7 +365,7 @@ slider-component.slider-component-full-width {
 }
 
 .slider-button .icon {
-  height: 0.6rem;
+  height: 1rem;
 }
 
 .slider-button[disabled] .icon {
