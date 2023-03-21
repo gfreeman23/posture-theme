@@ -144,22 +144,6 @@
         "padding_bottom": 72
       }
     },
-    "19949a06-826b-448c-95da-d500f8e5f140": {
-      "type": "video",
-      "settings": {
-        "heading": "How Can We Fix Your Posture?",
-        "subtext": "Unlock the Benefits of Good Posture: Simple Tips to Improve Your Health and Well-Being. Discover why proper posture is essential and how to achieve it with ease.",
-        "heading_size": "h1",
-        "enable_video_looping": true,
-        "video_url": "https:\/\/youtu.be\/wP_EK3nbJpI",
-        "cover_image": "shopify:\/\/shop_images\/thumbnail_youtube.jpg",
-        "description": "",
-        "full_width": false,
-        "color_scheme": "accent-1",
-        "padding_top": 72,
-        "padding_bottom": 72
-      }
-    },
     "featured_collection": {
       "type": "featured-collection",
       "settings": {
@@ -184,6 +168,22 @@
         "enable_quick_add": false,
         "columns_mobile": "2",
         "swipe_on_mobile": true,
+        "padding_top": 72,
+        "padding_bottom": 72
+      }
+    },
+    "19949a06-826b-448c-95da-d500f8e5f140": {
+      "type": "video",
+      "settings": {
+        "heading": "How Can We Fix Your Posture?",
+        "subtext": "Unlock the Benefits of Good Posture: Simple Tips to Improve Your Health and Well-Being. Discover why proper posture is essential and how to achieve it with ease.",
+        "heading_size": "h1",
+        "enable_video_looping": true,
+        "video_url": "https:\/\/youtu.be\/wP_EK3nbJpI",
+        "cover_image": "shopify:\/\/shop_images\/thumbnail_youtube.jpg",
+        "description": "",
+        "full_width": false,
+        "color_scheme": "accent-1",
         "padding_top": 72,
         "padding_bottom": 72
       }
@@ -563,8 +563,8 @@
     "image_banner",
     "rich_text",
     "f1eaaff4-260a-40e9-b9a7-3f9de683ea5e",
-    "19949a06-826b-448c-95da-d500f8e5f140",
     "featured_collection",
+    "19949a06-826b-448c-95da-d500f8e5f140",
     "9a15741b-d522-4a1a-a0e9-81aabd55fc60",
     "0a691a46-f491-40cf-86bb-6f576e252d8e",
     "b9f709ae-3175-4a88-8757-a05f74ecf9c0",
