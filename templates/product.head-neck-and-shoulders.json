@@ -222,16 +222,6 @@
         "padding_bottom": 36
       }
     },
-    "de210abe-2c37-4b81-aca6-9ba085126a89": {
-      "type": "page",
-      "settings": {
-        "page": "posture-program-course-information",
-        "heading_size": "h1",
-        "color_scheme": "background-1",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
     "related-products": {
       "type": "related-products",
       "settings": {
@@ -270,7 +260,6 @@
     "main",
     "bcabf59b-916d-4c51-9604-a8f54c633b47",
     "c3068676-5e4b-42ab-bd06-69e44ef9c5e1",
-    "de210abe-2c37-4b81-aca6-9ba085126a89",
     "related-products",
     "1678483955ef047447"
   ]
