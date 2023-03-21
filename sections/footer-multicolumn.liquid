@@ -58,7 +58,7 @@
             class="multicolumn-list__item grid__item"
             {{ block.shopify_attributes }}
           >
-            <a href="{{ block.settings.url }}">
+            <a href="{{ block.settings.link }}">
               <div class="content-container">
                 {%- if block.settings.image != blank -%}
                   {% if section.settings.image_ratio == 'adapt' or section.settings.image_ratio == 'circle' %}
