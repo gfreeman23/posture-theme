@@ -39,13 +39,6 @@
             "picker_type": "button"
           }
         },
-        "59fee636-6542-4141-8f8e-b2029eba1acb": {
-          "type": "text",
-          "settings": {
-            "text": "Text blockPowerful posture alignment tool!Relieves tension in many muscles!Align your joints!Ideal for all ages!5 adjustable positions!",
-            "text_style": "body"
-          }
-        },
         "quantity_selector": {
           "type": "quantity_selector",
           "settings": {
@@ -98,7 +91,6 @@
         "7e01f9b9-778a-4678-b455-41177de86c1d",
         "price",
         "variant_picker",
-        "59fee636-6542-4141-8f8e-b2029eba1acb",
         "quantity_selector",
         "buy_buttons",
         "description",
@@ -123,6 +115,7 @@
     },
     "multicolumn": {
       "type": "multicolumn",
+      "disabled": true,
       "blocks": {
         "column-0": {
           "type": "column",
