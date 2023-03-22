@@ -125,7 +125,7 @@
         "image-with-text-1": {
           "type": "text",
           "settings": {
-            "text": "<p>A simple, yet effective solution that not only provides comfort but facilitates the proper placement and function of your toes. The spreading apart “splaying” of your toes is crucial for providing fundamental anatomical optimization of your weight bearing feet.<\/p>",
+            "text": "<p>This simple solution not only brings comfort but also optimizes the weight-bearing feet by facilitating proper toe placement and function through splaying.<\/p>",
             "text_style": "body"
           }
         }
@@ -182,6 +182,51 @@
         "columns_desktop": 2,
         "column_alignment": "left",
         "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "20005c79-eabd-435b-a536-1a92a34ba526": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--16754178556129__20005c79-eabd-435b-a536-1a92a34ba526-167944361743ab3b69-0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/squished_feet_1000_x_1000_px.png",
+            "title": "<strong>Problem- Modern Shoes<\/strong>",
+            "text": "<p>Modern shoes prioritize fashion over function, causing foot deformation and issues like bunions due to unnatural positioning of toes, impacting your gait.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--16754178556129__20005c79-eabd-435b-a536-1a92a34ba526-167944361743ab3b69-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/solution_posture_toes.png",
+            "title": "<strong>Solution- Posture Toes<\/strong>",
+            "text": "<p>When using the Posture Toe Separators this will restore your toes back to their anatomical design\/natural shape!<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--16754178556129__20005c79-eabd-435b-a536-1a92a34ba526-167944361743ab3b69-0",
+        "template--16754178556129__20005c79-eabd-435b-a536-1a92a34ba526-167944361743ab3b69-1"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 2,
+        "column_alignment": "left",
+        "background_style": "primary",
         "button_label": "",
         "button_link": "",
         "color_scheme": "background-1",
@@ -258,51 +303,6 @@
         "padding_bottom": 36
       }
     },
-    "20005c79-eabd-435b-a536-1a92a34ba526": {
-      "type": "multicolumn",
-      "blocks": {
-        "template--16754178556129__20005c79-eabd-435b-a536-1a92a34ba526-167944361743ab3b69-0": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/squished_feet_1000_x_1000_px.png",
-            "title": "<strong>Problem- Modern Shoes<\/strong>",
-            "text": "<p>Modern shoes prioritize fashion over function, causing foot deformation and issues like bunions due to unnatural positioning of toes, impacting your gait.<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "template--16754178556129__20005c79-eabd-435b-a536-1a92a34ba526-167944361743ab3b69-1": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/solution_posture_toes.png",
-            "title": "<strong>Solution- Posture Toes<\/strong>",
-            "text": "<p>When using the Posture Toe Separators this will restore your toes back to their anatomical design\/natural shape!<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "template--16754178556129__20005c79-eabd-435b-a536-1a92a34ba526-167944361743ab3b69-0",
-        "template--16754178556129__20005c79-eabd-435b-a536-1a92a34ba526-167944361743ab3b69-1"
-      ],
-      "settings": {
-        "title": "",
-        "heading_size": "h1",
-        "image_width": "full",
-        "image_ratio": "adapt",
-        "columns_desktop": 2,
-        "column_alignment": "left",
-        "background_style": "primary",
-        "button_label": "",
-        "button_link": "",
-        "color_scheme": "background-1",
-        "columns_mobile": "1",
-        "swipe_on_mobile": true,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
     "related-products": {
       "type": "related-products",
       "settings": {
@@ -341,8 +341,8 @@
     "main",
     "image-with-text",
     "multicolumn",
-    "a5b7a57d-1a00-4b50-ba6a-40508636a083",
     "20005c79-eabd-435b-a536-1a92a34ba526",
+    "a5b7a57d-1a00-4b50-ba6a-40508636a083",
     "related-products",
     "1678483955ef047447"
   ]
