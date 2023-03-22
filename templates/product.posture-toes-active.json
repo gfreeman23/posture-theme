@@ -254,7 +254,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/posture_toes_active_stretch.png",
             "title": "Stretchy",
-            "text": "<p>Stretches to Fit All feet<\/p>",
+            "text": "<p>Stretches to fit all feet<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -263,8 +263,8 @@
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/posture_toes_active_outside.png",
-            "title": "Made for an Active Lifestyle",
-            "text": "",
+            "title": "Active",
+            "text": "<p>Made for an Active Lifestyle<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -273,8 +273,8 @@
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/posture_toes_active_workout.png",
-            "title": "Great for Working Out",
-            "text": "",
+            "title": "Workout",
+            "text": "<p>Toe loops<\/p>",
             "link_label": "",
             "link": ""
           }
