@@ -274,17 +274,9 @@
         "template--16754178556129__20005c79-eabd-435b-a536-1a92a34ba526-167944361743ab3b69-1": {
           "type": "column",
           "settings": {
+            "image": "shopify:\/\/shop_images\/solution_posture_toes.png",
             "title": "<strong>Solution- Posture Toes<\/strong>",
             "text": "<p>When using the Posture Toe Separators this will restore your toes back to their anatomical design\/natural shape!<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "template--16754178556129__20005c79-eabd-435b-a536-1a92a34ba526-167944361743ab3b69-2": {
-          "type": "column",
-          "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -292,8 +284,7 @@
       },
       "block_order": [
         "template--16754178556129__20005c79-eabd-435b-a536-1a92a34ba526-167944361743ab3b69-0",
-        "template--16754178556129__20005c79-eabd-435b-a536-1a92a34ba526-167944361743ab3b69-1",
-        "template--16754178556129__20005c79-eabd-435b-a536-1a92a34ba526-167944361743ab3b69-2"
+        "template--16754178556129__20005c79-eabd-435b-a536-1a92a34ba526-167944361743ab3b69-1"
       ],
       "settings": {
         "title": "",
@@ -303,7 +294,7 @@
         "columns_desktop": 2,
         "column_alignment": "left",
         "background_style": "primary",
-        "button_label": "Button label",
+        "button_label": "",
         "button_link": "",
         "color_scheme": "background-1",
         "columns_mobile": "1",
