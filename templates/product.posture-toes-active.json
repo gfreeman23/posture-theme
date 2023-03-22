@@ -261,22 +261,20 @@
         },
         "template--16752139010273__a5b7a57d-1a00-4b50-ba6a-40508636a083-167847784664a9fa33-2": {
           "type": "column",
-          "disabled": true,
           "settings": {
             "image": "shopify:\/\/shop_images\/posture_toes_active_outside.png",
-            "title": "Active",
-            "text": "<p>Made for an Active Lifestyle<\/p>",
+            "title": "Gentle Correction",
+            "text": "<p>Slowly correct your toes, pain free<\/p>",
             "link_label": "",
             "link": ""
           }
         },
         "377c59eb-9045-4d55-a3a6-ed0c4bd3afc0": {
           "type": "column",
-          "disabled": true,
           "settings": {
             "image": "shopify:\/\/shop_images\/posture_toes_active_workout.png",
-            "title": "Workout",
-            "text": "<p>Toe loops<\/p>",
+            "title": "Active Lifestyle",
+            "text": "<p>Ideal for workouts, running, jogging, or lounging.<\/p>",
             "link_label": "",
             "link": ""
           }
