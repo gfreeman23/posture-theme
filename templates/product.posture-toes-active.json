@@ -243,8 +243,8 @@
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/posture_toes_active_in_shoes.png",
-            "title": "Wear Them in Your Shoes",
-            "text": "",
+            "title": "Inside shoes",
+            "text": "<p>Wear them inside your wide toe box shoes.<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -253,8 +253,8 @@
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/posture_toes_active_stretch.png",
-            "title": "Stretches to Fit All feet",
-            "text": "",
+            "title": "Stretchy",
+            "text": "<p>Stretches to Fit All feet<\/p>",
             "link_label": "",
             "link": ""
           }
