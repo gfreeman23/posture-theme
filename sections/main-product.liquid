@@ -559,6 +559,40 @@
   </script>
 </section>
 
+
+<script>
+$(document).ready(function() {
+  var form = $('product-form');
+  var stickyForm = form.clone().attr('id', 'sticky-form').hide().appendTo('body');
+  var threshold = form.offset().top + form.outerHeight();
+
+  $(window).scroll(function() {
+    if ($(window).scrollTop() > threshold) {
+      stickyForm.show();
+    } else {
+      stickyForm.hide();
+    }
+  });
+
+  var lastScrollTop = 0;
+  $(window).scroll(function() {
+    var scrollTop = $(this).scrollTop();
+    if (scrollTop > lastScrollTop) {
+      // User is scrolling down
+      stickyForm.hide();
+    } else {
+      // User is scrolling up
+      if ($(window).scrollTop() > threshold) {
+        stickyForm.show();
+      }
+    }
+    lastScrollTop = scrollTop;
+  });
+});
+
+
+</script>
+
 {% schema %}
 {
   "name": "t:sections.main-product.name",
