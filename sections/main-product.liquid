@@ -561,37 +561,42 @@
 
 
 <script>
-$(document).ready(function() {
-  var form = $('product-form');
-  var stickyForm = form.clone().attr('id', 'sticky-form').hide().appendTo('body');
-  var threshold = form.offset().top + form.outerHeight();
 
-  $(window).scroll(function() {
-    if ($(window).scrollTop() > threshold) {
-      stickyForm.show();
+document.addEventListener("DOMContentLoaded", function() {
+  var form = document.querySelector('product-form');
+  var stickyForm = form.cloneNode(true);
+  stickyForm.id = 'sticky-form';
+  stickyForm.style.display = 'none';
+  document.body.appendChild(stickyForm);
+
+  var threshold = form.offsetTop + form.offsetHeight;
+
+  window.addEventListener('scroll', function() {
+    if (window.pageYOffset > threshold) {
+      stickyForm.style.display = 'block';
     } else {
-      stickyForm.hide();
+      stickyForm.style.display = 'none';
     }
   });
 
   var lastScrollTop = 0;
-  $(window).scroll(function() {
-    var scrollTop = $(this).scrollTop();
+  window.addEventListener('scroll', function() {
+    var scrollTop = window.pageYOffset || document.documentElement.scrollTop;
     if (scrollTop > lastScrollTop) {
       // User is scrolling down
-      stickyForm.hide();
+      stickyForm.style.display = 'none';
     } else {
       // User is scrolling up
-      if ($(window).scrollTop() > threshold) {
-        stickyForm.show();
+      if (window.pageYOffset > threshold) {
+        stickyForm.style.display = 'block';
       }
     }
     lastScrollTop = scrollTop;
   });
 });
 
-
 </script>
+
 
 {% schema %}
 {
