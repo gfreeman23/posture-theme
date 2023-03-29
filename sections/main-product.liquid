@@ -560,44 +560,6 @@
 </section>
 
 
-<script>
-
-document.addEventListener("DOMContentLoaded", function() {
-  var form = document.querySelector('product-form');
-  var stickyForm = form.cloneNode(true);
-  stickyForm.id = 'sticky-form';
-  stickyForm.style.display = 'none';
-  document.body.appendChild(stickyForm);
-
-  var threshold = form.offsetTop + form.offsetHeight;
-
-  window.addEventListener('scroll', function() {
-    if (window.pageYOffset > threshold) {
-      stickyForm.style.display = 'block';
-    } else {
-      stickyForm.style.display = 'none';
-    }
-  });
-
-  var lastScrollTop = 0;
-  window.addEventListener('scroll', function() {
-    var scrollTop = window.pageYOffset || document.documentElement.scrollTop;
-    if (scrollTop > lastScrollTop) {
-      // User is scrolling down
-      stickyForm.style.display = 'none';
-    } else {
-      // User is scrolling up
-      if (window.pageYOffset > threshold) {
-        stickyForm.style.display = 'block';
-      }
-    }
-    lastScrollTop = scrollTop;
-  });
-});
-
-</script>
-
-
 {% schema %}
 {
   "name": "t:sections.main-product.name",
