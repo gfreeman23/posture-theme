@@ -19,11 +19,17 @@
           "type": "buttons",
           "settings": {
           }
+        },
+        "836ac4ef-9a2a-43aa-91ca-7512b865bbf2": {
+          "type": "shopify:\/\/apps\/fondue-cashback-promotions\/blocks\/cashback-module\/dcfd972d-99c5-4526-b55b-2d76e990dec8",
+          "settings": {
+          }
         }
       },
       "block_order": [
         "subtotal",
-        "buttons"
+        "buttons",
+        "836ac4ef-9a2a-43aa-91ca-7512b865bbf2"
       ],
       "settings": {
       }
@@ -37,6 +43,7 @@
         "show_description": false,
         "description_style": "body",
         "collection": "all",
+        "collection-url": "",
         "products_to_show": 4,
         "columns_desktop": 4,
         "full_width": false,
