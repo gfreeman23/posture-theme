@@ -182,7 +182,7 @@
         "video_url": "https:\/\/www.youtube.com\/watch?v=DRk0RY37C5I",
         "cover_image": "shopify:\/\/shop_images\/pgm_video_thumbnail.jpg",
         "description": "",
-        "full_width": false,
+        "full_width": true,
         "color_scheme": "accent-1",
         "padding_top": 72,
         "padding_bottom": 72
