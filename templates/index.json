@@ -180,6 +180,7 @@
         "heading_size": "h1",
         "enable_video_looping": true,
         "video_url": "https:\/\/www.youtube.com\/watch?v=DRk0RY37C5I",
+        "cover_image": "shopify:\/\/shop_images\/pgm_video_thumbnail.jpg",
         "description": "",
         "full_width": false,
         "color_scheme": "accent-1",
