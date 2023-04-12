@@ -32,7 +32,7 @@
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/all-products.jpg",
-        "image_overlay_opacity": 50,
+        "image_overlay_opacity": 40,
         "image_height": "adapt",
         "desktop_content_position": "middle-left",
         "show_text_box": false,
