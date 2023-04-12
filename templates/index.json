@@ -154,7 +154,7 @@
         "description_style": "body",
         "collection": "featured-products",
         "collection-url": "shopify:\/\/pages\/shop",
-        "products_to_show": 7,
+        "products_to_show": 6,
         "columns_desktop": 4,
         "full_width": false,
         "show_view_all": true,
