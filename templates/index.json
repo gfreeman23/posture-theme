@@ -35,14 +35,14 @@
         "button"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/posture_exercises.jpg",
+        "image": "shopify:\/\/shop_images\/mike-and-model-with-strap.jpg",
         "image_overlay_opacity": 40,
         "image_height": "medium",
         "desktop_content_position": "middle-left",
         "show_text_box": false,
         "desktop_content_alignment": "left",
         "color_scheme": "background-1",
-        "mobile_content_alignment": "left",
+        "mobile_content_alignment": "center",
         "stack_images_on_mobile": false,
         "show_text_below": false
       }
