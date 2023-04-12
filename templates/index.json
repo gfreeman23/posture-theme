@@ -183,7 +183,7 @@
         "cover_image": "shopify:\/\/shop_images\/pgm_video_thumbnail.jpg",
         "description": "",
         "full_width": true,
-        "color_scheme": "accent-1",
+        "color_scheme": "background-1",
         "padding_top": 72,
         "padding_bottom": 72
       }
