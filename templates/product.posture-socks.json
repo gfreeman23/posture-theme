@@ -132,7 +132,7 @@
         "desktop_content_position": "top",
         "desktop_content_alignment": "left",
         "content_layout": "no-overlap",
-        "color_scheme": "background-2",
+        "color_scheme": "background-1",
         "mobile_content_alignment": "left",
         "padding_top": 36,
         "padding_bottom": 36
@@ -189,7 +189,7 @@
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/putting-on.jpg",
-            "title": "Relax and Lound with Posture Socks",
+            "title": "Relax with Posture Socks",
             "text": "",
             "link_label": "",
             "link": ""
@@ -204,23 +204,45 @@
             "link_label": "",
             "link": ""
           }
+        },
+        "581ec180-af9d-4306-961c-3b89b3871e75": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/finger-exercise.jpg",
+            "title": "Helps with Foot Pain",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "e96ed783-e9dc-411e-8c04-b1500e1efb82": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/over-posture-socks.jpg",
+            "title": "Pairs Great with the Posture Toes",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
         }
       },
       "block_order": [
         "template--16752139010273__a5b7a57d-1a00-4b50-ba6a-40508636a083-167847784664a9fa33-0",
-        "template--16752139010273__a5b7a57d-1a00-4b50-ba6a-40508636a083-167847784664a9fa33-1"
+        "template--16752139010273__a5b7a57d-1a00-4b50-ba6a-40508636a083-167847784664a9fa33-1",
+        "581ec180-af9d-4306-961c-3b89b3871e75",
+        "e96ed783-e9dc-411e-8c04-b1500e1efb82"
       ],
       "settings": {
         "title": "",
         "heading_size": "h1",
         "image_width": "full",
         "image_ratio": "adapt",
-        "columns_desktop": 2,
+        "columns_desktop": 4,
         "column_alignment": "left",
         "background_style": "none",
         "button_label": "",
         "button_link": "",
-        "color_scheme": "background-1",
+        "color_scheme": "background-2",
         "columns_mobile": "1",
         "swipe_on_mobile": true,
         "padding_top": 36,
