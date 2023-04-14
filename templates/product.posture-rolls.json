@@ -135,7 +135,7 @@
         "image-with-text-1"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/ABAE3D2F-7253-461B-941A-10D026F5A919.png",
+        "image": "shopify:\/\/shop_images\/foam_roll_vs_no_roll.png",
         "height": "medium",
         "desktop_image_width": "medium",
         "layout": "text_first",
@@ -197,7 +197,7 @@
         "template--16752139010273__a5b7a57d-1a00-4b50-ba6a-40508636a083-167847784664a9fa33-0": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/2B80B50A-6021-4990-8CFB-5A5E8176AAFC.jpg",
+            "image": "shopify:\/\/shop_images\/neck-close-up.jpg",
             "title": "Restore Your Neck's Natural Curve",
             "text": "",
             "link_label": "",
@@ -207,7 +207,7 @@
         "aec904b4-81b0-4647-9f43-2b22f2a50a49": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/posture_roll_on_chair.png",
+            "image": "shopify:\/\/shop_images\/sitting-in-chair.jpg",
             "title": "Great for the Office",
             "text": "",
             "link_label": "",
@@ -217,7 +217,7 @@
         "template--16752139010273__a5b7a57d-1a00-4b50-ba6a-40508636a083-167847784664a9fa33-1": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/B7E321C3-34CB-4A12-9D33-CC0A815E870A.jpg",
+            "image": "shopify:\/\/shop_images\/lumbar-close-up.jpg",
             "title": "Restore the Curve in Your Lumbar",
             "text": "",
             "link_label": "",
@@ -227,8 +227,8 @@
         "148a137f-b1c4-4f66-9afe-c7bea5faa785": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/BE1C62BF-4F2A-4684-BC67-2E31BB8178FC.jpg",
-            "title": "Includes 2 Rolls to Support Your Neck and Lumbar",
+            "image": "shopify:\/\/shop_images\/foam-density.jpg",
+            "title": "Foam density specific for posture exercises",
             "text": "",
             "link_label": "",
             "link": ""
