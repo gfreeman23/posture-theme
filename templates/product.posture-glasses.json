@@ -125,7 +125,7 @@
         "image-with-text-1"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/F420F9DA-44EC-421A-B538-E19C4E908BCF.png",
+        "image": "shopify:\/\/shop_images\/glasses_before_after_square.png",
         "height": "medium",
         "desktop_image_width": "medium",
         "layout": "text_first",
@@ -197,7 +197,7 @@
         "template--16752139010273__a5b7a57d-1a00-4b50-ba6a-40508636a083-167847784664a9fa33-1": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/posture_glasses_reading.png",
+            "image": "shopify:\/\/shop_images\/reading-a-book.jpg",
             "title": "Reading a Book",
             "text": "",
             "link_label": "",
@@ -207,7 +207,7 @@
         "template--16752139010273__a5b7a57d-1a00-4b50-ba6a-40508636a083-167847784664a9fa33-2": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/posture_glasses_90_degree_angle.png",
+            "image": "shopify:\/\/shop_images\/90_degree_angle.jpg",
             "title": "See at a 90° angle",
             "text": "",
             "link_label": "",
@@ -217,7 +217,7 @@
         "377c59eb-9045-4d55-a3a6-ed0c4bd3afc0": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/posture_glasses_phone.png",
+            "image": "shopify:\/\/shop_images\/on-phone.jpg",
             "title": "Use Your Cellphone",
             "text": "",
             "link_label": "",
