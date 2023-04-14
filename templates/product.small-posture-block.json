@@ -197,7 +197,7 @@
         "template--16752139010273__a5b7a57d-1a00-4b50-ba6a-40508636a083-167847784664a9fa33-0": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/small_posture_block_standing.png",
+            "image": "shopify:\/\/shop_images\/close-up-side-view-standing.jpg",
             "title": "Standing",
             "text": "",
             "link_label": "",
@@ -207,7 +207,7 @@
         "template--16752139010273__a5b7a57d-1a00-4b50-ba6a-40508636a083-167847784664a9fa33-1": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/small_posture_block_squating.png",
+            "image": "shopify:\/\/shop_images\/wall-sit.jpg",
             "title": "Squating",
             "text": "",
             "link_label": "",
@@ -217,7 +217,7 @@
         "template--16752139010273__a5b7a57d-1a00-4b50-ba6a-40508636a083-167847784664a9fa33-2": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/small_posture_block_lying_down.png",
+            "image": "shopify:\/\/shop_images\/layiong-with-block.jpg",
             "title": "Lying Down",
             "text": "",
             "link_label": "",
@@ -227,7 +227,7 @@
         "377c59eb-9045-4d55-a3a6-ed0c4bd3afc0": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/small_posture_block_lying_down_1.png",
+            "image": "shopify:\/\/shop_images\/sitting-with-large-block.jpg",
             "title": "Sitting",
             "text": "",
             "link_label": "",
@@ -246,7 +246,7 @@
         "heading_size": "h1",
         "image_width": "full",
         "image_ratio": "adapt",
-        "columns_desktop": 2,
+        "columns_desktop": 4,
         "column_alignment": "left",
         "background_style": "none",
         "button_label": "",
