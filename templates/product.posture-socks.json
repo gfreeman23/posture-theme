@@ -140,6 +140,7 @@
     },
     "multicolumn": {
       "type": "multicolumn",
+      "disabled": true,
       "blocks": {
         "column-0": {
           "type": "column",
@@ -187,7 +188,7 @@
         "template--16752139010273__a5b7a57d-1a00-4b50-ba6a-40508636a083-167847784664a9fa33-0": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/posture_socks_in_bed.png",
+            "image": "shopify:\/\/shop_images\/putting-on.jpg",
             "title": "Relax and Lound with Posture Socks",
             "text": "",
             "link_label": "",
@@ -197,7 +198,7 @@
         "template--16752139010273__a5b7a57d-1a00-4b50-ba6a-40508636a083-167847784664a9fa33-1": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/posture_socks_with_emily.png",
+            "image": "shopify:\/\/shop_images\/top-view.jpg",
             "title": "Fits All 5 Toes Comfortably",
             "text": "",
             "link_label": "",
