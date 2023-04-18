@@ -1,3 +1,6 @@
 <script type="text/javascript" src="https://sdk.qikify.com/boosterkit/app-v1.js" defer="defer"></script>
 {% render 'qikify-boosterkit-offer' %}
 {% render 'qikify-boosterkit-data' %}
+<script id="qikify-boosterkit-custom-script">document.addEventListener('fondue:cart.updated', () => {
+  document.dispatchEvent(new CustomEvent('boosterkit-cart-change'))
+})</script>
