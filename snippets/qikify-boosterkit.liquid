@@ -2,5 +2,7 @@
 {% render 'qikify-boosterkit-offer' %}
 {% render 'qikify-boosterkit-data' %}
 <script id="qikify-boosterkit-custom-script">document.addEventListener('fondue:cart.updated', () => {
-  document.dispatchEvent(new CustomEvent('boosterkit-cart-change'))
+  if (window.qbkStore && window.qbkStore.isCartPage) {
+    document.dispatchEvent(new CustomEvent('boosterkit-cart-change'))
+  }
 })</script>
