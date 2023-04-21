@@ -1,0 +1,343 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "vendor": {
+          "type": "text",
+          "settings": {
+            "text": "{{ product.vendor }}",
+            "text_style": "uppercase"
+          }
+        },
+        "title": {
+          "type": "title",
+          "settings": {
+          }
+        },
+        "caption": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "Powerful posture alignment tool!Relieves tension in many muscles!Align your joints!Ideal for all ages!5 adjustable positions!",
+            "text_style": "subtitle"
+          }
+        },
+        "7e01f9b9-778a-4678-b455-41177de86c1d": {
+          "type": "shopify:\/\/apps\/judge-me-product-reviews\/blocks\/preview_badge\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {
+          }
+        },
+        "price": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "variant_picker": {
+          "type": "variant_picker",
+          "settings": {
+            "picker_type": "button"
+          }
+        },
+        "quantity_selector": {
+          "type": "quantity_selector",
+          "settings": {
+          }
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": false
+          }
+        },
+        "description": {
+          "type": "description",
+          "disabled": true,
+          "settings": {
+          }
+        },
+        "collapsible-row-0": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Details",
+            "icon": "eye",
+            "content": "<ul><li>Powerful posture alignment tool!<\/li><li>Relieves tension in many muscles!<\/li><li>Align your joints!<\/li><li>Ideal for all ages!<\/li><li>5 adjustable positions!<\/li><\/ul>",
+            "page": ""
+          }
+        },
+        "collapsible-row-1": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Shipping & Returns",
+            "icon": "truck",
+            "content": "",
+            "page": "shipping-returns"
+          }
+        },
+        "collapsible-row-2": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Instructions",
+            "icon": "clipboard",
+            "content": "<p>1. Place the board up against a wall<br\/><br\/>2. Start with the lowest setting (you can raise it the more you use the board)<br\/><br\/>3. Straddle the Posture Board<br\/><br\/>4. Slowly step on the board<br\/><br\/>5. Keep your feet fist distance apart, slightly pigeon toed<br\/><br\/>6. Keep your heels, back, hips, and upper back against the wall<br\/><br\/>7. Keep your head in a relaxed neutral position looking straight<br\/><br\/>8. Stand on the board for 5-10 minutes per day<br\/><br\/>LEARN MORE <a href=\"https:\/\/www.postureguymike.com\/blogs\/postural-therapy\/what-is-a-posture-board\" target=\"_blank\" title=\"https:\/\/www.postureguymike.com\/blogs\/postural-therapy\/what-is-a-posture-board\">HERE<\/a><\/p>",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "vendor",
+        "title",
+        "caption",
+        "7e01f9b9-778a-4678-b455-41177de86c1d",
+        "price",
+        "variant_picker",
+        "quantity_selector",
+        "buy_buttons",
+        "description",
+        "collapsible-row-0",
+        "collapsible-row-1",
+        "collapsible-row-2"
+      ],
+      "settings": {
+        "enable_sticky_info": true,
+        "media_size": "large",
+        "constrain_to_viewport": true,
+        "media_fit": "contain",
+        "gallery_layout": "thumbnail",
+        "media_position": "left",
+        "image_zoom": "lightbox",
+        "mobile_thumbnails": "hide",
+        "hide_variants": true,
+        "enable_video_looping": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "multicolumn": {
+      "type": "multicolumn",
+      "disabled": true,
+      "blocks": {
+        "column-0": {
+          "type": "column",
+          "settings": {
+            "title": "Free Shipping",
+            "text": "<p>All orders within the USA ship for free.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column-1": {
+          "type": "column",
+          "settings": {
+            "title": "Free Returns",
+            "text": "<p>If you are not completely satisfied with your purchase, you can return it within 30 days for a refund or exchange.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "18bb3e35-b56b-4c51-bcb3-dd0df34b4172": {
+          "type": "column",
+          "settings": {
+            "title": "Fast Shipping",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column-0",
+        "column-1",
+        "18bb3e35-b56b-4c51-bcb3-dd0df34b4172"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h2",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "padding_top": 16,
+        "padding_bottom": 16
+      }
+    },
+    "7f6b416e-28a1-4d37-a8aa-9c4e0baab772": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--16752139010273__7f6b416e-28a1-4d37-a8aa-9c4e0baab772-167943439940754117-0": {
+          "type": "column",
+          "settings": {
+            "title": "<strong>Just 5 Minutes a Day!<\/strong>",
+            "text": "<p>By simply standing on the Posture Board with your head, shoulders, hips, and feet touching a wall for 5-10 minutes, daily, the power of gravity together with the Posture Board, can balance and align your body from head to heel, and symmetrically, from side to side. It can promote anatomical alignment, which can alleviate the pain associated with conditions such as:<br\/><br\/><\/p><ul><li><strong>Limited ankle dorsiflexion<\/strong><\/li><li><strong>Foot Supination & Pronation<\/strong><\/li><li><strong>Tailor’s Bunion<\/strong><\/li><li><strong>Femur Rotation (in or out)<\/strong><\/li><li><strong>Anterior & Posterior Pelvic Tilt<\/strong><\/li><li><strong>Spine Curvature<\/strong><\/li><li><strong>Scoliosis, and Levoscoliosis<\/strong><\/li><li><strong>Forward head posture (FHP)<\/strong><\/li><\/ul>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--16752139010273__7f6b416e-28a1-4d37-a8aa-9c4e0baab772-167943439940754117-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/before_after.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--16752139010273__7f6b416e-28a1-4d37-a8aa-9c4e0baab772-167943439940754117-0",
+        "template--16752139010273__7f6b416e-28a1-4d37-a8aa-9c4e0baab772-167943439940754117-1"
+      ],
+      "settings": {
+        "title": "Benefits of Using a Posture Board",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 2,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 72,
+        "padding_bottom": 72
+      }
+    },
+    "a5b7a57d-1a00-4b50-ba6a-40508636a083": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--16752139010273__a5b7a57d-1a00-4b50-ba6a-40508636a083-167847784664a9fa33-0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/066493D6-7A0B-403C-9C8E-AEB21F82E24F.jpg",
+            "title": "Gravity Helps",
+            "text": "<p>Let gravity realign your neck position<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--16752139010273__a5b7a57d-1a00-4b50-ba6a-40508636a083-167847784664a9fa33-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/869B5024-6618-4F11-AAA3-F8DC7A282678-1.jpg",
+            "title": "Tension",
+            "text": "<p>Removes tension in your back and neck muscles<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "c0b97971-6c0c-4e7a-a674-d65b51be2762": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/posture_board_grip_tape.png",
+            "title": "Stand on the Board",
+            "text": "<p>This will align your entire body<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "2b07b302-6b08-4f54-9356-174d72ab99fb": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/53FB188D-6217-4F8E-A912-C5B9F70B965D.jpg",
+            "title": "Fix Forward Head",
+            "text": "<p>This position makes your head a 40LB bowling ball<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--16752139010273__a5b7a57d-1a00-4b50-ba6a-40508636a083-167847784664a9fa33-0",
+        "template--16752139010273__a5b7a57d-1a00-4b50-ba6a-40508636a083-167847784664a9fa33-1",
+        "c0b97971-6c0c-4e7a-a674-d65b51be2762",
+        "2b07b302-6b08-4f54-9356-174d72ab99fb"
+      ],
+      "settings": {
+        "title": "Key Features",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 4,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-2",
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "padding_top": 72,
+        "padding_bottom": 72
+      }
+    },
+    "db23b6cf-2861-4b89-8858-00a5a977cd69": {
+      "type": "multicolumn",
+      "settings": {
+        "title": "Reviews\/Questions",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 72,
+        "padding_bottom": 0
+      }
+    },
+    "1678483955ef047447": {
+      "type": "apps",
+      "blocks": {
+        "1b8be373-62f1-4920-b079-763ef978ee09": {
+          "type": "shopify:\/\/apps\/judge-me-product-reviews\/blocks\/review_widget\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "1b8be373-62f1-4920-b079-763ef978ee09"
+      ],
+      "settings": {
+        "include_margins": true
+      }
+    },
+    "related-products": {
+      "type": "related-products",
+      "settings": {
+        "heading": "You may also like",
+        "heading_size": "h2",
+        "products_to_show": 4,
+        "columns_desktop": 4,
+        "color_scheme": "background-1",
+        "image_ratio": "square",
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_rating": false,
+        "columns_mobile": "2",
+        "padding_top": 72,
+        "padding_bottom": 72
+      }
+    }
+  },
+  "order": [
+    "main",
+    "multicolumn",
+    "7f6b416e-28a1-4d37-a8aa-9c4e0baab772",
+    "a5b7a57d-1a00-4b50-ba6a-40508636a083",
+    "db23b6cf-2861-4b89-8858-00a5a977cd69",
+    "1678483955ef047447",
+    "related-products"
+  ]
+}
