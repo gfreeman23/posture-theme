@@ -154,34 +154,6 @@
         "padding_top": 72,
         "padding_bottom": 72
       }
-    },
-    "86c688a5-b6cd-459c-bcd5-3c1cb85b5d0e": {
-      "type": "featured-collection",
-      "settings": {
-        "title": "Flux Footwear",
-        "heading_size": "h1",
-        "description": "",
-        "show_description": false,
-        "description_style": "body",
-        "collection": "flux-footwear",
-        "collection-url": "",
-        "products_to_show": 4,
-        "columns_desktop": 4,
-        "full_width": false,
-        "show_view_all": true,
-        "view_all_style": "solid",
-        "enable_desktop_slider": false,
-        "color_scheme": "background-1",
-        "image_ratio": "adapt",
-        "show_secondary_image": false,
-        "show_vendor": false,
-        "show_rating": false,
-        "enable_quick_add": false,
-        "columns_mobile": "2",
-        "swipe_on_mobile": true,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
     }
   },
   "order": [
@@ -190,7 +162,6 @@
     "e438d979-7ae4-430b-9895-e69105885233",
     "109233c3-a1cc-430f-819d-09c4f8ac8ada",
     "c36784ae-b477-4c23-b1e9-81d5b72949eb",
-    "c3ffe8be-baae-47f1-abf3-3b1d01f9450c",
-    "86c688a5-b6cd-459c-bcd5-3c1cb85b5d0e"
+    "c3ffe8be-baae-47f1-abf3-3b1d01f9450c"
   ]
 }
