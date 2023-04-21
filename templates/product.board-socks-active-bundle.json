@@ -173,8 +173,8 @@
         "template--16752139010273__7f6b416e-28a1-4d37-a8aa-9c4e0baab772-167943439940754117-0": {
           "type": "column",
           "settings": {
-            "title": "<strong>Just 5 Minutes a Day!<\/strong>",
-            "text": "<p>By simply standing on the Posture Board with your head, shoulders, hips, and feet touching a wall for 5-10 minutes, daily, the power of gravity together with the Posture Board, can balance and align your body from head to heel, and symmetrically, from side to side. It can promote anatomical alignment, which can alleviate the pain associated with conditions such as:<br\/><br\/><\/p><ul><li><strong>Limited ankle dorsiflexion<\/strong><\/li><li><strong>Foot Supination & Pronation<\/strong><\/li><li><strong>Tailor’s Bunion<\/strong><\/li><li><strong>Femur Rotation (in or out)<\/strong><\/li><li><strong>Anterior & Posterior Pelvic Tilt<\/strong><\/li><li><strong>Spine Curvature<\/strong><\/li><li><strong>Scoliosis, and Levoscoliosis<\/strong><\/li><li><strong>Forward head posture (FHP)<\/strong><\/li><\/ul>",
+            "title": "",
+            "text": "<p>By simply standing on the Posture Board with your head, shoulders, hips, and feet touching a wall for 5-10 minutes, daily, the power of gravity together with the Posture Board, Posture Socks, and Posture Toes, can balance and align your body from head to heel, which can alleviate the pain associated with conditions such as:<br\/><br\/><\/p><ul><li><strong>Limited ankle dorsiflexion<\/strong><\/li><li><strong>Foot Supination & Pronation<\/strong><\/li><li><strong>Tailor’s Bunion<\/strong><\/li><li><strong>Plantar Fasciitis<\/strong><\/li><li><strong>Foot Pain<\/strong><\/li><li><strong>Corns<\/strong><\/li><li><strong>Hammer Toe<\/strong><\/li><li><strong>Femur Rotation (in or out)<\/strong><\/li><li><strong>Scoliosis, and Levoscoliosis<\/strong><\/li><li><strong>Forward head posture (FHP)<\/strong><\/li><\/ul>",
             "link_label": "",
             "link": ""
           }
@@ -195,7 +195,7 @@
         "template--16752139010273__7f6b416e-28a1-4d37-a8aa-9c4e0baab772-167943439940754117-1"
       ],
       "settings": {
-        "title": "Benefits of Using a Posture Board",
+        "title": "Benefits of Using the Foot Pain Bundle",
         "heading_size": "h1",
         "image_width": "full",
         "image_ratio": "adapt",
@@ -227,9 +227,9 @@
         "template--16752139010273__a5b7a57d-1a00-4b50-ba6a-40508636a083-167847784664a9fa33-1": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/869B5024-6618-4F11-AAA3-F8DC7A282678-1.jpg",
-            "title": "Tension",
-            "text": "<p>Removes tension in your back and neck muscles<\/p>",
+            "image": "shopify:\/\/shop_images\/top-view.jpg",
+            "title": "Comfort and Function",
+            "text": "<p>The spreading or “splaying” of your toes provides a stable and balanced foot<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -237,9 +237,9 @@
         "c0b97971-6c0c-4e7a-a674-d65b51be2762": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/posture_board_grip_tape.png",
-            "title": "Stand on the Board",
-            "text": "<p>This will align your entire body<\/p>",
+            "image": "shopify:\/\/shop_images\/squished_feet_1000_x_1000_px.png",
+            "title": "Problem- Modern Shoes",
+            "text": "<p>Modern shoes prioritize fashion over function, causing foot deformation and issues like bunions.<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -247,9 +247,9 @@
         "2b07b302-6b08-4f54-9356-174d72ab99fb": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/53FB188D-6217-4F8E-A912-C5B9F70B965D.jpg",
-            "title": "Fix Forward Head",
-            "text": "<p>This position makes your head a 40LB bowling ball<\/p>",
+            "image": "shopify:\/\/shop_images\/active_posture_toes_solution.png",
+            "title": "Solution- Posture Toes",
+            "text": "<p>When using the Posture Toe Separators this will restore your toes back to their anatomical design\/natural shape!<\/p>",
             "link_label": "",
             "link": ""
           }
