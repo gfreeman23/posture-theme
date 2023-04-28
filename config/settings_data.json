@@ -126,6 +126,11 @@
     "show_cart_note": false,
     "cart_drawer_collection": "",
     "checkout_logo_image": "shopify:\/\/shop_images\/1536x512-google-banner-jpeg.jpg",
+    "checkout_body_background_color": "#ffffff",
+    "checkout_input_background_color_mode": "white",
+    "checkout_sidebar_background_color": "#f3f3f3",
+    "checkout_accent_color": "#00b7eb",
+    "checkout_button_color": "#0c405f",
     "sections": {
       "main-password-header": {
         "type": "main-password-header",
