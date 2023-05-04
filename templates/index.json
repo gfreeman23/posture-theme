@@ -281,8 +281,27 @@
         "padding_bottom": 72
       }
     },
+    "79803dad-ce34-49f5-87e3-bad581e19bb7": {
+      "type": "featured-blog",
+      "disabled": true,
+      "settings": {
+        "heading": "Learning Center",
+        "heading_size": "h1",
+        "blog": "postural-therapy",
+        "post_limit": 4,
+        "columns_desktop": 4,
+        "color_scheme": "background-1",
+        "show_image": true,
+        "show_date": true,
+        "show_author": false,
+        "show_view_all": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "b9f709ae-3175-4a88-8757-a05f74ecf9c0": {
       "type": "multicolumn",
+      "disabled": true,
       "blocks": {
         "template--16752021111009__b9f709ae-3175-4a88-8757-a05f74ecf9c0-1678229958304e0ad3-1": {
           "type": "column",
@@ -567,6 +586,7 @@
     "19949a06-826b-448c-95da-d500f8e5f140",
     "9a15741b-d522-4a1a-a0e9-81aabd55fc60",
     "0a691a46-f491-40cf-86bb-6f576e252d8e",
+    "79803dad-ce34-49f5-87e3-bad581e19bb7",
     "b9f709ae-3175-4a88-8757-a05f74ecf9c0",
     "e57b1c77-b577-415e-ad5d-3db6e989e1a7",
     "85c43fb5-fe9e-4ee0-8a14-c651654f8a05",
