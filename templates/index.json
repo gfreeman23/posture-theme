@@ -144,6 +144,34 @@
         "padding_bottom": 72
       }
     },
+    "featured_collection": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Products to Help your Posture",
+        "heading_size": "h1",
+        "description": "<p>Experience the benefits of posture products: Relieve pain, improve alignment, and boost confidence with our top-rated posture tools. Invest in your health and well-being today and enjoy better posture tomorrow.<\/p>",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "featured-products",
+        "collection-url": "shopify:\/\/pages\/shop",
+        "products_to_show": 6,
+        "columns_desktop": 4,
+        "full_width": false,
+        "show_view_all": true,
+        "view_all_style": "solid",
+        "enable_desktop_slider": true,
+        "color_scheme": "background-2",
+        "image_ratio": "adapt",
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_rating": true,
+        "enable_quick_add": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 72,
+        "padding_bottom": 72
+      }
+    },
     "image_banner": {
       "type": "image-banner",
       "blocks": {
@@ -189,34 +217,6 @@
         "mobile_content_alignment": "center",
         "stack_images_on_mobile": false,
         "show_text_below": false
-      }
-    },
-    "featured_collection": {
-      "type": "featured-collection",
-      "settings": {
-        "title": "Products to Help your Posture",
-        "heading_size": "h1",
-        "description": "<p>Experience the benefits of posture products: Relieve pain, improve alignment, and boost confidence with our top-rated posture tools. Invest in your health and well-being today and enjoy better posture tomorrow.<\/p>",
-        "show_description": false,
-        "description_style": "body",
-        "collection": "featured-products",
-        "collection-url": "shopify:\/\/pages\/shop",
-        "products_to_show": 6,
-        "columns_desktop": 4,
-        "full_width": false,
-        "show_view_all": true,
-        "view_all_style": "solid",
-        "enable_desktop_slider": true,
-        "color_scheme": "background-2",
-        "image_ratio": "adapt",
-        "show_secondary_image": false,
-        "show_vendor": false,
-        "show_rating": true,
-        "enable_quick_add": false,
-        "columns_mobile": "2",
-        "swipe_on_mobile": true,
-        "padding_top": 72,
-        "padding_bottom": 72
       }
     },
     "19949a06-826b-448c-95da-d500f8e5f140": {
@@ -582,8 +582,8 @@
     "e57b1c77-b577-415e-ad5d-3db6e989e1a7",
     "rich_text",
     "f1eaaff4-260a-40e9-b9a7-3f9de683ea5e",
-    "image_banner",
     "featured_collection",
+    "image_banner",
     "19949a06-826b-448c-95da-d500f8e5f140",
     "9a15741b-d522-4a1a-a0e9-81aabd55fc60",
     "0a691a46-f491-40cf-86bb-6f576e252d8e",
