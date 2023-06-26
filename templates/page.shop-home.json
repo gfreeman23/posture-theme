@@ -130,6 +130,7 @@
     },
     "c3ffe8be-baae-47f1-abf3-3b1d01f9450c": {
       "type": "featured-collection",
+      "disabled": true,
       "settings": {
         "title": "Posture Merch",
         "heading_size": "h1",
