@@ -101,6 +101,7 @@
     },
     "c36784ae-b477-4c23-b1e9-81d5b72949eb": {
       "type": "featured-collection",
+      "disabled": true,
       "settings": {
         "title": "Posture Programs",
         "heading_size": "h1",
