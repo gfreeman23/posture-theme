@@ -448,34 +448,6 @@
         "padding_bottom": 36
       }
     },
-    "e2e9a1e2-68f1-40ff-bae3-caab148ed73c": {
-      "type": "featured-collection",
-      "settings": {
-        "title": "Posture Merch",
-        "heading_size": "h1",
-        "description": "<p>Unleash your unique style with our new merch!<\/p>",
-        "show_description": false,
-        "description_style": "body",
-        "collection": "clothing",
-        "collection-url": "shopify:\/\/collections\/clothing",
-        "products_to_show": 7,
-        "columns_desktop": 4,
-        "full_width": false,
-        "show_view_all": true,
-        "view_all_style": "solid",
-        "enable_desktop_slider": true,
-        "color_scheme": "background-2",
-        "image_ratio": "adapt",
-        "show_secondary_image": false,
-        "show_vendor": false,
-        "show_rating": false,
-        "enable_quick_add": false,
-        "columns_mobile": "2",
-        "swipe_on_mobile": true,
-        "padding_top": 72,
-        "padding_bottom": 72
-      }
-    },
     "7121bcc2-1c9f-4ebb-83b6-8135330b2c1a": {
       "type": "collapsible-content",
       "blocks": {
@@ -590,7 +562,6 @@
     "79803dad-ce34-49f5-87e3-bad581e19bb7",
     "b9f709ae-3175-4a88-8757-a05f74ecf9c0",
     "85c43fb5-fe9e-4ee0-8a14-c651654f8a05",
-    "e2e9a1e2-68f1-40ff-bae3-caab148ed73c",
     "7121bcc2-1c9f-4ebb-83b6-8135330b2c1a"
   ]
 }
