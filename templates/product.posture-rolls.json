@@ -148,6 +148,53 @@
         "padding_bottom": 36
       }
     },
+    "ac801e8f-ea02-4227-90c6-68d8848b4854": {
+      "type": "image-banner",
+      "blocks": {
+        "template--16754962661601__ac801e8f-ea02-4227-90c6-68d8848b4854-16891137982c6bf1b9-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Get The Posture App Today",
+            "heading_size": "h1"
+          }
+        },
+        "template--16754962661601__ac801e8f-ea02-4227-90c6-68d8848b4854-16891137982c6bf1b9-1": {
+          "type": "text",
+          "settings": {
+            "text": "Get Rid Of Temporary Band-Aids And Choose Permanent Solutions ",
+            "text_style": "body"
+          }
+        },
+        "template--16754962661601__ac801e8f-ea02-4227-90c6-68d8848b4854-16891137982c6bf1b9-2": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Learn More",
+            "button_link_1": "https:\/\/www.postureguymike.com\/pages\/postureprogram",
+            "button_style_secondary_1": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--16754962661601__ac801e8f-ea02-4227-90c6-68d8848b4854-16891137982c6bf1b9-0",
+        "template--16754962661601__ac801e8f-ea02-4227-90c6-68d8848b4854-16891137982c6bf1b9-1",
+        "template--16754962661601__ac801e8f-ea02-4227-90c6-68d8848b4854-16891137982c6bf1b9-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/posture_app_demo_image.png",
+        "image_overlay_opacity": 0,
+        "image_height": "small",
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
     "multicolumn": {
       "type": "multicolumn",
       "disabled": true,
@@ -296,6 +343,7 @@
   "order": [
     "main",
     "image-with-text",
+    "ac801e8f-ea02-4227-90c6-68d8848b4854",
     "multicolumn",
     "a5b7a57d-1a00-4b50-ba6a-40508636a083",
     "related-products",
