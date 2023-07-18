@@ -159,6 +159,7 @@
     },
     "a9eeea32-f310-4b2b-8c05-6fde4cec70da": {
       "type": "featured-collection",
+      "disabled": true,
       "settings": {
         "title": "Healthy Footwear",
         "heading_size": "h1",
