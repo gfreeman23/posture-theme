@@ -537,8 +537,7 @@
     
   
     
-  
-(function( jQuery ){
+  (function( jQuery ){
   try {
     var $module = jQuery('#m-1690611317949').children('.module');   
     var navspeed = $module.data('navspeed'),
@@ -574,7 +573,7 @@
 
     var initCarousel = function() {
       $module.owlCarousel({
-        mouseDrag: false,
+        mouseDrag: true,
         autoplayHoverPause: autoplayhoverpause,
         autoplay: autoplay,
         autoRefresh: autoRefresh,
@@ -627,7 +626,6 @@
     }
   } catch(err) {}
 })( window.GemQuery || jQuery );
-    
     
     
   
