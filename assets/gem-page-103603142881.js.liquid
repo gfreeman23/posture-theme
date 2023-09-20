@@ -212,8 +212,22 @@
   
     
   
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
     (function( jQuery ){
-  var $module = jQuery('#m-1695208938716').children('.module');
+  var $module = jQuery('#m-1695209714048').children('.module');
   var videoUrl = jQuery.trim($module.attr('data-url'));
   var autoPause = $module.attr('data-autopause');
   var autoPlay = $module.attr('data-autoplay');
@@ -225,7 +239,7 @@
 
   setTimeout(function() {
     var videoWrapper = $module.children('.vimeo_video');
-    videoWrapper.empty().append('<div id="vimeo-wrapper-1695208938716"></div>');
+    videoWrapper.empty().append('<div id="vimeo-wrapper-1695209714048"></div>');
 
     var options = {
       url: videoUrl,
@@ -237,7 +251,7 @@
       muted: videoMute,
       portrait: showportrait
     };
-    var player = new Vimeo.Player("vimeo-wrapper-1695208938716", options);
+    var player = new Vimeo.Player("vimeo-wrapper-1695209714048", options);
 
     player.on('loaded', function() {	
       var $playerFrame = $module.find('iframe');	
@@ -253,16 +267,6 @@
     });
   }, 100);
 })( window.GemQuery || jQuery );
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
   
     
   
