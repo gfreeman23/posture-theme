@@ -213,156 +213,97 @@
     
   
     
-  (function( jQuery ){
-  // var $module = jQuery('#m-1695187098018').children('.module');
-  // You can add custom Javascript code right here.
   
-  let slider     = document.querySelector('.slider'),
-    sliderItem = document.querySelectorAll('.slider-item'),
-    dots       = document.querySelectorAll('.dots-item'),
-    step       = sliderItem[0].offsetHeight;
+    (function( jQuery ){
+  try {
+    var $module = jQuery('#m-1695187692676').children('.module');   
+    var navspeed = $module.data('navspeed'),
+      autoplaytimeout = $module.data('autoplaytimeout'),
+      autoplayhoverpause = $module.data('autoplayhoverpause'),
+      navlg = $module.data('navlg'),
+      navmd = $module.data('navmd'),
+      navsm = $module.data('navsm'),
+      navxs = $module.data('navxs'),
+      collg = $module.data('collg'),
+      colmd = $module.data('colmd'),
+      colsm = $module.data('colsm'),
+      colxs = $module.data('colxs'),
+      dotslg = $module.data('dotslg'),
+      dotsmd = $module.data('dotsmd'),
+      dotssm = $module.data('dotssm'),
+      dotsxs = $module.data('dotsxs'),
+      marginlg = parseInt($module.data('marginlg')),
+      marginmd = parseInt($module.data('marginmd')),
+      marginsm = parseInt($module.data('marginsm')),
+      marginxs = parseInt($module.data('marginxs'));
 
-//Some data
-let currentPage = 0,
-    canDrag     = false,
-    canWeel     = true,
-    intialMousePostions = 0;
-//functions 
-const changePage = (nextPage) => {
-    slider.style.transform = `translateY(-${step * nextPage}px)`;
-}
-const getNextPage = (direction) => {
-    if(direction === 'next' && currentPage < sliderItem.length - 1){
-      currentPage = currentPage + 1;
-      return currentPage;
+    var mode = jQuery('.gryffeditor').hasClass('editing') ? 'dev' : 'production';
+    if(mode == 'production') {
+    var autoplay = $module.data('autoplay'), 
+        autoRefresh = true, 
+        loop = $module.data('loop');
+    } else {
+    var autoplay = 0, 
+        autoRefresh = false, 
+        loop = 0;
     }
-    else if(direction === 'prev' && currentPage > 0){
-      currentPage = currentPage - 1;
-      return currentPage;
+
+    var initCarousel = function() {
+      $module.owlCarousel({
+        mouseDrag: false,
+        autoplayHoverPause: autoplayhoverpause,
+        autoplay: autoplay,
+        autoRefresh: autoRefresh,
+        autoplaySpeed: navspeed,
+        autoplayTimeout: autoplaytimeout,
+        loop: loop,
+        navSpeed: navspeed,
+        autoWidth: !1,
+        responsiveClass:true,
+        responsive:{
+          0:{
+            items:colxs,
+            nav: navxs,
+            dots:dotsxs,
+            margin: marginxs
+          },
+          768:{
+            items:colsm,
+            nav: navsm,
+            dots:dotssm,
+            margin: marginsm
+          },
+          992:{
+            items:colmd,
+            nav: navmd,
+            dots:dotsmd,
+            margin: marginmd
+          },
+          1200:{
+            items:collg,
+            nav: navlg,
+            dots:dotslg,
+            margin: marginlg
+          }
+        },
+        onInitialized: function () {
+          $module.closest('.module-wrap[data-label="Carousel"]').addClass('gf-carousel-loaded');
+          jQuery(window).trigger("resize");
+        }
+      });
     }
-    else {
-      return false;
+    
+    // Fix nested carousel bug	
+    if ($module.parent().parent().closest('.module-wrap[data-label="Carousel"]').length > 0) {	
+      setTimeout(function() {	
+        initCarousel();	
+      }, 300)	
+    } else {	
+      initCarousel();	
     }
-}
-const togleActiveBtn = (id) => {
-  dots.forEach((item) => {
-    item.className = 'dots-item';
-  })
-  dots[id].classList.add('active');
-}
-const resetCanWeel   = () => canWeel = true;
-//listeners
-
-//Control slider use ArrowUp and ArrowDown
-window.addEventListener('keyup', (e) =>{
-  let nextPage = e.key === 'ArrowUp' 
-                 ? getNextPage('prev') 
-                 : e.key === 'ArrowDown' 
-                 ?  getNextPage('next')
-                 : false;
-  if(nextPage !== false){
-      togleActiveBtn(nextPage);
-      changePage(nextPage)
-  }
-})
-
-//Control slider use dots there are no checks... I like dots 
-dots.forEach((item, id) => {
-  item.addEventListener('click', (e) => {
-      currentPage = id;
-      togleActiveBtn(id);
-      changePage(currentPage);
-  })
-})
-
-//Control slider use drag-n-drop
-
-slider.addEventListener('mousedown',(e) => {
-    canDrag = true;
-    intialMousePostions = e.pageY;
-})
-slider.addEventListener('mouseup',(e) => {
-    canDrag = false;
-})
-slider.addEventListener('mousemove',(e) => {
-  if(canDrag){
-      let currentMousePosition = e.pageY;
-      let nextPage = false;
-      if(intialMousePostions - currentMousePosition  > 30 ){
-        nextPage = getNextPage('next'); 
-        canDrag = false;
-      }
-      else if(intialMousePostions - currentMousePosition < -30){
-        nextPage =  getNextPage('prev'); 
-        canDrag = false;
-      }
-      if(nextPage !== false){
-          togleActiveBtn(nextPage);
-          changePage(nextPage)
-       } 
-  }
-})
-
-//Control slider use touch (for mobile, tablet or another sensor device)
-
-slider.addEventListener('touchstart', (e) => {
-    canDrag = true;
-    intialMousePostions = e.targetTouches[0].pageY;
-})
-slider.addEventListener('touchend',(e) => {
-    canDrag = false;
-})
-slider.addEventListener('touchmove',(e) => {
-  if(canDrag){
-      let currentMousePosition =  e.targetTouches[0].pageY;;
-      let nextPage = false;
-      if(intialMousePostions - currentMousePosition  > 30 ){
-        nextPage = getNextPage('next'); 
-        canDrag = false;
-      }
-      else if(intialMousePostions - currentMousePosition < -30){
-        nextPage =  getNextPage('prev'); 
-        canDrag = false;
-      }
-      if(nextPage !== false){
-          togleActiveBtn(nextPage);
-          changePage(nextPage)
-       } 
-  }
-})
-
-//Control slider use mouseweel
-
-slider.addEventListener('mousewheel',(e) => {
-  if(canWeel){
-    let nextPage = false;
-    if(e.deltaY < -90){
-      canWeel = false;
-      nextPage = getNextPage('prev');
-      setTimeout(()=>{
-        resetCanWeel()
-      },1000)
-    }
-    else if(e.deltaY > 90) {
-      canWeel = false;
-      nextPage = getNextPage('next');
-      setTimeout(()=>{
-        resetCanWeel()
-      },1000)
-    }
-    if(nextPage !== false){
-      togleActiveBtn(nextPage);
-      changePage(nextPage)
-    } 
-  }
-})
-//re-calculate step and slider transform on window resize
-window.addEventListener('resize',(e)=>{
-  step = sliderItem[0].offsetHeight;
-  changePage(currentPage);
-})
-  
+  } catch(err) {}
 })( window.GemQuery || jQuery );
+  
     
   
     
