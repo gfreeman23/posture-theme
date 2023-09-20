@@ -211,7 +211,26 @@
     
   
     
-  
+  /*(function( jQuery ){
+  // var $module = jQuery('#m-1695197439878').children('.module');
+  // You can add custom Javascript code right here.
+})( window.GemQuery || jQuery );*/
+
+  <script src="https://cdn.jsdelivr.net/npm/swiper@10/swiper-bundle.min.js"></script>
+
+
+  <script>
+    var swiper = new Swiper(".mySwiper", {
+      direction: "vertical",
+      slidesPerView: 1,
+      spaceBetween: 30,
+      mousewheel: true,
+      pagination: {
+        el: ".swiper-pagination",
+        clickable: true,
+      },
+    });
+  </script>
     
   
     
