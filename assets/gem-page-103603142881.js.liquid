@@ -245,6 +245,19 @@ $("#c-1695211277729 a").click(function () {
 });
 
 
+  // Select the element you want to add a class to
+  var element = $(".posturein");
+
+  // Add a class when the mouse enters (hover)
+  element.hover(function() {
+    $("#c-1695211277729 a").removeClass("active");
+    $('#c-1695211277729 a.posture').addClass("active");
+  }, function() {
+    // Remove the class when the mouse leaves
+     $('#c-1695211277729 a.posture').removeClass("active");
+  });
+
+
 // Select the element you want to add a class to
   var element = $(".trackin");
 
@@ -256,6 +269,9 @@ $("#c-1695211277729 a").click(function () {
     // Remove the class when the mouse leaves
      $('#c-1695211277729 a.track').removeClass("active");
   });
+  
+  
+
 
 
 
