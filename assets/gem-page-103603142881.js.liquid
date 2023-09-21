@@ -209,12 +209,34 @@
     
   
     
-  
-    (function( jQuery ){
+  (function( jQuery ){
   // var $module = jQuery('#m-1695276949279').children('.module');
-  // You can add custom Javascript code right here.
-})( window.GemQuery || jQuery );
+
+var $sticky = $('.sticky'),
+  $stickyTo = $('.stickyTo'),
+  stickyToTop = $stickyTo.offset().top,
+  stickyToBottom = stickyToTop + $stickyTo.outerHeight();
+
+$(window).on('scroll', function() {
+  var scroll = $(window).scrollTop(),
+    stickyTop = $sticky.offset().top,
+    stickyBottom = $sticky.offset().top + $sticky.outerHeight();
   
+  if (stickyBottom >= stickyToBottom) {
+    if (scroll < stickyTop) {
+      $sticky.addClass('fixed').removeClass('abs');
+    } else {
+      $sticky.addClass('abs');
+    }
+  } else if (scroll > stickyToTop) {
+    $sticky.addClass('fixed');
+  } else if (scroll < stickyToTop) {
+    $sticky.removeClass('abs').removeClass('fixed');
+  }
+});
+
+
+})( window.GemQuery || jQuery );
     
   
     
