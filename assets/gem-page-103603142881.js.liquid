@@ -271,6 +271,35 @@ $("#c-1695211277729 a").click(function () {
   });
   
   
+  
+// Select the element you want to add a class to
+  var element = $(".connectin ");
+
+  // Add a class when the mouse enters (hover)
+  element.hover(function() {
+    $("#c-1695211277729 a").removeClass("active");
+    $('#c-1695211277729 a.connect').addClass("active");
+  }, function() {
+    // Remove the class when the mouse leaves
+     $('#c-1695211277729 a.connect').removeClass("active");
+  });
+  
+  
+    
+// Select the element you want to add a class to
+  var element = $(".accessin ");
+
+  // Add a class when the mouse enters (hover)
+  element.hover(function() {
+    $("#c-1695211277729 a").removeClass("active");
+    $('#c-1695211277729 a.access').addClass("active");
+  }, function() {
+    // Remove the class when the mouse leaves
+     $('#c-1695211277729 a.access').removeClass("active");
+  });
+  
+  
+  
 
 
 
