@@ -61,7 +61,7 @@
           "settings": {
             "heading": "Details",
             "icon": "eye",
-            "content": "<ul><li>Powerful posture alignment tool!<\/li><li>Relieves tension in many muscles!<\/li><li>Align your joints!<\/li><li>Ideal for all ages!<\/li><li>5 adjustable positions!<\/li><\/ul>",
+            "content": "<ul><li>Adjustable<\/li><li>Includes 2 wrist straps and 2 strengtheners<\/li><li>Helps to reduce stiffness and pain<\/li><li>Great for arthritis, stroke rehab, carpal tunnel, tenosynovitis, fractured, tendon surgery and tennis elbow<\/li><\/ul>",
             "page": ""
           }
         },
@@ -76,6 +76,7 @@
         },
         "collapsible-row-2": {
           "type": "collapsible_tab",
+          "disabled": true,
           "settings": {
             "heading": "Instructions",
             "icon": "clipboard",
