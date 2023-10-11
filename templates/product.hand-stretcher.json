@@ -174,7 +174,7 @@
           "type": "column",
           "settings": {
             "title": "<strong>Just 5 Minutes a Day!<\/strong>",
-            "text": "<p>By simply standing on the Posture Board with your head, shoulders, hips, and feet touching a wall for 5-10 minutes, daily, the power of gravity together with the Posture Board, can balance and align your body from head to heel, and symmetrically, from side to side. It can promote anatomical alignment, which can alleviate the pain associated with conditions such as:<br\/><br\/><\/p><ul><li><strong>Limited ankle dorsiflexion<\/strong><\/li><li><strong>Foot Supination & Pronation<\/strong><\/li><li><strong>Tailor’s Bunion<\/strong><\/li><li><strong>Femur Rotation (in or out)<\/strong><\/li><li><strong>Anterior & Posterior Pelvic Tilt<\/strong><\/li><li><strong>Spine Curvature<\/strong><\/li><li><strong>Scoliosis, and Levoscoliosis<\/strong><\/li><li><strong>Forward head posture (FHP)<\/strong><\/li><\/ul>",
+            "text": "<p>With three adjustable resistance levels (6.6LB, 8.8LB, and 11LB), this Finger Exerciser is perfect for users of all levels, from beginners looking to build their grip strength to advanced athletes seeking to push their limits. Are you a sports enthusiast? Our Gripster is designed to boost your finger endurance and grip strength, helping you perform at your best for longer during physical activities. Musicians, athletes, and anyone wanting to enhance finger strength can benefit from the Grip Buddy.  The finger stretcher helps with the following:<br\/><br\/><\/p><ul><li><strong>Wrist Pain<\/strong><\/li><li><strong>Arthritis<\/strong><\/li><li><strong>Stroke rehabilitation<\/strong><\/li><li><strong>Carpal tunnel<\/strong><\/li><li><strong>Fractures<\/strong><\/li><li><strong>Tennis Elbow<\/strong><\/li><li><strong>Surgery<\/strong><\/li><li><strong>Strength Training<\/strong><\/li><\/ul>",
             "link_label": "",
             "link": ""
           }
@@ -182,7 +182,7 @@
         "template--16752139010273__7f6b416e-28a1-4d37-a8aa-9c4e0baab772-167943439940754117-1": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/before_after.jpg",
+            "image": "shopify:\/\/shop_images\/stretcher_Instructions_1080_x_1350_px.png",
             "title": "",
             "text": "",
             "link_label": "",
@@ -195,7 +195,7 @@
         "template--16752139010273__7f6b416e-28a1-4d37-a8aa-9c4e0baab772-167943439940754117-1"
       ],
       "settings": {
-        "title": "Benefits of Using a Posture Board",
+        "title": "Benefits of Using Hand Stretchers",
         "heading_size": "h1",
         "image_width": "full",
         "image_ratio": "adapt",
@@ -209,53 +209,6 @@
         "swipe_on_mobile": false,
         "padding_top": 72,
         "padding_bottom": 72
-      }
-    },
-    "9a46da0f-ebc7-47fb-99cd-fa79e5cf61ce": {
-      "type": "image-banner",
-      "blocks": {
-        "template--16752139010273__9a46da0f-ebc7-47fb-99cd-fa79e5cf61ce-16891137982c6bf1b9-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "Get The Posture App Today",
-            "heading_size": "h1"
-          }
-        },
-        "template--16752139010273__9a46da0f-ebc7-47fb-99cd-fa79e5cf61ce-16891137982c6bf1b9-1": {
-          "type": "text",
-          "settings": {
-            "text": "Get Rid Of Temporary Band-Aids And Choose Permanent Solutions ",
-            "text_style": "body"
-          }
-        },
-        "template--16752139010273__9a46da0f-ebc7-47fb-99cd-fa79e5cf61ce-16891137982c6bf1b9-2": {
-          "type": "buttons",
-          "settings": {
-            "button_label_1": "Learn More",
-            "button_link_1": "https:\/\/www.postureguymike.com\/pages\/postureprogram",
-            "button_style_secondary_1": false,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "template--16752139010273__9a46da0f-ebc7-47fb-99cd-fa79e5cf61ce-16891137982c6bf1b9-0",
-        "template--16752139010273__9a46da0f-ebc7-47fb-99cd-fa79e5cf61ce-16891137982c6bf1b9-1",
-        "template--16752139010273__9a46da0f-ebc7-47fb-99cd-fa79e5cf61ce-16891137982c6bf1b9-2"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/posture_app_demo_image.png",
-        "image_overlay_opacity": 0,
-        "image_height": "small",
-        "desktop_content_position": "middle-center",
-        "show_text_box": true,
-        "desktop_content_alignment": "center",
-        "color_scheme": "background-1",
-        "mobile_content_alignment": "center",
-        "stack_images_on_mobile": true,
-        "show_text_below": true
       }
     },
     "a5b7a57d-1a00-4b50-ba6a-40508636a083": {
@@ -308,6 +261,7 @@
         "c0b97971-6c0c-4e7a-a674-d65b51be2762",
         "2b07b302-6b08-4f54-9356-174d72ab99fb"
       ],
+      "disabled": true,
       "settings": {
         "title": "Key Features",
         "heading_size": "h1",
@@ -323,6 +277,53 @@
         "swipe_on_mobile": true,
         "padding_top": 72,
         "padding_bottom": 72
+      }
+    },
+    "9a46da0f-ebc7-47fb-99cd-fa79e5cf61ce": {
+      "type": "image-banner",
+      "blocks": {
+        "template--16752139010273__9a46da0f-ebc7-47fb-99cd-fa79e5cf61ce-16891137982c6bf1b9-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Get The Posture App Today",
+            "heading_size": "h1"
+          }
+        },
+        "template--16752139010273__9a46da0f-ebc7-47fb-99cd-fa79e5cf61ce-16891137982c6bf1b9-1": {
+          "type": "text",
+          "settings": {
+            "text": "Get Rid Of Temporary Band-Aids And Choose Permanent Solutions ",
+            "text_style": "body"
+          }
+        },
+        "template--16752139010273__9a46da0f-ebc7-47fb-99cd-fa79e5cf61ce-16891137982c6bf1b9-2": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Learn More",
+            "button_link_1": "https:\/\/www.postureguymike.com\/pages\/postureprogram",
+            "button_style_secondary_1": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--16752139010273__9a46da0f-ebc7-47fb-99cd-fa79e5cf61ce-16891137982c6bf1b9-0",
+        "template--16752139010273__9a46da0f-ebc7-47fb-99cd-fa79e5cf61ce-16891137982c6bf1b9-1",
+        "template--16752139010273__9a46da0f-ebc7-47fb-99cd-fa79e5cf61ce-16891137982c6bf1b9-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/posture_app_demo_image.png",
+        "image_overlay_opacity": 0,
+        "image_height": "small",
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
       }
     },
     "db23b6cf-2861-4b89-8858-00a5a977cd69": {
@@ -382,8 +383,8 @@
     "main",
     "multicolumn",
     "7f6b416e-28a1-4d37-a8aa-9c4e0baab772",
-    "9a46da0f-ebc7-47fb-99cd-fa79e5cf61ce",
     "a5b7a57d-1a00-4b50-ba6a-40508636a083",
+    "9a46da0f-ebc7-47fb-99cd-fa79e5cf61ce",
     "db23b6cf-2861-4b89-8858-00a5a977cd69",
     "1678483955ef047447",
     "related-products"
