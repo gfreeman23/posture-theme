@@ -211,53 +211,6 @@
         "padding_bottom": 72
       }
     },
-    "9a46da0f-ebc7-47fb-99cd-fa79e5cf61ce": {
-      "type": "image-banner",
-      "blocks": {
-        "template--16752139010273__9a46da0f-ebc7-47fb-99cd-fa79e5cf61ce-16891137982c6bf1b9-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "Get The Posture App Today",
-            "heading_size": "h1"
-          }
-        },
-        "template--16752139010273__9a46da0f-ebc7-47fb-99cd-fa79e5cf61ce-16891137982c6bf1b9-1": {
-          "type": "text",
-          "settings": {
-            "text": "Get Rid Of Temporary Band-Aids And Choose Permanent Solutions ",
-            "text_style": "body"
-          }
-        },
-        "template--16752139010273__9a46da0f-ebc7-47fb-99cd-fa79e5cf61ce-16891137982c6bf1b9-2": {
-          "type": "buttons",
-          "settings": {
-            "button_label_1": "Learn More",
-            "button_link_1": "https:\/\/www.postureguymike.com\/pages\/postureprogram",
-            "button_style_secondary_1": false,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "template--16752139010273__9a46da0f-ebc7-47fb-99cd-fa79e5cf61ce-16891137982c6bf1b9-0",
-        "template--16752139010273__9a46da0f-ebc7-47fb-99cd-fa79e5cf61ce-16891137982c6bf1b9-1",
-        "template--16752139010273__9a46da0f-ebc7-47fb-99cd-fa79e5cf61ce-16891137982c6bf1b9-2"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/posture_app_demo_image.png",
-        "image_overlay_opacity": 0,
-        "image_height": "small",
-        "desktop_content_position": "middle-center",
-        "show_text_box": true,
-        "desktop_content_alignment": "center",
-        "color_scheme": "background-1",
-        "mobile_content_alignment": "center",
-        "stack_images_on_mobile": true,
-        "show_text_below": true
-      }
-    },
     "a5b7a57d-1a00-4b50-ba6a-40508636a083": {
       "type": "multicolumn",
       "blocks": {
@@ -325,6 +278,53 @@
         "padding_bottom": 72
       }
     },
+    "9a46da0f-ebc7-47fb-99cd-fa79e5cf61ce": {
+      "type": "image-banner",
+      "blocks": {
+        "template--16752139010273__9a46da0f-ebc7-47fb-99cd-fa79e5cf61ce-16891137982c6bf1b9-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Get The Posture App Today",
+            "heading_size": "h1"
+          }
+        },
+        "template--16752139010273__9a46da0f-ebc7-47fb-99cd-fa79e5cf61ce-16891137982c6bf1b9-1": {
+          "type": "text",
+          "settings": {
+            "text": "Get Rid Of Temporary Band-Aids And Choose Permanent Solutions ",
+            "text_style": "body"
+          }
+        },
+        "template--16752139010273__9a46da0f-ebc7-47fb-99cd-fa79e5cf61ce-16891137982c6bf1b9-2": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Learn More",
+            "button_link_1": "https:\/\/www.postureguymike.com\/pages\/postureprogram",
+            "button_style_secondary_1": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--16752139010273__9a46da0f-ebc7-47fb-99cd-fa79e5cf61ce-16891137982c6bf1b9-0",
+        "template--16752139010273__9a46da0f-ebc7-47fb-99cd-fa79e5cf61ce-16891137982c6bf1b9-1",
+        "template--16752139010273__9a46da0f-ebc7-47fb-99cd-fa79e5cf61ce-16891137982c6bf1b9-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/posture_app_demo_image.png",
+        "image_overlay_opacity": 0,
+        "image_height": "small",
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
     "db23b6cf-2861-4b89-8858-00a5a977cd69": {
       "type": "multicolumn",
       "settings": {
@@ -382,8 +382,8 @@
     "main",
     "multicolumn",
     "7f6b416e-28a1-4d37-a8aa-9c4e0baab772",
-    "9a46da0f-ebc7-47fb-99cd-fa79e5cf61ce",
     "a5b7a57d-1a00-4b50-ba6a-40508636a083",
+    "9a46da0f-ebc7-47fb-99cd-fa79e5cf61ce",
     "db23b6cf-2861-4b89-8858-00a5a977cd69",
     "1678483955ef047447",
     "related-products"
