@@ -53,8 +53,8 @@
         "description_style": "body",
         "collection": "bundles",
         "collection-url": "shopify:\/\/collections\/bundles",
-        "products_to_show": 6,
-        "columns_desktop": 4,
+        "products_to_show": 25,
+        "columns_desktop": 5,
         "full_width": false,
         "show_view_all": true,
         "view_all_style": "solid",
@@ -95,7 +95,7 @@
         "enable_quick_add": false,
         "columns_mobile": "2",
         "swipe_on_mobile": false,
-        "padding_top": 0,
+        "padding_top": 20,
         "padding_bottom": 72
       }
     },
