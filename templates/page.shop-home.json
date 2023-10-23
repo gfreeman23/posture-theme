@@ -76,7 +76,7 @@
       "settings": {
         "title": "Shop All",
         "heading_size": "h1",
-        "description": "<p>Our Most Popular Posture Products. These can help with your posture in many ways!<\/p>",
+        "description": "",
         "show_description": false,
         "description_style": "body",
         "collection": "shop-all",
