@@ -48,7 +48,7 @@
       "settings": {
         "title": "Featured Bundles",
         "heading_size": "h1",
-        "description": "<p>Looking to bundle and save? Here are some popular products...<\/p>",
+        "description": "",
         "show_description": false,
         "description_style": "body",
         "collection": "bundles",
