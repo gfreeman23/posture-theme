@@ -43,38 +43,10 @@
         "show_text_below": false
       }
     },
-    "e438d979-7ae4-430b-9895-e69105885233": {
-      "type": "featured-collection",
-      "settings": {
-        "title": "Featured Products",
-        "heading_size": "h1",
-        "description": "<p>Our Most Popular Posture Products. These can help with your posture in many ways!<\/p>",
-        "show_description": false,
-        "description_style": "body",
-        "collection": "shop-all",
-        "collection-url": "shopify:\/\/collections\/shop-all",
-        "products_to_show": 6,
-        "columns_desktop": 4,
-        "full_width": false,
-        "show_view_all": true,
-        "view_all_style": "solid",
-        "enable_desktop_slider": true,
-        "color_scheme": "background-2",
-        "image_ratio": "adapt",
-        "show_secondary_image": false,
-        "show_vendor": false,
-        "show_rating": true,
-        "enable_quick_add": false,
-        "columns_mobile": "2",
-        "swipe_on_mobile": true,
-        "padding_top": 40,
-        "padding_bottom": 72
-      }
-    },
     "109233c3-a1cc-430f-819d-09c4f8ac8ada": {
       "type": "featured-collection",
       "settings": {
-        "title": "Bundle and Save",
+        "title": "Featured Bundles",
         "heading_size": "h1",
         "description": "<p>Looking to bundle and save? Here are some popular products...<\/p>",
         "show_description": false,
@@ -96,6 +68,34 @@
         "columns_mobile": "2",
         "swipe_on_mobile": true,
         "padding_top": 72,
+        "padding_bottom": 72
+      }
+    },
+    "e438d979-7ae4-430b-9895-e69105885233": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Featured Products",
+        "heading_size": "h1",
+        "description": "<p>Our Most Popular Posture Products. These can help with your posture in many ways!<\/p>",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "shop-all",
+        "collection-url": "shopify:\/\/collections\/shop-all",
+        "products_to_show": 25,
+        "columns_desktop": 4,
+        "full_width": false,
+        "show_view_all": true,
+        "view_all_style": "solid",
+        "enable_desktop_slider": false,
+        "color_scheme": "background-2",
+        "image_ratio": "adapt",
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_rating": true,
+        "enable_quick_add": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 40,
         "padding_bottom": 72
       }
     },
@@ -190,8 +190,8 @@
   "order": [
     "main",
     "4aa2834d-7044-495b-bb8c-5b8f9640f989",
-    "e438d979-7ae4-430b-9895-e69105885233",
     "109233c3-a1cc-430f-819d-09c4f8ac8ada",
+    "e438d979-7ae4-430b-9895-e69105885233",
     "c36784ae-b477-4c23-b1e9-81d5b72949eb",
     "c3ffe8be-baae-47f1-abf3-3b1d01f9450c",
     "a9eeea32-f310-4b2b-8c05-6fde4cec70da"
