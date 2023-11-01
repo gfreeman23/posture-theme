@@ -6,7 +6,7 @@
         "template--16752021111009__e57b1c77-b577-415e-ad5d-3db6e989e1a7-167823501544482f7a-0": {
           "type": "heading",
           "settings": {
-            "heading": "The Posture App",
+            "heading": "Live Posture Class",
             "heading_size": "h1"
           }
         },
@@ -20,8 +20,8 @@
         "template--16752021111009__e57b1c77-b577-415e-ad5d-3db6e989e1a7-167823501544482f7a-2": {
           "type": "buttons",
           "settings": {
-            "button_label_1": "Get The Free Trial",
-            "button_link_1": "https:\/\/www.postureguymike.com\/pages\/postureprogram",
+            "button_label_1": "Register Today",
+            "button_link_1": "shopify:\/\/products\/live-posture-class-sunday",
             "button_style_secondary_1": false,
             "button_label_2": "",
             "button_link_2": "",
@@ -237,7 +237,6 @@
     },
     "9a15741b-d522-4a1a-a0e9-81aabd55fc60": {
       "type": "multicolumn",
-      "disabled": true,
       "blocks": {
         "template--16752021111009__9a15741b-d522-4a1a-a0e9-81aabd55fc60-16789091084f45e1be-0": {
           "type": "column",
@@ -282,6 +281,7 @@
         "template--16752021111009__9a15741b-d522-4a1a-a0e9-81aabd55fc60-16789091084f45e1be-2",
         "b7a6dbf3-849b-4686-a651-7c859c1ea373"
       ],
+      "disabled": true,
       "settings": {
         "title": "What People Are Saying",
         "heading_size": "h1",
@@ -348,7 +348,6 @@
     },
     "b9f709ae-3175-4a88-8757-a05f74ecf9c0": {
       "type": "multicolumn",
-      "disabled": true,
       "blocks": {
         "template--16752021111009__b9f709ae-3175-4a88-8757-a05f74ecf9c0-1678229958304e0ad3-1": {
           "type": "column",
@@ -374,6 +373,7 @@
         "template--16752021111009__b9f709ae-3175-4a88-8757-a05f74ecf9c0-1678229958304e0ad3-1",
         "template--16752021111009__b9f709ae-3175-4a88-8757-a05f74ecf9c0-1678229958304e0ad3-0"
       ],
+      "disabled": true,
       "settings": {
         "title": "Talk to Mike about Posture",
         "heading_size": "h1",
@@ -393,7 +393,6 @@
     },
     "85c43fb5-fe9e-4ee0-8a14-c651654f8a05": {
       "type": "multicolumn",
-      "disabled": true,
       "blocks": {
         "template--16752021111009__85c43fb5-fe9e-4ee0-8a14-c651654f8a05-1678910200aa432bb2-0": {
           "type": "column",
@@ -431,6 +430,7 @@
         "template--16752021111009__85c43fb5-fe9e-4ee0-8a14-c651654f8a05-1678910200aa432bb2-1",
         "template--16752021111009__85c43fb5-fe9e-4ee0-8a14-c651654f8a05-1678910200aa432bb2-2"
       ],
+      "disabled": true,
       "settings": {
         "title": "Recent Wins from Posture Coaching Clients",
         "heading_size": "h1",
