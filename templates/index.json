@@ -6,14 +6,14 @@
         "template--16752021111009__e57b1c77-b577-415e-ad5d-3db6e989e1a7-167823501544482f7a-0": {
           "type": "heading",
           "settings": {
-            "heading": "Live Posture Class",
+            "heading": "60% off the Posture Membership",
             "heading_size": "h1"
           }
         },
         "template--16752021111009__e57b1c77-b577-415e-ad5d-3db6e989e1a7-167823501544482f7a-1": {
           "type": "text",
           "settings": {
-            "text": "Watch from anywhere on your phone, computer, or tablet.",
+            "text": "",
             "text_style": "body"
           }
         },
@@ -21,7 +21,7 @@
           "type": "buttons",
           "settings": {
             "button_label_1": "Register Today",
-            "button_link_1": "shopify:\/\/collections\/live-classes",
+            "button_link_1": "shopify:\/\/pages\/postureprogramapp1",
             "button_style_secondary_1": false,
             "button_label_2": "",
             "button_link_2": "",
@@ -35,9 +35,9 @@
         "template--16752021111009__e57b1c77-b577-415e-ad5d-3db6e989e1a7-167823501544482f7a-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/live_classes_hero_image.png",
-        "image_overlay_opacity": 30,
-        "image_height": "large",
+        "image": "shopify:\/\/shop_images\/posture_app_demo_image_1080_x_720_px.png",
+        "image_overlay_opacity": 50,
+        "image_height": "medium",
         "desktop_content_position": "middle-left",
         "show_text_box": false,
         "desktop_content_alignment": "left",
