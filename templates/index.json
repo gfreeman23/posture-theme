@@ -6,15 +6,8 @@
         "template--16752021111009__e57b1c77-b577-415e-ad5d-3db6e989e1a7-167823501544482f7a-0": {
           "type": "heading",
           "settings": {
-            "heading": "Black Friday Deal",
+            "heading": "The Posture Membership",
             "heading_size": "h1"
-          }
-        },
-        "template--16752021111009__e57b1c77-b577-415e-ad5d-3db6e989e1a7-167823501544482f7a-1": {
-          "type": "text",
-          "settings": {
-            "text": "60% off the Posture Membership",
-            "text_style": "body"
           }
         },
         "template--16752021111009__e57b1c77-b577-415e-ad5d-3db6e989e1a7-167823501544482f7a-2": {
@@ -31,7 +24,6 @@
       },
       "block_order": [
         "template--16752021111009__e57b1c77-b577-415e-ad5d-3db6e989e1a7-167823501544482f7a-0",
-        "template--16752021111009__e57b1c77-b577-415e-ad5d-3db6e989e1a7-167823501544482f7a-1",
         "template--16752021111009__e57b1c77-b577-415e-ad5d-3db6e989e1a7-167823501544482f7a-2"
       ],
       "settings": {
