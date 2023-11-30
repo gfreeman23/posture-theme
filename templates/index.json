@@ -10,6 +10,13 @@
             "heading_size": "h1"
           }
         },
+        "43a2ebc6-0367-438c-8254-b5a873067084": {
+          "type": "text",
+          "settings": {
+            "text": "Sign up now for your chance to win an Apple Watch",
+            "text_style": "body"
+          }
+        },
         "template--16752021111009__e57b1c77-b577-415e-ad5d-3db6e989e1a7-167823501544482f7a-2": {
           "type": "buttons",
           "settings": {
@@ -24,6 +31,7 @@
       },
       "block_order": [
         "template--16752021111009__e57b1c77-b577-415e-ad5d-3db6e989e1a7-167823501544482f7a-0",
+        "43a2ebc6-0367-438c-8254-b5a873067084",
         "template--16752021111009__e57b1c77-b577-415e-ad5d-3db6e989e1a7-167823501544482f7a-2"
       ],
       "settings": {
