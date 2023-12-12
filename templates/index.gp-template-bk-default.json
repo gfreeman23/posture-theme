@@ -1,0 +1,567 @@
+{
+  "sections": {
+    "e57b1c77-b577-415e-ad5d-3db6e989e1a7": {
+      "type": "image-banner",
+      "blocks": {
+        "template--16752021111009__e57b1c77-b577-415e-ad5d-3db6e989e1a7-167823501544482f7a-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "The Posture Membership",
+            "heading_size": "h1"
+          }
+        },
+        "43a2ebc6-0367-438c-8254-b5a873067084": {
+          "type": "text",
+          "settings": {
+            "text": "Sign up now for your chance to win an Apple Watch",
+            "text_style": "body"
+          }
+        },
+        "template--16752021111009__e57b1c77-b577-415e-ad5d-3db6e989e1a7-167823501544482f7a-2": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Get Started",
+            "button_link_1": "https:\/\/www.postureguymike.com\/pages\/postureprogram",
+            "button_style_secondary_1": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--16752021111009__e57b1c77-b577-415e-ad5d-3db6e989e1a7-167823501544482f7a-0",
+        "43a2ebc6-0367-438c-8254-b5a873067084",
+        "template--16752021111009__e57b1c77-b577-415e-ad5d-3db6e989e1a7-167823501544482f7a-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/posture_app_demo_image_1080_x_720_px.png",
+        "image_overlay_opacity": 50,
+        "image_height": "medium",
+        "desktop_content_position": "middle-left",
+        "show_text_box": false,
+        "desktop_content_alignment": "left",
+        "color_scheme": "inverse",
+        "mobile_content_alignment": "left",
+        "stack_images_on_mobile": true,
+        "show_text_below": false
+      }
+    },
+    "rich_text": {
+      "type": "rich-text",
+      "blocks": {
+        "heading": {
+          "type": "heading",
+          "settings": {
+            "heading": "Why is Posture Important?",
+            "heading_size": "h1"
+          }
+        },
+        "text": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Good posture benefits the body and mind, preventing pain, improving breathing and performance, and boosting confidence.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading",
+        "text"
+      ],
+      "settings": {
+        "desktop_content_position": "left",
+        "content_alignment": "left",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 36,
+        "padding_bottom": 16
+      }
+    },
+    "f1eaaff4-260a-40e9-b9a7-3f9de683ea5e": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--16752021111009__f1eaaff4-260a-40e9-b9a7-3f9de683ea5e-1678311398314a2051-0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Icon_Final-01.png",
+            "title": "Reduce Pain!",
+            "text": "<p>Improving your posture can help relieve pain and discomfort.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--16752021111009__f1eaaff4-260a-40e9-b9a7-3f9de683ea5e-1678311398314a2051-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Icon_Final-02.png",
+            "title": "Improve Breathing!",
+            "text": "<p>Good posture helps open up your airways,  for easier breathing.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--16752021111009__f1eaaff4-260a-40e9-b9a7-3f9de683ea5e-1678311398314a2051-2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Icon_Final-03.png",
+            "title": "Enhance Performance!",
+            "text": "<p>Proper posture can improve blood flow and energy levels.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "753af712-c8de-4dd2-93fc-777e63f7a7e2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Icon_Final-04.png",
+            "title": "Boost Confidence!",
+            "text": "<p>Better posture can lead to a more confident and positive self-image.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--16752021111009__f1eaaff4-260a-40e9-b9a7-3f9de683ea5e-1678311398314a2051-0",
+        "template--16752021111009__f1eaaff4-260a-40e9-b9a7-3f9de683ea5e-1678311398314a2051-1",
+        "template--16752021111009__f1eaaff4-260a-40e9-b9a7-3f9de683ea5e-1678311398314a2051-2",
+        "753af712-c8de-4dd2-93fc-777e63f7a7e2"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "half",
+        "image_ratio": "adapt",
+        "columns_desktop": 4,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "padding_top": 16,
+        "padding_bottom": 72
+      }
+    },
+    "featured_collection": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Products to Help your Posture",
+        "heading_size": "h1",
+        "description": "<p>Experience the benefits of posture products: Relieve pain, improve alignment, and boost confidence with our top-rated posture tools. Invest in your health and well-being today and enjoy better posture tomorrow.<\/p>",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "featured-products",
+        "collection-url": "shopify:\/\/pages\/shop",
+        "products_to_show": 6,
+        "columns_desktop": 4,
+        "full_width": false,
+        "show_view_all": true,
+        "view_all_style": "solid",
+        "enable_desktop_slider": true,
+        "color_scheme": "background-2",
+        "image_ratio": "adapt",
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_rating": true,
+        "enable_quick_add": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 72,
+        "padding_bottom": 72
+      }
+    },
+    "image_banner": {
+      "type": "image-banner",
+      "blocks": {
+        "heading": {
+          "type": "heading",
+          "settings": {
+            "heading": "Perfect Posture Starts Here",
+            "heading_size": "h1"
+          }
+        },
+        "text": {
+          "type": "text",
+          "settings": {
+            "text": "We have carefully crafted a selection of posture products to help you achieve proper alignment and alleviate discomfort.",
+            "text_style": "body"
+          }
+        },
+        "button": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Shop Now",
+            "button_link_1": "shopify:\/\/pages\/shop",
+            "button_style_secondary_1": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading",
+        "text",
+        "button"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/mike-and-model-with-strap.jpg",
+        "image_overlay_opacity": 40,
+        "image_height": "large",
+        "desktop_content_position": "middle-left",
+        "show_text_box": false,
+        "desktop_content_alignment": "left",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": false,
+        "show_text_below": false
+      }
+    },
+    "19949a06-826b-448c-95da-d500f8e5f140": {
+      "type": "video",
+      "settings": {
+        "heading": "How Can We Fix Your Posture?",
+        "subtext": "Unlock the Benefits of Good Posture: Simple Tips to Improve Your Health and Well-Being. Discover why proper posture is essential and how to achieve it with ease.",
+        "heading_size": "h1",
+        "enable_video_looping": true,
+        "video_url": "https:\/\/www.youtube.com\/watch?v=DRk0RY37C5I",
+        "cover_image": "shopify:\/\/shop_images\/pgm_video_thumbnail.jpg",
+        "description": "",
+        "full_width": true,
+        "color_scheme": "background-1",
+        "padding_top": 72,
+        "padding_bottom": 72
+      }
+    },
+    "9a15741b-d522-4a1a-a0e9-81aabd55fc60": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--16752021111009__9a15741b-d522-4a1a-a0e9-81aabd55fc60-16789091084f45e1be-0": {
+          "type": "column",
+          "settings": {
+            "title": "<strong>AMAZING RESULTS<\/strong>",
+            "text": "<p>Added the board to other posture exercises by Posture Guy Mike!! Fast, noticeable improvement in my posture, breathing and confidence!!!! Thank you Posture Guy Mike!! 🤗♥️<\/p>",
+            "link_label": "Shop Posture Board",
+            "link": "shopify:\/\/products\/posture-board"
+          }
+        },
+        "template--16752021111009__9a15741b-d522-4a1a-a0e9-81aabd55fc60-16789091084f45e1be-1": {
+          "type": "column",
+          "settings": {
+            "title": "<strong>AWESOME GLASSES<\/strong>",
+            "text": "<p>These are amazing!! I can lie on the floor and watch tv or read a book.<br\/>They are a bit heavy on my nose but I absolutely love them! Thank you.<\/p>",
+            "link_label": "Shop Posture Glasses",
+            "link": "shopify:\/\/products\/posture-glasses"
+          }
+        },
+        "template--16752021111009__9a15741b-d522-4a1a-a0e9-81aabd55fc60-16789091084f45e1be-2": {
+          "type": "column",
+          "settings": {
+            "title": "<strong>COMFY SUPPORT!!<\/strong>",
+            "text": "<p>Comfortable support for those whose toes have a tendency to overlap!! And the tops stay up when wearing shoes!!!<\/p>",
+            "link_label": "Shop Posture Socks",
+            "link": "shopify:\/\/products\/ankle-posture-socks"
+          }
+        },
+        "b7a6dbf3-849b-4686-a651-7c859c1ea373": {
+          "type": "column",
+          "settings": {
+            "title": "LOVE them ❤️",
+            "text": "<p>I’ve only had them for 3 days but I can already feel a slight improvement in my posture and the way I position my feet when walking. Would HIGHLY recommend.<\/p>",
+            "link_label": "Shop Posture Toes",
+            "link": "shopify:\/\/products\/posture-toes-active"
+          }
+        }
+      },
+      "block_order": [
+        "template--16752021111009__9a15741b-d522-4a1a-a0e9-81aabd55fc60-16789091084f45e1be-0",
+        "template--16752021111009__9a15741b-d522-4a1a-a0e9-81aabd55fc60-16789091084f45e1be-1",
+        "template--16752021111009__9a15741b-d522-4a1a-a0e9-81aabd55fc60-16789091084f45e1be-2",
+        "b7a6dbf3-849b-4686-a651-7c859c1ea373"
+      ],
+      "disabled": true,
+      "settings": {
+        "title": "What People Are Saying",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 4,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "0a691a46-f491-40cf-86bb-6f576e252d8e": {
+      "type": "featured-collection",
+      "disabled": true,
+      "settings": {
+        "title": "Programs to Help your Posture",
+        "heading_size": "h1",
+        "description": "<p>Transform your posture with our expertly crafted posture videos: Learn the techniques to improve your alignment, relieve pain, and boost your confidence. Support us today and start enjoying the benefits of better posture for a healthier, happier you.<\/p>",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "featured-programs",
+        "collection-url": "",
+        "products_to_show": 6,
+        "columns_desktop": 4,
+        "full_width": false,
+        "show_view_all": true,
+        "view_all_style": "solid",
+        "enable_desktop_slider": true,
+        "color_scheme": "background-1",
+        "image_ratio": "adapt",
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_rating": false,
+        "enable_quick_add": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 72,
+        "padding_bottom": 72
+      }
+    },
+    "79803dad-ce34-49f5-87e3-bad581e19bb7": {
+      "type": "featured-blog",
+      "disabled": true,
+      "settings": {
+        "heading": "Learning Center",
+        "heading_size": "h1",
+        "blog": "postural-therapy",
+        "post_limit": 4,
+        "columns_desktop": 4,
+        "color_scheme": "background-1",
+        "show_image": true,
+        "show_date": true,
+        "show_author": false,
+        "show_view_all": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "b9f709ae-3175-4a88-8757-a05f74ecf9c0": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--16752021111009__b9f709ae-3175-4a88-8757-a05f74ecf9c0-1678229958304e0ad3-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Posture_therapy-chat-with-mike_5ad14333-6e3b-49bb-967f-4af5b6bd55d7.png",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--16752021111009__b9f709ae-3175-4a88-8757-a05f74ecf9c0-1678229958304e0ad3-0": {
+          "type": "column",
+          "settings": {
+            "title": "Book a 1 on 1 call with Mike!",
+            "text": "<ul><li>Gain insight into the significance of maintaining good posture<\/li><li>Receive a posture analysis to identify areas of postural misalignment <\/li><li>Receive personalized tips and recommendations<br\/><br\/><\/li><\/ul><p>1 hour - $250<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--16752021111009__b9f709ae-3175-4a88-8757-a05f74ecf9c0-1678229958304e0ad3-1",
+        "template--16752021111009__b9f709ae-3175-4a88-8757-a05f74ecf9c0-1678229958304e0ad3-0"
+      ],
+      "disabled": true,
+      "settings": {
+        "title": "Talk to Mike about Posture",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 2,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "Talk to Mike!",
+        "button_link": "https:\/\/calendly.com\/postureguymike\/1-on-1-with-posture-guy-mike?month=2023-03",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 72,
+        "padding_bottom": 72
+      }
+    },
+    "85c43fb5-fe9e-4ee0-8a14-c651654f8a05": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--16752021111009__85c43fb5-fe9e-4ee0-8a14-c651654f8a05-1678910200aa432bb2-0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/IMG_20230315_125300.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--16752021111009__85c43fb5-fe9e-4ee0-8a14-c651654f8a05-1678910200aa432bb2-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/IMG_20230315_130325.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--16752021111009__85c43fb5-fe9e-4ee0-8a14-c651654f8a05-1678910200aa432bb2-2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/IMG_20230315_125255.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--16752021111009__85c43fb5-fe9e-4ee0-8a14-c651654f8a05-1678910200aa432bb2-0",
+        "template--16752021111009__85c43fb5-fe9e-4ee0-8a14-c651654f8a05-1678910200aa432bb2-1",
+        "template--16752021111009__85c43fb5-fe9e-4ee0-8a14-c651654f8a05-1678910200aa432bb2-2"
+      ],
+      "disabled": true,
+      "settings": {
+        "title": "Recent Wins from Posture Coaching Clients",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "7121bcc2-1c9f-4ebb-83b6-8135330b2c1a": {
+      "type": "collapsible-content",
+      "blocks": {
+        "template--16752021111009__7121bcc2-1c9f-4ebb-83b6-8135330b2c1a-1678229781640e0167-0": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "What is good posture",
+            "icon": "question_mark",
+            "row_content": "<p>Good posture is a position where the joints in the body, including the shoulders, hips, knees, and ankles, are correctly aligned. A healthy \"neutral\" spine, shaped like an \"S\" curve, allows for a full range of motion. However, many people's spines have <a href=\"https:\/\/www.postureguymike.com\/blogs\/postural-therapy\/misaligned-spine-the-cause-of-back-pain\" title=\"https:\/\/www.postureguymike.com\/blogs\/postural-therapy\/misaligned-spine-the-cause-of-back-pain\">taken on a \"C\" curve shape<\/a>...<\/p>",
+            "page": ""
+          }
+        },
+        "template--16752021111009__7121bcc2-1c9f-4ebb-83b6-8135330b2c1a-1678229781640e0167-1": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Why is good posture important?",
+            "icon": "question_mark",
+            "row_content": "<p>Good posture is crucial for maintaining a healthy body and mind. It helps reduce strain on muscles and joints, preventing musculoskeletal problems such as chronic pain and injury. <\/p>",
+            "page": ""
+          }
+        },
+        "template--16752021111009__7121bcc2-1c9f-4ebb-83b6-8135330b2c1a-1678229781640e0167-2": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "How can I improve my posture?",
+            "icon": "question_mark",
+            "row_content": "<p>You can improve your posture by targeting the postural muscles to move your body back into alignment. When performing our exercises daily, over time the postural muscles will develop the strength to hold your body in correct alignment for longer periods of time.<\/p>",
+            "page": ""
+          }
+        },
+        "template--16752021111009__7121bcc2-1c9f-4ebb-83b6-8135330b2c1a-1678229781640e0167-3": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Can poor posture cause health problems?",
+            "icon": "question_mark",
+            "row_content": "<p>Yes, poor posture can lead to a variety of health problems, including back pain, neck pain, headaches, and even digestive problems. It can also make you more susceptible to injuries and can affect your balance and coordination.<\/p>",
+            "page": ""
+          }
+        },
+        "cf1774e3-5ef3-4bc5-95e6-42c124cb2181": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Should I wear a posture brace?",
+            "icon": "question_mark",
+            "row_content": "<p>While posture braces may seem like a quick fix for poor posture, they are generally not effective in the long run. Wearing a posture brace may provide some temporary support and feedback, but it does not address the underlying muscular imbalances that contribute to poor posture.<\/p><p><\/p>",
+            "page": ""
+          }
+        },
+        "2b73ae70-4ec0-45f5-bb49-09242ece96f9": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "How can I tell if my posture is good or bad?",
+            "icon": "question_mark",
+            "row_content": "<p>One way to assess posture is to look at the alignment of the head, neck, and spine. The hips, knees, and ankles should be aligned vertically, with the feet pointing straight ahead. <\/p>",
+            "page": ""
+          }
+        },
+        "b840daff-04d0-4ced-8ea3-9bc762803603": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Do you recommend a chiropractor?",
+            "icon": "question_mark",
+            "row_content": "<p>Chiropractors can provide temporary relief from pain or discomfort. Posture therapy, on the other hand, addresses the underlying muscle imbalances that contribute to poor posture and misalignments. <\/p>",
+            "page": ""
+          }
+        },
+        "55bec82a-354c-4656-a198-ff19c0c2a1d9": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Do I need ergonomic furniture to improve my posture?",
+            "icon": "question_mark",
+            "row_content": "<p>Correcting your posture through ergonomic furniture alone is not a comprehensive solution. While it may provide temporary relief, it does not address the underlying muscle imbalances that contribute to poor posture. <\/p>",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--16752021111009__7121bcc2-1c9f-4ebb-83b6-8135330b2c1a-1678229781640e0167-0",
+        "template--16752021111009__7121bcc2-1c9f-4ebb-83b6-8135330b2c1a-1678229781640e0167-1",
+        "template--16752021111009__7121bcc2-1c9f-4ebb-83b6-8135330b2c1a-1678229781640e0167-2",
+        "template--16752021111009__7121bcc2-1c9f-4ebb-83b6-8135330b2c1a-1678229781640e0167-3",
+        "cf1774e3-5ef3-4bc5-95e6-42c124cb2181",
+        "2b73ae70-4ec0-45f5-bb49-09242ece96f9",
+        "b840daff-04d0-4ced-8ea3-9bc762803603",
+        "55bec82a-354c-4656-a198-ff19c0c2a1d9"
+      ],
+      "settings": {
+        "caption": "",
+        "heading": "Posture FAQs",
+        "heading_size": "h1",
+        "heading_alignment": "left",
+        "layout": "none",
+        "color_scheme": "inverse",
+        "container_color_scheme": "accent-1",
+        "open_first_collapsible_row": false,
+        "image_ratio": "adapt",
+        "desktop_layout": "image_second",
+        "padding_top": 72,
+        "padding_bottom": 72
+      }
+    }
+  },
+  "order": [
+    "e57b1c77-b577-415e-ad5d-3db6e989e1a7",
+    "rich_text",
+    "f1eaaff4-260a-40e9-b9a7-3f9de683ea5e",
+    "featured_collection",
+    "image_banner",
+    "19949a06-826b-448c-95da-d500f8e5f140",
+    "9a15741b-d522-4a1a-a0e9-81aabd55fc60",
+    "0a691a46-f491-40cf-86bb-6f576e252d8e",
+    "79803dad-ce34-49f5-87e3-bad581e19bb7",
+    "b9f709ae-3175-4a88-8757-a05f74ecf9c0",
+    "85c43fb5-fe9e-4ee0-8a14-c651654f8a05",
+    "7121bcc2-1c9f-4ebb-83b6-8135330b2c1a"
+  ]
+}
