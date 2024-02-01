@@ -6,22 +6,22 @@
         "template--16752021111009__e57b1c77-b577-415e-ad5d-3db6e989e1a7-167823501544482f7a-0": {
           "type": "heading",
           "settings": {
-            "heading": "Posture Coaching",
+            "heading": "The Posture Membership Sale",
             "heading_size": "h1"
           }
         },
-        "template--16752021111009__e57b1c77-b577-415e-ad5d-3db6e989e1a7-167823501544482f7a-1": {
+        "43a2ebc6-0367-438c-8254-b5a873067084": {
           "type": "text",
           "settings": {
-            "text": "We offer personalized coaching sessions to improve posture and prevent chronic pain and injury.",
+            "text": "Holiday Sale, Save over $280",
             "text_style": "body"
           }
         },
         "template--16752021111009__e57b1c77-b577-415e-ad5d-3db6e989e1a7-167823501544482f7a-2": {
           "type": "buttons",
           "settings": {
-            "button_label_1": "Apply Today!",
-            "button_link_1": "https:\/\/posturestrongcoaching.com\/",
+            "button_label_1": "Get Started",
+            "button_link_1": "https:\/\/www.postureguymike.com\/pages\/postureprogram",
             "button_style_secondary_1": false,
             "button_label_2": "",
             "button_link_2": "",
@@ -31,13 +31,13 @@
       },
       "block_order": [
         "template--16752021111009__e57b1c77-b577-415e-ad5d-3db6e989e1a7-167823501544482f7a-0",
-        "template--16752021111009__e57b1c77-b577-415e-ad5d-3db6e989e1a7-167823501544482f7a-1",
+        "43a2ebc6-0367-438c-8254-b5a873067084",
         "template--16752021111009__e57b1c77-b577-415e-ad5d-3db6e989e1a7-167823501544482f7a-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/mike-coaching.jpg",
-        "image_overlay_opacity": 40,
-        "image_height": "large",
+        "image": "shopify:\/\/shop_images\/posture_app_demo_image_1080_x_720_px.png",
+        "image_overlay_opacity": 50,
+        "image_height": "medium",
         "desktop_content_position": "middle-left",
         "show_text_box": false,
         "desktop_content_alignment": "left",
@@ -237,7 +237,6 @@
     },
     "9a15741b-d522-4a1a-a0e9-81aabd55fc60": {
       "type": "multicolumn",
-      "disabled": true,
       "blocks": {
         "template--16752021111009__9a15741b-d522-4a1a-a0e9-81aabd55fc60-16789091084f45e1be-0": {
           "type": "column",
@@ -282,6 +281,7 @@
         "template--16752021111009__9a15741b-d522-4a1a-a0e9-81aabd55fc60-16789091084f45e1be-2",
         "b7a6dbf3-849b-4686-a651-7c859c1ea373"
       ],
+      "disabled": true,
       "settings": {
         "title": "What People Are Saying",
         "heading_size": "h1",
@@ -348,7 +348,6 @@
     },
     "b9f709ae-3175-4a88-8757-a05f74ecf9c0": {
       "type": "multicolumn",
-      "disabled": true,
       "blocks": {
         "template--16752021111009__b9f709ae-3175-4a88-8757-a05f74ecf9c0-1678229958304e0ad3-1": {
           "type": "column",
@@ -374,6 +373,7 @@
         "template--16752021111009__b9f709ae-3175-4a88-8757-a05f74ecf9c0-1678229958304e0ad3-1",
         "template--16752021111009__b9f709ae-3175-4a88-8757-a05f74ecf9c0-1678229958304e0ad3-0"
       ],
+      "disabled": true,
       "settings": {
         "title": "Talk to Mike about Posture",
         "heading_size": "h1",
@@ -393,7 +393,6 @@
     },
     "85c43fb5-fe9e-4ee0-8a14-c651654f8a05": {
       "type": "multicolumn",
-      "disabled": true,
       "blocks": {
         "template--16752021111009__85c43fb5-fe9e-4ee0-8a14-c651654f8a05-1678910200aa432bb2-0": {
           "type": "column",
@@ -431,6 +430,7 @@
         "template--16752021111009__85c43fb5-fe9e-4ee0-8a14-c651654f8a05-1678910200aa432bb2-1",
         "template--16752021111009__85c43fb5-fe9e-4ee0-8a14-c651654f8a05-1678910200aa432bb2-2"
       ],
+      "disabled": true,
       "settings": {
         "title": "Recent Wins from Posture Coaching Clients",
         "heading_size": "h1",
@@ -446,34 +446,6 @@
         "swipe_on_mobile": true,
         "padding_top": 36,
         "padding_bottom": 36
-      }
-    },
-    "e2e9a1e2-68f1-40ff-bae3-caab148ed73c": {
-      "type": "featured-collection",
-      "settings": {
-        "title": "Posture Merch",
-        "heading_size": "h1",
-        "description": "<p>Unleash your unique style with our new merch!<\/p>",
-        "show_description": false,
-        "description_style": "body",
-        "collection": "clothing",
-        "collection-url": "shopify:\/\/collections\/clothing",
-        "products_to_show": 7,
-        "columns_desktop": 4,
-        "full_width": false,
-        "show_view_all": true,
-        "view_all_style": "solid",
-        "enable_desktop_slider": true,
-        "color_scheme": "background-2",
-        "image_ratio": "adapt",
-        "show_secondary_image": false,
-        "show_vendor": false,
-        "show_rating": false,
-        "enable_quick_add": false,
-        "columns_mobile": "2",
-        "swipe_on_mobile": true,
-        "padding_top": 72,
-        "padding_bottom": 72
       }
     },
     "7121bcc2-1c9f-4ebb-83b6-8135330b2c1a": {
@@ -590,7 +562,6 @@
     "79803dad-ce34-49f5-87e3-bad581e19bb7",
     "b9f709ae-3175-4a88-8757-a05f74ecf9c0",
     "85c43fb5-fe9e-4ee0-8a14-c651654f8a05",
-    "e2e9a1e2-68f1-40ff-bae3-caab148ed73c",
     "7121bcc2-1c9f-4ebb-83b6-8135330b2c1a"
   ]
 }
