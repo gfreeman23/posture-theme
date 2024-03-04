@@ -267,6 +267,13 @@
         "disabled": false,
         "settings": {
         }
+      },
+      "8232999584494105511": {
+        "type": "shopify:\/\/apps\/drip-email-marketing-popup\/blocks\/drip_shopify_snippet\/0c4de56d-b2fa-4621-acea-6293bc16aba8",
+        "disabled": false,
+        "settings": {
+          "account_param": ""
+        }
       }
     }
   },
