@@ -1,12 +1,21 @@
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin theme editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
 {
   "sections": {
-    "1717648639uxcak6jf": {
+    "1721502769g152nehq": {
       "type": "gem-page-default-index",
       "settings": {
       }
     }
   },
   "order": [
-    "1717648639uxcak6jf"
+    "1721502769g152nehq"
   ]
 }
