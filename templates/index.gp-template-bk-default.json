@@ -1,21 +1,21 @@
 /*
-* ------------------------------------------------------------
-* IMPORTANT: The contents of this file are auto-generated.
-*
-* This file may be updated by the Shopify admin theme editor
-* or related systems. Please exercise caution as any changes
-* made to this file may be overwritten.
-* ------------------------------------------------------------
-*/
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
-  "sections": {
-    "1721959872myehzipc": {
-      "type": "gem-page-default-index",
-      "settings": {
-      }
-    }
-  },
   "order": [
-    "1721959872myehzipc"
-  ]
+    "1724258007q97crjxb"
+  ],
+  "sections": {
+    "1724258007q97crjxb": {
+      "settings": {
+      },
+      "type": "gem-page-default-index"
+    }
+  }
 }

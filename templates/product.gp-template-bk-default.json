@@ -1,45 +1,41 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
+  "order": [
+    "main",
+    "multicolumn",
+    "16783217873dcd16ed",
+    "related-products"
+  ],
   "sections": {
+    "16783217873dcd16ed": {
+      "type": "apps",
+      "blocks": {
+        "ee6f2b98-c7f2-432a-9eb5-94a6e7dea948": {
+          "type": "shopify://apps/judge-me-reviews/blocks/review_widget/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "ee6f2b98-c7f2-432a-9eb5-94a6e7dea948"
+      ],
+      "settings": {
+        "include_margins": true
+      }
+    },
     "main": {
       "type": "main-product",
       "blocks": {
-        "vendor": {
-          "type": "text",
-          "settings": {
-            "text": "{{ product.vendor }}",
-            "text_style": "uppercase"
-          }
-        },
-        "title": {
-          "type": "title",
-          "settings": {
-          }
-        },
         "6cce3f10-1a55-43aa-aa90-cd05c5619d07": {
-          "type": "shopify:\/\/apps\/judge-me-reviews\/blocks\/preview_badge\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
-          "settings": {
-          }
-        },
-        "caption": {
-          "type": "text",
-          "settings": {
-            "text": "{{ product.metafields.descriptors.subtitle.value }}",
-            "text_style": "subtitle"
-          }
-        },
-        "price": {
-          "type": "price",
-          "settings": {
-          }
-        },
-        "variant_picker": {
-          "type": "variant_picker",
-          "settings": {
-            "picker_type": "button"
-          }
-        },
-        "quantity_selector": {
-          "type": "quantity_selector",
+          "type": "shopify://apps/judge-me-reviews/blocks/preview_badge/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
           "settings": {
           }
         },
@@ -49,9 +45,44 @@
             "show_dynamic_checkout": false
           }
         },
+        "caption": {
+          "type": "text",
+          "settings": {
+            "text": "{{ product.metafields.descriptors.subtitle.value }}",
+            "text_style": "subtitle"
+          }
+        },
         "description": {
           "type": "description",
           "settings": {
+          }
+        },
+        "price": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "quantity_selector": {
+          "type": "quantity_selector",
+          "settings": {
+          }
+        },
+        "title": {
+          "type": "title",
+          "settings": {
+          }
+        },
+        "variant_picker": {
+          "type": "variant_picker",
+          "settings": {
+            "picker_type": "button"
+          }
+        },
+        "vendor": {
+          "type": "text",
+          "settings": {
+            "text": "{{ product.vendor }}",
+            "text_style": "uppercase"
           }
         }
       },
@@ -88,7 +119,7 @@
           "type": "column",
           "settings": {
             "title": "Free Shipping",
-            "text": "<p>All orders within the USA ship for free.<\/p>",
+            "text": "<p>All orders within the USA ship for free.</p>",
             "link_label": "",
             "link": ""
           }
@@ -97,7 +128,7 @@
           "type": "column",
           "settings": {
             "title": "Hassle-Free Exchanges",
-            "text": "<p>Not happy with your purchase?  Simply send us an email so we can setup an exchange or refund.<\/p>",
+            "text": "<p>Not happy with your purchase?  Simply send us an email so we can setup an exchange or refund.</p>",
             "link_label": "",
             "link": ""
           }
@@ -124,22 +155,6 @@
         "padding_bottom": 36
       }
     },
-    "16783217873dcd16ed": {
-      "type": "apps",
-      "blocks": {
-        "ee6f2b98-c7f2-432a-9eb5-94a6e7dea948": {
-          "type": "shopify:\/\/apps\/judge-me-reviews\/blocks\/review_widget\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
-          "settings": {
-          }
-        }
-      },
-      "block_order": [
-        "ee6f2b98-c7f2-432a-9eb5-94a6e7dea948"
-      ],
-      "settings": {
-        "include_margins": true
-      }
-    },
     "related-products": {
       "type": "related-products",
       "settings": {
@@ -157,11 +172,5 @@
         "padding_bottom": 72
       }
     }
-  },
-  "order": [
-    "main",
-    "multicolumn",
-    "16783217873dcd16ed",
-    "related-products"
-  ]
+  }
 }
