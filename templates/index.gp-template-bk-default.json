@@ -8,14 +8,14 @@
  * ------------------------------------------------------------
  */
 {
-  "order": [
-    "1724258007q97crjxb"
-  ],
   "sections": {
-    "1724258007q97crjxb": {
+    "1729828452zcquqw2n": {
+      "type": "gem-page-default-index",
       "settings": {
-      },
-      "type": "gem-page-default-index"
+      }
     }
-  }
+  },
+  "order": [
+    "1729828452zcquqw2n"
+  ]
 }
