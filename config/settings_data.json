@@ -1,17 +1,17 @@
 /*
-* ------------------------------------------------------------
-* IMPORTANT: The contents of this file are auto-generated.
-*
-* This file may be updated by the Shopify admin theme editor
-* or related systems. Please exercise caution as any changes
-* made to this file may be overwritten.
-* ------------------------------------------------------------
-*/
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "current": {
-    "logo": "shopify:\/\/shop_images\/Posture_Guy_Mike_Black-Blue_Vector.png",
+    "logo": "shopify://shop_images/Posture_Guy_Mike_Black-Blue_Vector.png",
     "logo_width": 180,
-    "favicon": "shopify:\/\/shop_images\/new_logo_copy_2303af8c-66da-4746-8888-9f70547183d6.png",
+    "favicon": "shopify://shop_images/new_logo_copy_2303af8c-66da-4746-8888-9f70547183d6.png",
     "colors_solid_button_labels": "#ffffff",
     "colors_accent_1": "#dd1d1d",
     "gradient_accent_1": "",
@@ -117,10 +117,10 @@
     "sale_badge_color_scheme": "background-2",
     "sold_out_badge_color_scheme": "inverse",
     "accent_icons": "text",
-    "social_facebook_link": "https:\/\/www.facebook.com\/postureguymike\/",
-    "social_instagram_link": "https:\/\/www.instagram.com\/postureguymike\/",
-    "social_youtube_link": "https:\/\/www.youtube.com\/channel\/UC-v_L9k79f2_RYej34j3knQ",
-    "social_tiktok_link": "https:\/\/www.tiktok.com\/@postureguy?lang=en",
+    "social_facebook_link": "https://www.facebook.com/postureguymike/",
+    "social_instagram_link": "https://www.instagram.com/postureguymike/",
+    "social_youtube_link": "https://www.youtube.com/channel/UC-v_L9k79f2_RYej34j3knQ",
+    "social_tiktok_link": "https://www.tiktok.com/@postureguy?lang=en",
     "social_twitter_link": "",
     "social_snapchat_link": "",
     "social_pinterest_link": "",
@@ -134,7 +134,7 @@
     "show_vendor": false,
     "show_cart_note": false,
     "cart_drawer_collection": "",
-    "checkout_logo_image": "shopify:\/\/shop_images\/1536x512-google-banner-jpeg.jpg",
+    "checkout_logo_image": "shopify://shop_images/1536x512-google-banner-jpeg.jpg",
     "checkout_body_background_color": "#ffffff",
     "checkout_input_background_color_mode": "white",
     "checkout_sidebar_background_color": "#f3f3f3",
@@ -159,41 +159,41 @@
           "99772e12-9c3d-4a0a-9a62-776c1a12da7f": {
             "type": "column",
             "settings": {
-              "image": "shopify:\/\/shop_images\/facebook-social-media-icon-design-template-vector-22339895.png",
+              "image": "shopify://shop_images/facebook-social-media-icon-design-template-vector-22339895.png",
               "title": "Facebook",
-              "text": "<p>980K followers<\/p>",
+              "text": "<p>400k followers</p>",
               "link_label": "",
-              "link": "https:\/\/www.facebook.com\/postureguymike\/"
+              "link": "https://www.facebook.com/postureguymike/"
             }
           },
           "9146976e-bd0c-4203-86f6-e41b0a2c2ee3": {
             "type": "column",
             "settings": {
-              "image": "shopify:\/\/shop_images\/icon-ig_ca82e0cb-20e1-4765-b7ca-f5eb42726e5a.png",
+              "image": "shopify://shop_images/icon-ig_ca82e0cb-20e1-4765-b7ca-f5eb42726e5a.png",
               "title": "Instagram",
-              "text": "<p>905K followers<\/p>",
+              "text": "<p>1.2m followers</p>",
               "link_label": "",
-              "link": "https:\/\/www.instagram.com\/postureguymike\/"
+              "link": "https://www.instagram.com/postureguymike/"
             }
           },
           "5d593f96-aeef-461a-b0d6-bf06f3e9c1af": {
             "type": "column",
             "settings": {
-              "image": "shopify:\/\/shop_images\/icon-tok_8652b6c7-d1bc-435d-9149-e530573a52cf.png",
+              "image": "shopify://shop_images/icon-tok_8652b6c7-d1bc-435d-9149-e530573a52cf.png",
               "title": "TikTok",
-              "text": "<p>495K followers<\/p>",
+              "text": "<p>527K followers</p>",
               "link_label": "",
-              "link": "https:\/\/www.tiktok.com\/@postureguy?lang=en"
+              "link": "https://www.tiktok.com/@postureguy?lang=en"
             }
           },
           "48ea47a2-5d92-4f28-8875-959059cbe464": {
             "type": "column",
             "settings": {
-              "image": "shopify:\/\/shop_images\/icon-yt_3ce89a1a-433f-4965-94ac-1e97a75fd738.png",
+              "image": "shopify://shop_images/icon-yt_3ce89a1a-433f-4965-94ac-1e97a75fd738.png",
               "title": "YouTube",
-              "text": "<p>23K followers<\/p>",
+              "text": "<p>171K followers</p>",
               "link_label": "",
-              "link": "https:\/\/www.youtube.com\/channel\/UC-v_L9k79f2_RYej34j3knQ"
+              "link": "https://www.youtube.com/channel/UC-v_L9k79f2_RYej34j3knQ"
             }
           }
         },
@@ -212,55 +212,47 @@
         }
       }
     },
-    "content_for_index": [
-
-    ],
+    "content_for_index": [],
     "blocks": {
       "855628211100114053": {
-        "type": "shopify:\/\/apps\/klaviyo-email-marketing-sms\/blocks\/klaviyo-onsite-embed\/2632fe16-c075-4321-a88b-50b567f42507",
+        "type": "shopify://apps/klaviyo-email-marketing-sms/blocks/klaviyo-onsite-embed/2632fe16-c075-4321-a88b-50b567f42507",
         "disabled": false,
-        "settings": {
-        }
+        "settings": {}
       },
       "12120936241911852800": {
-        "type": "shopify:\/\/apps\/judge-me-product-reviews\/blocks\/reviews_tab\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+        "type": "shopify://apps/judge-me-product-reviews/blocks/reviews_tab/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
         "disabled": true,
         "settings": {
           "position": "right"
         }
       },
       "14060646107696862457": {
-        "type": "shopify:\/\/apps\/judge-me-product-reviews\/blocks\/judgeme_core\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+        "type": "shopify://apps/judge-me-product-reviews/blocks/judgeme_core/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
         "disabled": false,
-        "settings": {
-        }
+        "settings": {}
       },
       "9468172321995857178": {
-        "type": "shopify:\/\/apps\/qikify-upsell-bundle\/blocks\/app-embed\/2e94b962-8172-4839-8ad9-7837eb8b017a",
+        "type": "shopify://apps/qikify-upsell-bundle/blocks/app-embed/2e94b962-8172-4839-8ad9-7837eb8b017a",
         "disabled": false,
-        "settings": {
-        }
+        "settings": {}
       },
       "319724205969189013": {
-        "type": "shopify:\/\/apps\/hulk-form-builder\/blocks\/app-embed\/b6b8dd14-356b-4725-a4ed-77232212b3c3",
+        "type": "shopify://apps/hulk-form-builder/blocks/app-embed/b6b8dd14-356b-4725-a4ed-77232212b3c3",
         "disabled": false,
-        "settings": {
-        }
+        "settings": {}
       },
       "5605512628948384502": {
-        "type": "shopify:\/\/apps\/bundles-upsell-pickystory\/blocks\/customer-info\/f54ff67e-3f69-4df2-845e-7476ce633252",
+        "type": "shopify://apps/bundles-upsell-pickystory/blocks/customer-info/f54ff67e-3f69-4df2-845e-7476ce633252",
         "disabled": false,
-        "settings": {
-        }
+        "settings": {}
       },
       "6478312753674380289": {
-        "type": "shopify:\/\/apps\/gempages-builder\/blocks\/embed-gp-script-head\/20b379d4-1b20-474c-a6ca-665c331919f3",
+        "type": "shopify://apps/gempages-builder/blocks/embed-gp-script-head/20b379d4-1b20-474c-a6ca-665c331919f3",
         "disabled": false,
-        "settings": {
-        }
+        "settings": {}
       },
       "8232999584494105511": {
-        "type": "shopify:\/\/apps\/drip-email-marketing-popup\/blocks\/drip_shopify_snippet\/0c4de56d-b2fa-4621-acea-6293bc16aba8",
+        "type": "shopify://apps/drip-email-marketing-popup/blocks/drip_shopify_snippet/0c4de56d-b2fa-4621-acea-6293bc16aba8",
         "disabled": false,
         "settings": {
           "account_param": "1036436"
